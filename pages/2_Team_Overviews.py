@@ -1711,13 +1711,7 @@ for player_name in season_roster_names:
             action_photo_urls.append(url)
 
 if action_photo_urls:
-    st.subheader("Team Action")
-    st.markdown(
-        "<div style='color:#6f6f6f; font-size:0.9rem; margin-bottom: 12px;'>"
-    "A quick visual of the team's energy and identity."
-        "</div>",
-        unsafe_allow_html=True,
-    )
+    st.subheader("Team Action Shots")
     random.shuffle(action_photo_urls)
     hero_photos = action_photo_urls[:6]
     slide_seconds = 4
@@ -1760,7 +1754,7 @@ st.markdown(
     Use the buttons below to travel to the corresponding page!
     """
 )
-nan1, left, nan3, right, nan2 = st.columns([0.25, 2, 0.5, 2, 0.25])
+nan1, left, mid, right, nan2 = st.columns([0.25, 2, 2, 2, 0.25])
 with left:
     if st.button("Home", width="stretch"):
         st.switch_page("Home.py")
@@ -1772,13 +1766,24 @@ with left:
         """,
         unsafe_allow_html=True,
     )
-with right:
+with mid:
     if st.button("Player Dashboards", width="stretch"):
         st.switch_page("pages/3_Player_Dashboards.py")
     st.markdown(
         """
         <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
             Explore the information and statistics on each player who's ever been on the Illinois roster.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
+with right:
+    if st.button("Recruiting & Geography", width="stretch"):
+        st.switch_page("pages/4_Recruiting_Geography.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Track where Illini talent comes from and how recruiting pipelines evolve.
         </p>
         """,
         unsafe_allow_html=True,

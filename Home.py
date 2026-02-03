@@ -755,20 +755,37 @@ st.markdown("""
             There are multiple ways to dive into the statistics behind the **Illini Men's Basketball Team**. 
             Use the buttons below to travel to the corresponding page!
             """)
-nan1, left, nan3, right, nan2 = st.columns([0.25, 2, 0.5, 2, 0.25])
+nan1, left, mid, right, nan2 = st.columns([0.25, 2, 2, 2, 0.25])
 with left:
     if st.button("Team Overviews", width="stretch"):
         st.switch_page("pages/2_Team_Overviews.py")
-    st.markdown(f"""
-            <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
-                Explore the statistics surrounding a specific season.
-            </p>
-           """, unsafe_allow_html=True)
-with right:
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Explore the statistics surrounding a specific season.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
+with mid:
     if st.button("Player Dashboards", width="stretch"):
-        st.switch_page("pages/3_Player_Dashbords.py")
-    st.markdown(f"""
-            <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
-                Explore the information and statistics on each player whos ever been on the Illinois roster.
-            </p>
-           """, unsafe_allow_html=True)
+        st.switch_page("pages/3_Player_Dashboards.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Explore the information and statistics on each player who's ever been on the Illinois roster.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
+with right:
+    if st.button("Recruiting & Geography", width="stretch"):
+        st.switch_page("pages/4_Recruiting_Geography.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Track where Illini talent comes from and how recruiting pipelines evolve.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )

@@ -1241,7 +1241,7 @@ st.markdown(
     Use the buttons below to travel to the corresponding page!
     """
 )
-nan1, left, nan3, right, nan2 = st.columns([0.25, 2, 0.5, 2, 0.25])
+nan1, left, mid, right, nan2 = st.columns([0.25, 2, 2, 2, 0.25])
 with left:
     if st.button("Home", width="stretch"):
         st.switch_page("Home.py")
@@ -1253,13 +1253,24 @@ with left:
         """,
         unsafe_allow_html=True,
     )
-with right:
+with mid:
     if st.button("Team Overviews", width="stretch"):
         st.switch_page("pages/2_Team_Overviews.py")
     st.markdown(
         """
         <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
             Explore the statistics surrounding a specific season.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
+with right:
+    if st.button("Recruiting & Geography", width="stretch"):
+        st.switch_page("pages/4_Recruiting_Geography.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Track where Illini talent comes from and how recruiting pipelines evolve.
         </p>
         """,
         unsafe_allow_html=True,
