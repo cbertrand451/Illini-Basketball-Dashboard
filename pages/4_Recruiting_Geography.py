@@ -61,6 +61,47 @@ st.markdown(
         font-size: 0.85rem;
         margin-top: -6px;
     }
+    .sidebar-overview {
+        border-radius: 16px;
+        padding: 16px 18px;
+        background: rgba(19, 41, 75, 0.06);
+        border: 1px solid rgba(19, 41, 75, 0.12);
+    }
+    .sidebar-title {
+        font-size: 0.8rem;
+        color: #6f6f6f;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        font-weight: 700;
+        margin-bottom: 6px;
+    }
+    .sidebar-headline {
+        font-size: 1.2rem;
+        font-weight: 800;
+        margin: 0 0 10px 0;
+    }
+    .sidebar-overview h4 {
+        margin: 8px 0 8px 0;
+        font-size: 1.02rem;
+        letter-spacing: 0.02em;
+        color: #1b1b1b;
+    }
+    .sidebar-section-list {
+        margin: 0;
+        padding-left: 18px;
+        color: #1f1f1f;
+        font-size: 0.92rem;
+        line-height: 1.6;
+    }
+    .sidebar-section-list li {
+        margin-bottom: 6px;
+    }
+    .sidebar-subtext {
+        font-size: 0.9rem;
+        color: #2b2b2b;
+        margin: 6px 0 10px 0;
+        line-height: 1.5;
+    }
     </style>
     """,
     unsafe_allow_html=True,
@@ -439,6 +480,28 @@ base_df["Class"] = base_df["Class"].replace(
 base_df["Position"] = base_df["Position"].replace(
     {"": "Unknown", "None": "Unknown", "nan": "Unknown"}
 )
+
+with st.sidebar:
+    st.markdown(
+        f"""
+        <div class="sidebar-overview">
+            <div class="sidebar-title">Recruiting & Geography</div>
+            <div class="sidebar-headline" style="color:{PRIMARY};">Pipeline Snapshot</div>
+            <div class="sidebar-subtext">
+                Explore where Illini talent comes from and how the recruiting footprint evolves.
+            </div>
+            <h4>What you'll find</h4>
+            <ul class="sidebar-section-list">
+                <li>Roster source map with clustering + minutes scaling</li>
+                <li>State and country pipeline breakdowns</li>
+                <li>Distance-from-Champaign context</li>
+                <li>Season-by-season pipeline shifts</li>
+                <li>Missing geocode audit list</li>
+            </ul>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 controls_left, controls_right = st.columns([1.2, 2.8])
 with controls_left:
@@ -923,3 +986,45 @@ flag_mismatch = map_df[
 ]
 if not flag_mismatch.empty:
     st.warning("Some rows have inconsistent geographic flags (international vs US).")
+
+st.subheader("Explore More Pages!")
+st.markdown(
+    """
+    There are multiple ways to dive into the statistics behind the **Illini Men's Basketball Team**.
+    Use the buttons below to travel to the corresponding page!
+    """
+)
+nan1, left, mid, right, nan2 = st.columns([0.25, 2, 2, 2, 0.25])
+with left:
+    if st.button("Home", width="stretch"):
+        st.switch_page("Home.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Return to the dashboard landing page.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
+with mid:
+    if st.button("Team Overviews", width="stretch"):
+        st.switch_page("pages/2_Team_Overviews.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Explore the statistics surrounding a specific season.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
+with right:
+    if st.button("Player Dashboards", width="stretch"):
+        st.switch_page("pages/3_Player_Dashboards.py")
+    st.markdown(
+        """
+        <p style="text-align:center; font-size:0.9rem; color:#6b6b6b;">
+            Explore the information and statistics on each player who's ever been on the Illinois roster.
+        </p>
+        """,
+        unsafe_allow_html=True,
+    )
