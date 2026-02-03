@@ -1,8 +1,8 @@
-﻿# Illini Basketball Dashboard
+# Illini Basketball Dashboard
 ![](data/images/mbb_banner.webp)
 
 ## Project Link
-Streamlit Dashboard: [illini-basketball.streamlit.app](illini-basketball.streamlit.app)
+Streamlit Dashboard: [illini-basketball.streamlit.app](https://illini-basketball.streamlit.app)
 ## Project summary
 This project is a Streamlit-based analytical dashboard for exploring the history, performance, and player-level detail of the Illinois Men's Basketball program. It is designed for quick exploration and deeper analysis, combining season-level results, player statistics, program achievements, and recruiting geography into one cohesive interface. The tone is intentionally accessible: it should feel like a data notebook that is happy to show its work.
 
