@@ -12,6 +12,7 @@ from utils.data import history_csvs, load_css, image_to_data_uri
 st.set_page_config(page_title="Illini Mens Basketball Dashboard", 
                    layout="wide")
 
+st.title("Home")
 
 # load data
 with open("data/processed/player_list.json", "r") as f:
