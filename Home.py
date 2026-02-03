@@ -16,6 +16,11 @@ st.set_page_config(page_title="Illini Mens Basketball Dashboard",
 with open("data/processed/player_list.json", "r") as f:
     player_list_data = json.load(f)
 
+st.markdown(
+    "<div style='margin-bottom:0.1rem;color:#f4f4f4;'>Illini Men's Basketball Dashboard</div>",
+    unsafe_allow_html=True
+)
+
 THEME_COLORS = load_theme_colors()
 PRIMARY = THEME_COLORS['primary']
 SECONDARY = THEME_COLORS['secondary']
