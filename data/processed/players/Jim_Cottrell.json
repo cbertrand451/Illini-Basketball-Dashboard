@@ -1,0 +1,28 @@
+{
+  "name": "Jim Cottrell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-cottrell/5749",
+  "seasons": [
+    "1948-49",
+    "1949-50"
+  ],
+  "header": {
+    "Jersey Number": "6",
+    "First Name": "Jim",
+    "Last Name": "Cottrell",
+    "Full Name": "Jim Cottrell",
+    "Ht./Wt.": "5-10 / 165",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Champaign",
+    "Height": "5-10",
+    "Weight": "165",
+    "Height Inches": 70
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

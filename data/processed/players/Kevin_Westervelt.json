@@ -1,0 +1,28 @@
+{
+  "name": "Kevin Westervelt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kevin-westervelt/5255",
+  "seasons": [
+    "1978-79",
+    "1979-80"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Kevin",
+    "Last Name": "Westervelt",
+    "Full Name": "Kevin Westervelt",
+    "Ht./Wt.": "6-1 / 165",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Richwoods",
+    "Height": "6-1",
+    "Weight": "165",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

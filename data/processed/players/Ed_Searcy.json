@@ -1,0 +1,28 @@
+{
+  "name": "Ed Searcy",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ed-searcy/5578",
+  "seasons": [
+    "1959-60",
+    "1960-61"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Ed",
+    "Last Name": "Searcy",
+    "Full Name": "Ed Searcy",
+    "Ht./Wt.": "6-5 / 185",
+    "Position": "F",
+    "Hometown": "Indianapolis, Ind.",
+    "High School": "Attucks",
+    "Height": "6-5",
+    "Weight": "185",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Indianapolis, Ind.",
+    "lat": 39.7683331,
+    "lon": -86.1583502,
+    "is_illinois": false
+  }
+}

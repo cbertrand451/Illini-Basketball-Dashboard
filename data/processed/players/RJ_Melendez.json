@@ -1,0 +1,65 @@
+{
+  "name": "RJ Melendez",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rj-melendez/12270",
+  "seasons": [
+    "2021-22",
+    "2022-23"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "RJ",
+    "Last Name": "Melendez",
+    "Full Name": "RJ Melendez",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2022/10/11/15-Melendez_RJ_mBq50.jpg?width=300",
+    "Twitter URL": "https://twitter.com/MelendezRamses",
+    "Instagram URL": "https://www.instagram.com/rj_melendez",
+    "NIL URL": "https://opndr.se/rj-melendez",
+    "Ht./Wt.": "6-7 / 205",
+    "Position": "G",
+    "Hometown": "Arecibo, Puerto Rico",
+    "High School": "Central Pointe Christian (Fla.)",
+    "Height": "6-7",
+    "Weight": "205",
+    "Height Inches": 79
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2fMBB_OSU_1-24_KG-108.JPG&type=webp",
+      "credit": "Kedzie Griffin / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230128_mbb_wisconsin_cb_081.JPG&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230116_mbb_minnesota_cb_103.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230116_mbb_minnesota_cb_070.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230110_mbb_nebraska_cb_087.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221202_mbb_maryland_cb_095.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221202_mbb_maryland_cb_038.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221120_mbb_virginia_cb_049.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Arecibo, Puerto Rico",
+    "lat": 18.4047499,
+    "lon": -66.6810353,
+    "is_illinois": false
+  }
+}

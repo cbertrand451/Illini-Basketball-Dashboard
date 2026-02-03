@@ -1,0 +1,27 @@
+{
+  "name": "Roger DeVries",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/roger-devries/5594",
+  "seasons": [
+    "1958-59"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Roger",
+    "Last Name": "DeVries",
+    "Full Name": "Roger DeVries",
+    "Ht./Wt.": "6-3 / 175",
+    "Position": "F",
+    "Hometown": "Forreston, Ill.",
+    "High School": "Forreston",
+    "Height": "6-3",
+    "Weight": "175",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Forreston, Ill.",
+    "lat": 42.1261742,
+    "lon": -89.579115,
+    "is_illinois": true
+  }
+}

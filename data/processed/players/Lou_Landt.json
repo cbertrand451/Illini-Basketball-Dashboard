@@ -1,0 +1,29 @@
+{
+  "name": "Lou Landt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/lou-landt/5613",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Lou",
+    "Last Name": "Landt",
+    "Full Name": "Lou Landt",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "G",
+    "Hometown": "Berwyn, Ill.",
+    "High School": "Roosevelt",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Berwyn, Ill.",
+    "lat": 41.8505874,
+    "lon": -87.7936685,
+    "is_illinois": true
+  }
+}

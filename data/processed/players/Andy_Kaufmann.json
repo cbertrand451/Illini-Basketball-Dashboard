@@ -1,0 +1,31 @@
+{
+  "name": "Andy Kaufmann",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/andy-kaufmann/5108",
+  "seasons": [
+    "1988-89",
+    "1989-90",
+    "1990-91",
+    "1991-92",
+    "1992-93"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Andy",
+    "Last Name": "Kaufmann",
+    "Full Name": "Andy Kaufmann",
+    "Ht./Wt.": "6-6 / 225",
+    "Position": "F",
+    "Hometown": "Jacksonville, Ill.",
+    "High School": "Jacksonville",
+    "Height": "6-6",
+    "Weight": "225",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Jacksonville, Ill.",
+    "lat": 39.7343697,
+    "lon": -90.228782,
+    "is_illinois": true
+  }
+}

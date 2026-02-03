@@ -1,0 +1,27 @@
+{
+  "name": "Dan Kuemmerle",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dan-kuemmerle/5439",
+  "seasons": [
+    "1967-68"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Dan",
+    "Last Name": "Kuemmerle",
+    "Full Name": "Dan Kuemmerle",
+    "Ht./Wt.": "6-3 / 190",
+    "Position": "G/F",
+    "Hometown": "Danville, Ill.",
+    "High School": "Schlarman",
+    "Height": "6-3",
+    "Weight": "190",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Danville, Ill.",
+    "lat": 40.125222,
+    "lon": -87.6304614,
+    "is_illinois": true
+  }
+}

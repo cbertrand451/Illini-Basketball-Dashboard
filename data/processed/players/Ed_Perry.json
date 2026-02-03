@@ -1,0 +1,29 @@
+{
+  "name": "Ed Perry",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ed-perry/5609",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Ed",
+    "Last Name": "Perry",
+    "Full Name": "Ed Perry",
+    "Ht./Wt.": "6-5 / 195",
+    "Position": "F",
+    "Hometown": "Salem, Ill.",
+    "High School": "Salem",
+    "Height": "6-5",
+    "Weight": "195",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Salem, Ill.",
+    "lat": 38.6269929,
+    "lon": -88.9456158,
+    "is_illinois": true
+  }
+}

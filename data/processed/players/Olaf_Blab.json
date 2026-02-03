@@ -1,0 +1,29 @@
+{
+  "name": "Olaf Blab",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/olaf-blab/5180",
+  "seasons": [
+    "1984-85",
+    "1985-86",
+    "1986-87"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Olaf",
+    "Last Name": "Blab",
+    "Full Name": "Olaf Blab",
+    "Ht./Wt.": "7-1 / 235",
+    "Position": "C",
+    "Hometown": "Munich, West Germany",
+    "High School": "Charleston (Ill.)",
+    "Height": "7-1",
+    "Weight": "235",
+    "Height Inches": 85
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Munich, West Germany",
+    "lat": 48.1719513,
+    "lon": 11.5783159,
+    "is_illinois": false
+  }
+}

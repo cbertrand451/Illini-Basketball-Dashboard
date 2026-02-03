@@ -1,0 +1,29 @@
+{
+  "name": "Govoner Vaughn",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/govoner-vaughn/5616",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Govoner",
+    "Last Name": "Vaughn",
+    "Full Name": "Govoner Vaughn",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "F",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
+  }
+}

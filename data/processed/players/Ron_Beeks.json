@@ -1,0 +1,27 @@
+{
+  "name": "Ron Beeks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ron-beeks/5504",
+  "seasons": [
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Ron",
+    "Last Name": "Beeks",
+    "Full Name": "Ron Beeks",
+    "Ht./Wt.": "6-1 / 180",
+    "Position": "G",
+    "Hometown": "Princeton, N.J.",
+    "High School": "Lawrenceville",
+    "Height": "6-1",
+    "Weight": "180",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Princeton, N.J.",
+    "lat": 40.3496953,
+    "lon": -74.6597376,
+    "is_illinois": false
+  }
+}

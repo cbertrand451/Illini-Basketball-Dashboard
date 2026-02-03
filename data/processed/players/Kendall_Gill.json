@@ -1,0 +1,30 @@
+{
+  "name": "Kendall Gill",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kendall-gill/5137",
+  "seasons": [
+    "1986-87",
+    "1987-88",
+    "1988-89",
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "Kendall",
+    "Last Name": "Gill",
+    "Full Name": "Kendall Gill",
+    "Ht./Wt.": "6-5 / 195",
+    "Position": "G",
+    "Hometown": "Matteson, Ill.",
+    "High School": "Rich Central",
+    "Height": "6-5",
+    "Weight": "195",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Matteson, Ill.",
+    "lat": 41.509832,
+    "lon": -87.739267,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jack Ingram",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jack-ingram/4850",
+  "seasons": [
+    "2002-03",
+    "2003-04",
+    "2004-05"
+  ],
+  "header": {
+    "Jersey Number": "50",
+    "First Name": "Jack",
+    "Last Name": "Ingram",
+    "Full Name": "Jack Ingram",
+    "Ht./Wt.": "6-10 / 245",
+    "Position": "F/C",
+    "Hometown": "San Antonio, Texas",
+    "High School": "Marshall",
+    "Height": "6-10",
+    "Weight": "245",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "San Antonio, Texas",
+    "lat": 29.4246002,
+    "lon": -98.4951405,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Mack Follmer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mack-follmer/5740",
+  "seasons": [
+    "1949-50",
+    "1950-51",
+    "1951-52"
+  ],
+  "header": {
+    "Jersey Number": "27",
+    "First Name": "Mack",
+    "Last Name": "Follmer",
+    "Full Name": "Mack Follmer",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "F/C",
+    "Hometown": "Forrest, Ill.",
+    "High School": "Forrest",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Forrest, Ill.",
+    "lat": 40.7519792,
+    "lon": -88.4111647,
+    "is_illinois": true
+  }
+}

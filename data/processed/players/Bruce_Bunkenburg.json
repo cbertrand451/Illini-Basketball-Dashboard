@@ -1,0 +1,29 @@
+{
+  "name": "Bruce Bunkenburg",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bruce-bunkenburg/5608",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Bruce",
+    "Last Name": "Bunkenburg",
+    "Full Name": "Bruce Bunkenburg",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Roosevelt",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

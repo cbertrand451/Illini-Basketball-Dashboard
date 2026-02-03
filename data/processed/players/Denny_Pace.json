@@ -1,0 +1,29 @@
+{
+  "name": "Denny Pace",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/denny-pace/5460",
+  "seasons": [
+    "1966-67",
+    "1967-68",
+    "1968-69"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Denny",
+    "Last Name": "Pace",
+    "Full Name": "Denny Pace",
+    "Ht./Wt.": "6-3 / 175",
+    "Position": "G/F",
+    "Hometown": "Collinsville, Ill.",
+    "High School": "Collinsville",
+    "Height": "6-3",
+    "Weight": "175",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Collinsville, Ill.",
+    "lat": 38.6703267,
+    "lon": -89.9845476,
+    "is_illinois": true
+  }
+}

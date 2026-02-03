@@ -1,0 +1,31 @@
+{
+  "name": "Larry Smith",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-smith/5140",
+  "seasons": [
+    "1986-87",
+    "1987-88",
+    "1988-89",
+    "1989-90",
+    "1990-91"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Larry",
+    "Last Name": "Smith",
+    "Full Name": "Larry Smith",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Alton, Ill.",
+    "High School": "Alton",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Alton, Ill.",
+    "lat": 38.8908583,
+    "lon": -90.1843091,
+    "is_illinois": true
+  }
+}

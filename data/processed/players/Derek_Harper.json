@@ -1,0 +1,29 @@
+{
+  "name": "Derek Harper",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/derek-harper/5231",
+  "seasons": [
+    "1980-81",
+    "1981-82",
+    "1982-83"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Derek",
+    "Last Name": "Harper",
+    "Full Name": "Derek Harper",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "G",
+    "Hometown": "West Palm Beach, Fla.",
+    "High School": "North Shore",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "West Palm Beach, Fla.",
+    "lat": 26.715364,
+    "lon": -80.0532942,
+    "is_illinois": false
+  }
+}

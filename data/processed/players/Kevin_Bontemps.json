@@ -1,0 +1,30 @@
+{
+  "name": "Kevin Bontemps",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kevin-bontemps/5245",
+  "seasons": [
+    "1979-80",
+    "1980-81",
+    "1981-82",
+    "1982-83"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Kevin",
+    "Last Name": "Bontemps",
+    "Full Name": "Kevin Bontemps",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Morton, Ill.",
+    "High School": "Morton",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Morton, Ill.",
+    "lat": 40.6127349,
+    "lon": -89.459323,
+    "is_illinois": true
+  }
+}

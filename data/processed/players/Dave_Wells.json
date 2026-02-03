@@ -1,0 +1,24 @@
+{
+  "name": "Dave Wells",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dave-wells/5161",
+  "seasons": [
+    "1985-86",
+    "1986-87"
+  ],
+  "header": {
+    "First Name": "Dave",
+    "Last Name": "Wells",
+    "Full Name": "Dave Wells",
+    "Ht./Wt.": "- /",
+    "Hometown": "Freeport, Ill.",
+    "High School": "Freeport",
+    "Height": "-"
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Freeport, Ill.",
+    "lat": 42.2966861,
+    "lon": -89.6212271,
+    "is_illinois": true
+  }
+}

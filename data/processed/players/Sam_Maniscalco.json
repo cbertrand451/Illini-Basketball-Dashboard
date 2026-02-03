@@ -1,0 +1,28 @@
+{
+  "name": "Sam Maniscalco",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/sam-maniscalco/3299",
+  "seasons": [
+    "2011-12"
+  ],
+  "header": {
+    "Jersey Number": "0",
+    "First Name": "Sam",
+    "Last Name": "Maniscalco",
+    "Full Name": "Sam Maniscalco",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/6911307.jpeg?width=300",
+    "Ht./Wt.": "6-0 / 180",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "St. Patrick",
+    "Height": "6-0",
+    "Weight": "180",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

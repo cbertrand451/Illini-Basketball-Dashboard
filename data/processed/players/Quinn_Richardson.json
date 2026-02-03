@@ -1,0 +1,31 @@
+{
+  "name": "Quinn Richardson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/quinn-richardson/5246",
+  "seasons": [
+    "1979-80",
+    "1980-81",
+    "1981-82",
+    "1982-83",
+    "1983-84"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Quinn",
+    "Last Name": "Richardson",
+    "Full Name": "Quinn Richardson",
+    "Ht./Wt.": "5-11 / 175",
+    "Position": "G",
+    "Hometown": "Robbins, Ill.",
+    "High School": "Eisenhower",
+    "Height": "5-11",
+    "Weight": "175",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Robbins, Ill.",
+    "lat": 41.6439227,
+    "lon": -87.7036602,
+    "is_illinois": true
+  }
+}

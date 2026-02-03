@@ -1,0 +1,71 @@
+{
+  "name": "Ayo Dosunmu",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ayo-dosunmu/8086",
+  "seasons": [
+    "2018-19",
+    "2019-20",
+    "2020-21"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Ayo",
+    "Last Name": "Dosunmu",
+    "Full Name": "Ayo Dosunmu",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2020/10/19/MBB2021_Headshot_DosunmuAyo__1MJ4497.jpg?width=300",
+    "Ht./Wt.": "6-5 / 200",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Morgan Park",
+    "Height": "6-5",
+    "Weight": "200",
+    "Height Inches": 77
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f21%2f0E9A6081.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f19%2f0E9A3793.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f19%2f0E9A4406.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f6%2f0E9A4813.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f6%2f0E9A4338.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f6%2fMJG05988.jpg&type=webp",
+      "credit": "Michael Glasgow / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f2%2fMBB2021_Review1080x1920.jpg&type=webp",
+      "credit": "Andy Wenstrand / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f3%2f2%2fMBB2021_Review1920x1080.jpg&type=webp",
+      "credit": "Andy Wenstrand / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f2%2f20%2fMBB2021_AyoDosunmu_IllinoisatMinnesota_022021.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f2%2f20%2f0E9A0180.JPG.crdownload.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "John Wessels",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-wessels/5582",
+  "seasons": [
+    "1958-59",
+    "1959-60",
+    "1960-61"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "John",
+    "Last Name": "Wessels",
+    "Full Name": "John Wessels",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "C",
+    "Hometown": "Rockford, Ill.",
+    "High School": "West",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
+  }
+}

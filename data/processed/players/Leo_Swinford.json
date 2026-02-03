@@ -1,0 +1,27 @@
+{
+  "name": "Leo Swinford",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/leo-swinford/5817",
+  "seasons": [
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Leo",
+    "Last Name": "Swinford",
+    "Full Name": "Leo Swinford",
+    "Ht./Wt.": "5-10 / 160",
+    "Position": "F",
+    "Hometown": "Paris, Ill.",
+    "High School": "Paris",
+    "Height": "5-10",
+    "Weight": "160",
+    "Height Inches": 70
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Paris, Ill.",
+    "lat": 39.611146,
+    "lon": -87.6961374,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Howard Johnson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/howard-johnson/5337",
+  "seasons": [
+    "1973-74",
+    "1974-75"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Howard",
+    "Last Name": "Johnson",
+    "Full Name": "Howard Johnson",
+    "Ht./Wt.": "6-2 / 165",
+    "Position": "G",
+    "Hometown": "Marshall, Ill.",
+    "High School": "Marshall",
+    "Height": "6-2",
+    "Weight": "165",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Marshall, Ill.",
+    "lat": 41.0324537,
+    "lon": -89.2998456,
+    "is_illinois": true
+  }
+}

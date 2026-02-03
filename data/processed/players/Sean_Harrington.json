@@ -1,0 +1,30 @@
+{
+  "name": "Sean Harrington",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/sean-harrington/4886",
+  "seasons": [
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Sean",
+    "Last Name": "Harrington",
+    "Full Name": "Sean Harrington",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "G",
+    "Hometown": "Bartlett, Ill.",
+    "High School": "Elgin",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Bartlett, Ill.",
+    "lat": 41.9908485,
+    "lon": -88.1850028,
+    "is_illinois": true
+  }
+}

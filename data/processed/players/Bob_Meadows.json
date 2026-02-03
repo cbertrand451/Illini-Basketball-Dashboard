@@ -1,0 +1,29 @@
+{
+  "name": "Bob Meadows",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-meadows/5517",
+  "seasons": [
+    "1962-63",
+    "1963-64",
+    "1964-65"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Bob",
+    "Last Name": "Meadows",
+    "Full Name": "Bob Meadows",
+    "Ht./Wt.": "5-8 / 160",
+    "Position": "G",
+    "Hometown": "Collinsville, Ill.",
+    "High School": "Collinsville",
+    "Height": "5-8",
+    "Weight": "160",
+    "Height Inches": 68
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Collinsville, Ill.",
+    "lat": 38.6703267,
+    "lon": -89.9845476,
+    "is_illinois": true
+  }
+}

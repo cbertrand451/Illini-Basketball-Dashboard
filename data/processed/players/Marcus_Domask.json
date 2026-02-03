@@ -1,0 +1,41 @@
+{
+  "name": "Marcus Domask",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/marcus-domask/13961",
+  "seasons": [
+    "2023-24"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Marcus",
+    "Last Name": "Domask",
+    "Full Name": "Marcus Domask",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2023/9/20/Domask_Marcus_WEB_20230906_MBB_Headshot_KS_0001.jpg?width=300",
+    "Twitter URL": "https://twitter.com/marcusdomask",
+    "Instagram URL": "https://www.instagram.com/marcusdomask",
+    "NIL URL": "https://opndr.se/marcus-domask",
+    "Class": "Graduate Student",
+    "Height": "6-6",
+    "Weight": "215",
+    "Hometown": "Waupun, Wis.",
+    "High School": "Waupun",
+    "Prev School": "Southern Illinois",
+    "Instagram": "marcusdomask",
+    "Twitter": "marcusdomask",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f1%2f9%2f20240105_MBB_at_Purdue_CB_0146_Domask3_16x9.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f1%2f8%2fORG01876_16x9.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Waupun, Wis.",
+    "lat": 43.633216,
+    "lon": -88.7296352,
+    "is_illinois": false
+  }
+}

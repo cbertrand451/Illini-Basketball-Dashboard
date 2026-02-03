@@ -1,0 +1,50 @@
+/* Global visual tokens */
+:root {
+    --brand-navy: #13294b;
+    --brand-navy-deep: #0f1e33;
+    --muted-gray: #5b6770;
+    --surface: #ffffff;
+    --surface-tint: #f7f7f9;
+    --hairline: rgba(15, 30, 51, 0.12);
+    --shadow-1: 0 10px 30px rgba(16, 24, 40, 0.12);
+    --shadow-2: 0 2px 8px rgba(16, 24, 40, 0.08);
+    --card-bg: linear-gradient(180deg, #ffffff 0%, var(--surface-tint) 100%);
+    --card-overlay: linear-gradient(120deg, rgba(19, 41, 75, 0.08), transparent 55%);
+    --glass-bg: linear-gradient(135deg, rgba(19, 41, 75, 0.16) 0%, rgba(232, 116, 31, 0.12) 100%),
+        linear-gradient(180deg, rgba(255, 255, 255, 0.72) 0%, rgba(255, 255, 255, 0.48) 100%);
+    --glass-border: rgba(255, 255, 255, 0.6);
+    --glass-shadow: 0 10px 24px rgba(0, 0, 0, 0.14);
+}
+
+/* Lock content width so sidebar toggle doesn't reflow layout */
+.block-container {
+    max-width: 1400px;
+    margin: auto;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+/* Improve text rhythm */
+h1, h2, h3, h4 {
+    letter-spacing: -0.02em;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Force-remove card borders across the app */
+.wm-card,
+.wm-metric-card,
+.wm-table-card,
+.wm-leader-card,
+.player-card,
+.player-text-card,
+.impact-ring-card,
+.impact-detail-card,
+.card,
+.wm-feature-img,
+.wm-split-img,
+div[data-testid="stDeckGlJsonChart"] {
+    border: none !important;
+}

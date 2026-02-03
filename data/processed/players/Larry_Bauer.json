@@ -1,0 +1,28 @@
+{
+  "name": "Larry Bauer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-bauer/5516",
+  "seasons": [
+    "1962-63",
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Larry",
+    "Last Name": "Bauer",
+    "Full Name": "Larry Bauer",
+    "Ht./Wt.": "6-7 / 205",
+    "Position": "F/C",
+    "Hometown": "Sprinfield, Ill.",
+    "High School": "Springfield",
+    "Height": "6-7",
+    "Weight": "205",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Sprinfield, Ill.",
+    "lat": null,
+    "lon": null,
+    "is_illinois": true
+  }
+}

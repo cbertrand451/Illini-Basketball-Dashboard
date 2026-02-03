@@ -1,0 +1,28 @@
+{
+  "name": "Al Leavitt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/al-leavitt/5838",
+  "seasons": [
+    "1945-46",
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "36",
+    "First Name": "Al",
+    "Last Name": "Leavitt",
+    "Full Name": "Al Leavitt",
+    "Ht./Wt.": "6-5 / 230",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Sullivan",
+    "Height": "6-5",
+    "Weight": "230",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ray DeMoulin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ray-demoulin/5797",
+  "seasons": [
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Ray",
+    "Last Name": "DeMoulin",
+    "Full Name": "Ray DeMoulin",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "F",
+    "Hometown": "Mulberry Grove, Ill.",
+    "High School": "Mulberry Grove",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Mulberry Grove, Ill.",
+    "lat": 38.925046,
+    "lon": -89.2689626,
+    "is_illinois": true
+  }
+}

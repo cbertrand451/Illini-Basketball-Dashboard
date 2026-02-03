@@ -1,0 +1,30 @@
+{
+  "name": "Brooks Taylor",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brooks-taylor/5071",
+  "seasons": [
+    "1989-90",
+    "1990-91",
+    "1991-92",
+    "1992-93"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Brooks",
+    "Last Name": "Taylor",
+    "Full Name": "Brooks Taylor",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "De La Salle",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

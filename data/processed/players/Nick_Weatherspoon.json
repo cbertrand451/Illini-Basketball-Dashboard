@@ -1,0 +1,29 @@
+{
+  "name": "Nick Weatherspoon",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nick-weatherspoon/5384",
+  "seasons": [
+    "1970-71",
+    "1971-72",
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Nick",
+    "Last Name": "Weatherspoon",
+    "Full Name": "Nick Weatherspoon",
+    "Ht./Wt.": "6-6 / 185",
+    "Position": "F",
+    "Hometown": "Canton, Ohio",
+    "High School": "McKinley",
+    "Height": "6-6",
+    "Weight": "185",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Canton, Ohio",
+    "lat": 40.7985464,
+    "lon": -81.3749508,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Greg Wright",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/greg-wright/5467",
+  "seasons": [
+    "1965-66"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Greg",
+    "Last Name": "Wright",
+    "Full Name": "Greg Wright",
+    "Ht./Wt.": "6-1 / 195",
+    "Position": "G",
+    "Hometown": "Glenwood, Ill.",
+    "High School": "Homewood-Flossmoor",
+    "Height": "6-1",
+    "Weight": "195",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Glenwood, Ill.",
+    "lat": 41.5424867,
+    "lon": -87.6022765,
+    "is_illinois": true
+  }
+}

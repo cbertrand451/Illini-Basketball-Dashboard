@@ -1,0 +1,29 @@
+{
+  "name": "Irv Bemoras",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/irv-bemoras/5717",
+  "seasons": [
+    "1950-51",
+    "1951-52",
+    "1952-53"
+  ],
+  "header": {
+    "Jersey Number": "26",
+    "First Name": "Irv",
+    "Last Name": "Bemoras",
+    "Full Name": "Irv Bemoras",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Marshall",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

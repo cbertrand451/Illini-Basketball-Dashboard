@@ -1,0 +1,27 @@
+{
+  "name": "Gareth Breunlin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/gareth-breunlin/7237",
+  "seasons": [
+    "1999-00"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Gareth",
+    "Last Name": "Breunlin",
+    "Full Name": "Gareth Breunlin",
+    "Ht./Wt.": "6-0 / 180",
+    "Position": "G",
+    "Hometown": "La Grange, Ill.",
+    "High School": "Lyons Township",
+    "Height": "6-0",
+    "Weight": "180",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "La Grange, Ill.",
+    "lat": 41.81483,
+    "lon": -87.8735662,
+    "is_illinois": true
+  }
+}

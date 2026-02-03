@@ -1,0 +1,27 @@
+{
+  "name": "James Burks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/james-burks/5655",
+  "seasons": [
+    "1954-55"
+  ],
+  "header": {
+    "Jersey Number": "16",
+    "First Name": "James",
+    "Last Name": "Burks",
+    "Full Name": "James Burks",
+    "Ht./Wt.": "6-8 / 210",
+    "Position": "C",
+    "Hometown": "Horse Cave, Ky.",
+    "High School": "Caverna",
+    "Height": "6-8",
+    "Weight": "210",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Horse Cave, Ky.",
+    "lat": 37.179496,
+    "lon": -85.9069175,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Rick Schmidt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rick-schmidt/5360",
+  "seasons": [
+    "1972-73",
+    "1973-74",
+    "1974-75"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Rick",
+    "Last Name": "Schmidt",
+    "Full Name": "Rick Schmidt",
+    "Ht./Wt.": "6-6 / 205",
+    "Position": "F",
+    "Hometown": "Royal, Ill.",
+    "High School": "St. Joseph-Ogden",
+    "Height": "6-6",
+    "Weight": "205",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Royal, Ill.",
+    "lat": 40.1928126,
+    "lon": -87.9728126,
+    "is_illinois": true
+  }
+}

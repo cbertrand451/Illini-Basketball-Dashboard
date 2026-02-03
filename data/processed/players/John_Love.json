@@ -1,0 +1,29 @@
+{
+  "name": "John Love",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-love/5531",
+  "seasons": [
+    "1961-62",
+    "1962-63",
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "John",
+    "Last Name": "Love",
+    "Full Name": "John Love",
+    "Ht./Wt.": "6-3 / 195",
+    "Position": "F",
+    "Hometown": "Ottawa, Ill.",
+    "High School": "Ottawa",
+    "Height": "6-3",
+    "Weight": "195",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Ottawa, Ill.",
+    "lat": 41.3516628,
+    "lon": -88.845436,
+    "is_illinois": true
+  }
+}

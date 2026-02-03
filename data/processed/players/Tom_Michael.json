@@ -1,0 +1,31 @@
+{
+  "name": "Tom Michael",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-michael/5081",
+  "seasons": [
+    "1989-90",
+    "1990-91",
+    "1991-92",
+    "1992-93",
+    "1993-94"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Tom",
+    "Last Name": "Michael",
+    "Full Name": "Tom Michael",
+    "Ht./Wt.": "6-8 / 220",
+    "Position": "F",
+    "Hometown": "Hoffman, Ill.",
+    "High School": "Carlyle",
+    "Height": "6-8",
+    "Weight": "220",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Hoffman, Ill.",
+    "lat": 38.5413716,
+    "lon": -89.263599,
+    "is_illinois": true
+  }
+}

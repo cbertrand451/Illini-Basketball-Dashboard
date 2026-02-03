@@ -1,0 +1,30 @@
+{
+  "name": "Clayton Thomas",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/clayton-thomas/7236",
+  "seasons": [
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Clayton",
+    "Last Name": "Thomas",
+    "Full Name": "Clayton Thomas",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Larkin",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
+  }
+}

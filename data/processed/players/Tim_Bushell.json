@@ -1,0 +1,30 @@
+{
+  "name": "Tim Bushell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tim-bushell/5345",
+  "seasons": [
+    "1973-74",
+    "1974-75",
+    "1975-76",
+    "1976-77"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Tim",
+    "Last Name": "Bushell",
+    "Full Name": "Tim Bushell",
+    "Ht./Wt.": "6-6 / 195",
+    "Position": "F",
+    "Hometown": "Lincoln, Ill.",
+    "High School": "Lincoln",
+    "Height": "6-6",
+    "Weight": "195",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lincoln, Ill.",
+    "lat": 40.1481349,
+    "lon": -89.3636569,
+    "is_illinois": true
+  }
+}

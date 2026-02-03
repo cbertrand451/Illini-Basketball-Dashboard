@@ -1,0 +1,38 @@
+{
+  "name": "Jacob Grandison",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jacob-grandison/8849",
+  "seasons": [
+    "2019-20",
+    "2020-21",
+    "2021-22"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Jacob",
+    "Last Name": "Grandison",
+    "Full Name": "Jacob Grandison",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2021/10/4/Grandison_5MJ0132.JPG?width=300",
+    "Instagram URL": "https://www.instagram.com/slimjake_",
+    "Twitter URL": "https://twitter.com/slimjake_",
+    "Class": "Graduate Student",
+    "Height": "6-6",
+    "Weight": "210",
+    "Hometown": "Oakland, Calif.",
+    "High School": "Phillips Exeter (N.H.)",
+    "Prev School": "Holy Cross",
+    "Instagram": "slimjake_",
+    "Twitter": "slimjake_",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f6%2f15%2fMBB2021_JakeFinnishTeam_web.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Oakland, Calif.",
+    "lat": 37.8044557,
+    "lon": -122.271356,
+    "is_illinois": false
+  }
+}

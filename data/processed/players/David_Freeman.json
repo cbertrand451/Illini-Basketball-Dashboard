@@ -1,0 +1,28 @@
+{
+  "name": "David Freeman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/david-freeman/4932",
+  "seasons": [
+    "1996-97",
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "David",
+    "Last Name": "Freeman",
+    "Full Name": "David Freeman",
+    "Ht./Wt.": "6-4 / 205",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Central",
+    "Height": "6-4",
+    "Weight": "205",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Maverick Morgan",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/maverick-morgan/3281",
+  "seasons": [
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Maverick",
+    "Last Name": "Morgan",
+    "Full Name": "Maverick Morgan",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2016/9/1/Morgan_Maverick_Headshot_082116_2MJ0875.JPG?width=300",
+    "Ht./Wt.": "6-10 / 245",
+    "Position": "C",
+    "Hometown": "Springboro, Ohio",
+    "High School": "Springboro",
+    "Height": "6-10",
+    "Weight": "245",
+    "Height Inches": 82
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f26%2fMav_NEB_9903904_web.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fmaverickmorgan2_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fmaverickmorgan_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f7%2fimg_9864842.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f31%2fMav_5MJ5905.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f14%2fmaverickmorgan1_illinoismaryland_011417.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f14%2fmaverickmorgan_illinoismaryland_011417.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f12%2fMav_Mich_USATSI_9804362_web_52.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f7%2fimg_9794678.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f2%2fMav_1MJ6399_web.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Springboro, Ohio",
+    "lat": 39.5522815,
+    "lon": -84.2332718,
+    "is_illinois": false
+  }
+}

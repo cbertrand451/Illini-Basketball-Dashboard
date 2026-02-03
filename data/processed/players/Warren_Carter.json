@@ -1,0 +1,30 @@
+{
+  "name": "Warren Carter",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/warren-carter/4831",
+  "seasons": [
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07"
+  ],
+  "header": {
+    "Jersey Number": "41",
+    "First Name": "Warren",
+    "Last Name": "Carter",
+    "Full Name": "Warren Carter",
+    "Ht./Wt.": "6-9 / 220",
+    "Position": "F",
+    "Hometown": "Dallas, Texas",
+    "High School": "Lake Highlands",
+    "Height": "6-9",
+    "Weight": "220",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Dallas, Texas",
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Neil Bresnahan",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/neil-bresnahan/5291",
+  "seasons": [
+    "1976-77",
+    "1977-78",
+    "1978-79",
+    "1979-80"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Neil",
+    "Last Name": "Bresnahan",
+    "Full Name": "Neil Bresnahan",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "F",
+    "Hometown": "Oak Park, Ill.",
+    "High School": "Fenwick",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Oak Park, Ill.",
+    "lat": 41.8878145,
+    "lon": -87.7887615,
+    "is_illinois": true
+  }
+}

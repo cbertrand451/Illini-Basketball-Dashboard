@@ -1,0 +1,27 @@
+{
+  "name": "Scott Haffner",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/scott-haffner/5169",
+  "seasons": [
+    "1984-85"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Scott",
+    "Last Name": "Haffner",
+    "Full Name": "Scott Haffner",
+    "Ht./Wt.": "6-4 / 165",
+    "Position": "G",
+    "Hometown": "Noblesville, Ind.",
+    "High School": "Noblesville",
+    "Height": "6-4",
+    "Weight": "165",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Noblesville, Ind.",
+    "lat": 40.0460881,
+    "lon": -86.0139854,
+    "is_illinois": false
+  }
+}

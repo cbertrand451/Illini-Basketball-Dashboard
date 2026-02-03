@@ -1,0 +1,27 @@
+{
+  "name": "Mitch Arnold",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mitch-arnold/5234",
+  "seasons": [
+    "1980-81"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Mitch",
+    "Last Name": "Arnold",
+    "Full Name": "Mitch Arnold",
+    "Ht./Wt.": "6-5 / 190",
+    "Position": "G/F",
+    "Hometown": "Effingham, Ill.",
+    "High School": "Effingham",
+    "Height": "6-5",
+    "Weight": "190",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Effingham, Ill.",
+    "lat": 39.0520902,
+    "lon": -88.6029006,
+    "is_illinois": true
+  }
+}

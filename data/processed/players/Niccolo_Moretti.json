@@ -1,0 +1,39 @@
+{
+  "name": "Niccolo Moretti",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/niccolo-moretti/13607",
+  "seasons": [
+    "2022-23",
+    "2023-24"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Niccolo",
+    "Last Name": "Moretti",
+    "Full Name": "Niccolo Moretti",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2023/9/20/Moretti_Niccolo_WEB_20230906_MBB_Headshot_KS_0005.jpg?width=300",
+    "Twitter URL": "https://twitter.com/Niccolomoretti7",
+    "Instagram URL": "https://www.instagram.com/niccolomoretti_",
+    "NIL URL": "https://opndr.se/niccolo-moretti",
+    "Class": "Redshirt Freshman",
+    "Height": "6-1",
+    "Weight": "170",
+    "Hometown": "Bologna, Italy",
+    "High School": "DME Academy (Fla.)",
+    "Prev School": "NBA Global Academy",
+    "Instagram": "niccolomoretti_",
+    "Twitter": "Niccolomoretti7",
+    "Height Inches": 73
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f20230131_DC_MBB_vs._NE_-70_16x9.jpg&type=webp",
+      "credit": "David Craan / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Bologna, Italy",
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "is_illinois": false
+  }
+}

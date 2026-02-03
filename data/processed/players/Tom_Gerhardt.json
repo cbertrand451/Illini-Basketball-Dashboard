@@ -1,0 +1,30 @@
+{
+  "name": "Tom Gerhardt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-gerhardt/5321",
+  "seasons": [
+    "1974-75",
+    "1975-76",
+    "1976-77",
+    "1977-78"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Tom",
+    "Last Name": "Gerhardt",
+    "Full Name": "Tom Gerhardt",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "De La Salle",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

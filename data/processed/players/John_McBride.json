@@ -1,0 +1,28 @@
+{
+  "name": "John McBride",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-mcbride/5377",
+  "seasons": [
+    "1971-72",
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "John",
+    "Last Name": "McBride",
+    "Full Name": "John McBride",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "F",
+    "Hometown": "Orland Park, Ill.",
+    "High School": "Sandberg",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Orland Park, Ill.",
+    "lat": 41.630663,
+    "lon": -87.8536288,
+    "is_illinois": true
+  }
+}

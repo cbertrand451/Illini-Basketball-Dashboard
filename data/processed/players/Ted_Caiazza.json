@@ -1,0 +1,29 @@
+{
+  "name": "Ted Caiazza",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ted-caiazza/5643",
+  "seasons": [
+    "1955-56",
+    "1956-57",
+    "1957-58"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Ted",
+    "Last Name": "Caiazza",
+    "Full Name": "Ted Caiazza",
+    "Ht./Wt.": "6-7 / 235",
+    "Position": "C",
+    "Hometown": "La Grange, Ill.",
+    "High School": "Lyons",
+    "Height": "6-7",
+    "Weight": "235",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "La Grange, Ill.",
+    "lat": 41.81483,
+    "lon": -87.8735662,
+    "is_illinois": true
+  }
+}

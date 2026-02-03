@@ -1,0 +1,30 @@
+{
+  "name": "Matt Schnaderbeck",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/matt-schnaderbeck/5113",
+  "seasons": [
+    "1988-89",
+    "1989-90",
+    "1990-91",
+    "1991-92"
+  ],
+  "header": {
+    "Jersey Number": "50",
+    "First Name": "Matt",
+    "Last Name": "Schnaderbeck",
+    "Full Name": "Matt Schnaderbeck",
+    "Ht./Wt.": "6-5 / 190",
+    "Position": "F",
+    "Hometown": "Des Plaines, Ill.",
+    "High School": "Maine West",
+    "Height": "6-5",
+    "Weight": "190",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Des Plaines, Ill.",
+    "lat": 42.0415823,
+    "lon": -87.8873916,
+    "is_illinois": true
+  }
+}

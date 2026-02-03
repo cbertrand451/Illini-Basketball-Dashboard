@@ -1,0 +1,28 @@
+{
+  "name": "Andy Kpedi",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/andy-kpedi/5086",
+  "seasons": [
+    "1989-90",
+    "1990-91"
+  ],
+  "header": {
+    "Jersey Number": "50",
+    "First Name": "Andy",
+    "Last Name": "Kpedi",
+    "Full Name": "Andy Kpedi",
+    "Ht./Wt.": "6-7 / 215",
+    "Position": "C",
+    "Hometown": "Warri, Nigeria",
+    "High School": "Kankakee JC",
+    "Height": "6-7",
+    "Weight": "215",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Warri, Nigeria",
+    "lat": 5.5186186,
+    "lon": 5.7480196,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Mike MacDonald",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-macdonald/5128",
+  "seasons": [
+    "1987-88",
+    "1988-89"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Mike",
+    "Last Name": "MacDonald",
+    "Full Name": "Mike MacDonald",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Streamwood, Ill.",
+    "High School": "Streamwood",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Streamwood, Ill.",
+    "lat": 42.0255827,
+    "lon": -88.1784085,
+    "is_illinois": true
+  }
+}

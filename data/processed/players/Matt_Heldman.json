@@ -1,0 +1,30 @@
+{
+  "name": "Matt Heldman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/matt-heldman/4966",
+  "seasons": [
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Matt",
+    "Last Name": "Heldman",
+    "Full Name": "Matt Heldman",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Libertyville, Ill.",
+    "High School": "Libertyville",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Libertyville, Ill.",
+    "lat": 42.2830786,
+    "lon": -87.9531303,
+    "is_illinois": true
+  }
+}

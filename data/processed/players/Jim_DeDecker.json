@@ -1,0 +1,29 @@
+{
+  "name": "Jim DeDecker",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-dedecker/5396",
+  "seasons": [
+    "1970-71",
+    "1971-72",
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Jim",
+    "Last Name": "DeDecker",
+    "Full Name": "Jim DeDecker",
+    "Ht./Wt.": "6-10 / 210",
+    "Position": "C",
+    "Hometown": "Moline, Ill.",
+    "High School": "Alleman",
+    "Height": "6-10",
+    "Weight": "210",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Moline, Ill.",
+    "lat": 41.5058344,
+    "lon": -90.5136642,
+    "is_illinois": true
+  }
+}

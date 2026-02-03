@@ -1,0 +1,29 @@
+{
+  "name": "Herb Gerecke",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/herb-gerecke/5746",
+  "seasons": [
+    "1949-50",
+    "1950-51",
+    "1951-52"
+  ],
+  "header": {
+    "Jersey Number": "38",
+    "First Name": "Herb",
+    "Last Name": "Gerecke",
+    "Full Name": "Herb Gerecke",
+    "Ht./Wt.": "6-1 / 180",
+    "Position": "G/F",
+    "Hometown": "Pekin, Ill.",
+    "High School": "Pekin",
+    "Height": "6-1",
+    "Weight": "180",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pekin, Ill.",
+    "lat": 40.5687911,
+    "lon": -89.6501621,
+    "is_illinois": true
+  }
+}

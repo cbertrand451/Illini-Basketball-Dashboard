@@ -1,0 +1,28 @@
+{
+  "name": "Glen Trugillo",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/glen-trugillo/5762",
+  "seasons": [
+    "1948-49",
+    "1949-50"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Glen",
+    "Last Name": "Trugillo",
+    "Full Name": "Glen Trugillo",
+    "Ht./Wt.": "5-11 / 160",
+    "Position": "F",
+    "Hometown": "Rockford, Ill.",
+    "High School": "East",
+    "Height": "5-11",
+    "Weight": "160",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
+  }
+}

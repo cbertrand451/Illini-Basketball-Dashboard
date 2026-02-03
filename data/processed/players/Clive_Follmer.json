@@ -1,0 +1,29 @@
+{
+  "name": "Clive Follmer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/clive-follmer/5720",
+  "seasons": [
+    "1950-51",
+    "1951-52",
+    "1952-53"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Clive",
+    "Last Name": "Follmer",
+    "Full Name": "Clive Follmer",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "F",
+    "Hometown": "Forrest, Ill.",
+    "High School": "Forrest",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Forrest, Ill.",
+    "lat": 40.7519792,
+    "lon": -88.4111647,
+    "is_illinois": true
+  }
+}

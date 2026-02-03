@@ -1,0 +1,27 @@
+{
+  "name": "Jerry Riva",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jerry-riva/5603",
+  "seasons": [
+    "1957-58"
+  ],
+  "header": {
+    "Jersey Number": "9",
+    "First Name": "Jerry",
+    "Last Name": "Riva",
+    "Full Name": "Jerry Riva",
+    "Ht./Wt.": "5-11 / 175",
+    "Position": "G",
+    "Hometown": "Clinton, Ill.",
+    "High School": "Clinton",
+    "Height": "5-11",
+    "Weight": "175",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Clinton, Ill.",
+    "lat": 38.5896187,
+    "lon": -89.420064,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Larry Breyfogle",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-breyfogle/5648",
+  "seasons": [
+    "1955-56",
+    "1956-57",
+    "1957-58"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Larry",
+    "Last Name": "Breyfogle",
+    "Full Name": "Larry Breyfogle",
+    "Ht./Wt.": "6-3 / 165",
+    "Position": "G/F",
+    "Hometown": "Lawrenceville, Ill.",
+    "High School": "Lawrenceville",
+    "Height": "6-3",
+    "Weight": "165",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lawrenceville, Ill.",
+    "lat": 38.7292138,
+    "lon": -87.6816927,
+    "is_illinois": true
+  }
+}

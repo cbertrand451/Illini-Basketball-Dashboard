@@ -1,0 +1,29 @@
+{
+  "name": "Bob Peterson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-peterson/5716",
+  "seasons": [
+    "1950-51",
+    "1951-52",
+    "1952-53"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Bob",
+    "Last Name": "Peterson",
+    "Full Name": "Bob Peterson",
+    "Ht./Wt.": "6-8 / 250",
+    "Position": "F/C",
+    "Hometown": "Wayne, Ill.",
+    "High School": "Elgin",
+    "Height": "6-8",
+    "Weight": "250",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Wayne, Ill.",
+    "lat": 38.4251958,
+    "lon": -88.4197678,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Tom Schafer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-schafer/5185",
+  "seasons": [
+    "1983-84",
+    "1984-85"
+  ],
+  "header": {
+    "First Name": "Tom",
+    "Last Name": "Schafer",
+    "Full Name": "Tom Schafer",
+    "Ht./Wt.": "- /",
+    "Hometown": "Algonquin, Ill.",
+    "High School": "Jacobs",
+    "Height": "-"
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Algonquin, Ill.",
+    "lat": 42.1655801,
+    "lon": -88.2942493,
+    "is_illinois": true
+  }
+}

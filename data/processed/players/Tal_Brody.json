@@ -1,0 +1,29 @@
+{
+  "name": "Tal Brody",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tal-brody/5518",
+  "seasons": [
+    "1962-63",
+    "1963-64",
+    "1964-65"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Tal",
+    "Last Name": "Brody",
+    "Full Name": "Tal Brody",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Trenton, N.J.",
+    "High School": "Central",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Trenton, N.J.",
+    "lat": 40.2203074,
+    "lon": -74.7659,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Aaron Cosby",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/aaron-cosby/3278",
+  "seasons": [
+    "2013-14",
+    "2014-15"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Aaron",
+    "Last Name": "Cosby",
+    "Full Name": "Aaron Cosby",
+    "Ht./Wt.": "6-3 / 205",
+    "Position": "G",
+    "Hometown": "Louisville, Ky.",
+    "High School": "Northfield Mount Hermon (Mass.)",
+    "Height": "6-3",
+    "Weight": "205",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Louisville, Ky.",
+    "lat": 38.2542376,
+    "lon": -85.759407,
+    "is_illinois": false
+  }
+}

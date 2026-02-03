@@ -1,0 +1,46 @@
+{
+  "name": "Morez Johnson Jr.",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/morez-johnson-jr-/14517",
+  "seasons": [
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Morez",
+    "Last Name": "Johnson Jr.",
+    "Full Name": "Morez Johnson Jr.",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/Johnson_Morez_WEB_20240916_MBB_Headshot_KS_0261.jpg?width=300",
+    "Twitter URL": "https://twitter.com/morezjohnsonJr",
+    "Instagram URL": "https://www.instagram.com/morezjohnsonjr",
+    "NIL URL": "https://opndr.se/morez-johnson-jr",
+    "Class": "Freshman",
+    "Height": "6-9",
+    "Weight": "255",
+    "Major": "General Studies",
+    "Hometown": "Riverdale, Ill.",
+    "High School": "Thornton Township",
+    "Instagram": "morezjohnsonjr",
+    "Twitter": "morezjohnsonJr",
+    "Height Inches": 81
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250202_MBB_vs_OhioSt_CB_2374.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250202_MBB_vs_OhioSt_CB_3886.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250208_MBB_at_Minnesota_CB_2394.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Riverdale, Ill.",
+    "lat": 41.6333678,
+    "lon": -87.6331021,
+    "is_illinois": true
+  }
+}

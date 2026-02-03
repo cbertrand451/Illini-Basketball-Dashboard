@@ -1,0 +1,30 @@
+{
+  "name": "C.J. Jackson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/c-j-jackson/4803",
+  "seasons": [
+    "2005-06",
+    "2006-07",
+    "2008-09"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "C.J.",
+    "Last Name": "Jackson",
+    "Full Name": "C.J. Jackson",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/2361801.jpeg?width=300",
+    "Ht./Wt.": "6-8 / 265",
+    "Position": "F",
+    "Hometown": "Buena Vista, Ga.",
+    "High School": "Tri-County",
+    "Height": "6-8",
+    "Weight": "265",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Buena Vista, Ga.",
+    "lat": 32.3190398,
+    "lon": -84.5171411,
+    "is_illinois": false
+  }
+}

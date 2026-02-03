@@ -1,0 +1,27 @@
+{
+  "name": "Andy Phillip",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/andy-phillip/5811",
+  "seasons": [
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "47",
+    "First Name": "Andy",
+    "Last Name": "Phillip",
+    "Full Name": "Andy Phillip",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "F",
+    "Hometown": "Granite City, Ill.",
+    "High School": "Granite City",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Granite City, Ill.",
+    "lat": 38.7014389,
+    "lon": -90.1487199,
+    "is_illinois": true
+  }
+}

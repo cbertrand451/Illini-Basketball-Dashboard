@@ -1,0 +1,36 @@
+{
+  "name": "Alfonso Plummer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/alfonso-plummer/12273",
+  "seasons": [
+    "2021-22"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Alfonso",
+    "Last Name": "Plummer",
+    "Full Name": "Alfonso Plummer",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2021/10/3/Plummer_5MJ0055.JPG?width=300",
+    "Instagram URL": "https://www.instagram.com/alfonsoplummer9",
+    "Twitter URL": "https://twitter.com/AlfonsoPlummer9",
+    "Class": "Graduate Student",
+    "Height": "6-1",
+    "Weight": "180",
+    "Hometown": "Fajardo, Puerto Rico",
+    "High School": "Colegio La Luz Juncos",
+    "Prev School": "Utah",
+    "Instagram": "alfonsoplummer9",
+    "Twitter": "AlfonsoPlummer9",
+    "Height Inches": 73
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2022%2f3%2f28%2fAlfonso_Plummer_3.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Fajardo, Puerto Rico",
+    "lat": 18.3278026,
+    "lon": -65.6561832,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Bob Brown",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-brown/5637",
+  "seasons": [
+    "1956-57",
+    "1957-58",
+    "1963-64",
+    "1964-65",
+    "1965-66"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Bob",
+    "Last Name": "Brown",
+    "Full Name": "Bob Brown",
+    "Ht./Wt.": "6-2 / 200",
+    "Position": "G/F",
+    "Hometown": "Wilmington, Del.",
+    "High School": "DuPont",
+    "Height": "6-2",
+    "Weight": "200",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Wilmington, Del.",
+    "lat": 39.7459468,
+    "lon": -75.546589,
+    "is_illinois": false
+  }
+}

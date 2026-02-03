@@ -1,0 +1,28 @@
+{
+  "name": "Paul Nitz",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/paul-nitz/5452",
+  "seasons": [
+    "1966-67",
+    "1967-68"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Paul",
+    "Last Name": "Nitz",
+    "Full Name": "Paul Nitz",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "F/C",
+    "Hometown": "Woodstock, Ill.",
+    "High School": "Marian Central",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Woodstock, Ill.",
+    "lat": 42.3147529,
+    "lon": -88.4474302,
+    "is_illinois": true
+  }
+}

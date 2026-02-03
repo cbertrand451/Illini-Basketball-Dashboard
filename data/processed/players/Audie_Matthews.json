@@ -1,0 +1,30 @@
+{
+  "name": "Audie Matthews",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/audie-matthews/5329",
+  "seasons": [
+    "1974-75",
+    "1975-76",
+    "1976-77",
+    "1977-78"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Audie",
+    "Last Name": "Matthews",
+    "Full Name": "Audie Matthews",
+    "Ht./Wt.": "6-5 / 185",
+    "Position": "G",
+    "Hometown": "Chicago Heights, Ill.",
+    "High School": "Bloom",
+    "Height": "6-5",
+    "Weight": "185",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago Heights, Ill.",
+    "lat": 41.5062834,
+    "lon": -87.6357079,
+    "is_illinois": true
+  }
+}

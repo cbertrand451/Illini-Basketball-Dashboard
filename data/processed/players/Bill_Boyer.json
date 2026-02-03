@@ -1,0 +1,27 @@
+{
+  "name": "Bill Boyer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-boyer/5752",
+  "seasons": [
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Bill",
+    "Last Name": "Boyer",
+    "Full Name": "Bill Boyer",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "C",
+    "Hometown": "Beardstown, Ill.",
+    "High School": "Beardstown",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Beardstown, Ill.",
+    "lat": 40.0167925,
+    "lon": -90.4345418,
+    "is_illinois": true
+  }
+}

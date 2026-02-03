@@ -1,0 +1,28 @@
+{
+  "name": "Bob Menke",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-menke/5819",
+  "seasons": [
+    "1945-46",
+    "1946-47",
+    "1947-48"
+  ],
+  "header": {
+    "First Name": "Bob",
+    "Last Name": "Menke",
+    "Full Name": "Bob Menke",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F/C",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
+  }
+}

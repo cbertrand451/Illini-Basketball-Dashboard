@@ -1,0 +1,28 @@
+{
+  "name": "Rich Jones",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rich-jones/5475",
+  "seasons": [
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Rich",
+    "Last Name": "Jones",
+    "Full Name": "Rich Jones",
+    "Ht./Wt.": "6-7 / 205",
+    "Position": "F",
+    "Hometown": "Memphis, Tenn.",
+    "High School": "Lester",
+    "Height": "6-7",
+    "Weight": "205",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Memphis, Tenn.",
+    "lat": 35.1460249,
+    "lon": -90.0517638,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Awvee Storey",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/awvee-storey/4922",
+  "seasons": [
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Awvee",
+    "Last Name": "Storey",
+    "Full Name": "Awvee Storey",
+    "Ht./Wt.": "6-6 / 215",
+    "Position": "G/F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Proviso West",
+    "Height": "6-6",
+    "Weight": "215",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Tony Latham",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tony-latham/5523",
+  "seasons": [
+    "1962-63",
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Tony",
+    "Last Name": "Latham",
+    "Full Name": "Tony Latham",
+    "Ht./Wt.": "5-11 / 165",
+    "Position": "G",
+    "Hometown": "Waukegan, Ill.",
+    "High School": "Waukegan",
+    "Height": "5-11",
+    "Weight": "165",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Waukegan, Ill.",
+    "lat": 42.3602273,
+    "lon": -87.8318164,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Ryan Blackwell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ryan-blackwell/4953",
+  "seasons": [
+    "1995-96"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Ryan",
+    "Last Name": "Blackwell",
+    "Full Name": "Ryan Blackwell",
+    "Ht./Wt.": "6-8 / 205",
+    "Position": "F",
+    "Hometown": "Pittsford, N.Y.",
+    "High School": "Pittsford-Sutherland",
+    "Height": "6-8",
+    "Weight": "205",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pittsford, N.Y.",
+    "lat": 43.090959,
+    "lon": -77.515298,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Tom Carmichael",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-carmichael/5335",
+  "seasons": [
+    "1973-74",
+    "1974-75"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Tom",
+    "Last Name": "Carmichael",
+    "Full Name": "Tom Carmichael",
+    "Ht./Wt.": "6-7 / 215",
+    "Position": "F/C",
+    "Hometown": "Rochelle, Ill.",
+    "High School": "Rochelle",
+    "Height": "6-7",
+    "Weight": "215",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rochelle, Ill.",
+    "lat": 41.9239178,
+    "lon": -89.0687074,
+    "is_illinois": true
+  }
+}

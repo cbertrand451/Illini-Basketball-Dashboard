@@ -1,0 +1,27 @@
+{
+  "name": "Bill Larson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-larson/5599",
+  "seasons": [
+    "1958-59"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Bill",
+    "Last Name": "Larson",
+    "Full Name": "Bill Larson",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "G",
+    "Hometown": "Rochelle, Ill.",
+    "High School": "Rochelle",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rochelle, Ill.",
+    "lat": 41.9239178,
+    "lon": -89.0687074,
+    "is_illinois": true
+  }
+}

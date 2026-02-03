@@ -1,0 +1,29 @@
+{
+  "name": "Jim Schuldt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-schuldt/5726",
+  "seasons": [
+    "1950-51",
+    "1951-52",
+    "1952-53"
+  ],
+  "header": {
+    "Jersey Number": "48",
+    "First Name": "Jim",
+    "Last Name": "Schuldt",
+    "Full Name": "Jim Schuldt",
+    "Ht./Wt.": "6-0 / 195",
+    "Position": "G",
+    "Hometown": "Dundee, Ill.",
+    "High School": "Dundee",
+    "Height": "6-0",
+    "Weight": "195",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Dundee, Ill.",
+    "lat": 42.0989145,
+    "lon": -88.2714689,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "AJ Redd",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/aj-redd/15204",
+  "seasons": [
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "5",
+    "First Name": "AJ",
+    "Last Name": "Redd",
+    "Full Name": "AJ Redd",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_627.jpg?width=300",
+    "Twitter URL": "https://twitter.com/redd_aj",
+    "Instagram URL": "https://www.instagram.com/ajredd_",
+    "NIL URL": "https://opndr.se/aj-redd",
+    "Class": "Senior",
+    "Height": "6-3",
+    "Weight": "170",
+    "Major": "Finance",
+    "Hometown": "Chicago, Ill.",
+    "High School": "St. Ignatius",
+    "Instagram": "ajredd_",
+    "Twitter": "redd_aj",
+    "Height Inches": 75
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20241123_MBB_vs_Maryland-EasternShore_SK_0168.JPG&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250208_MBB_at_Minnesota_CB_7450.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f20230131_DC_MBB_vs._NE_-5_16x9.jpg&type=webp",
+      "credit": "David Craan / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230116_mbb_minnesota_cb_123_16x9.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230110_mbb_nebraska_cb_120_16x9.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

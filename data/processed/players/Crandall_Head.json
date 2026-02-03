@@ -1,0 +1,29 @@
+{
+  "name": "Crandall Head",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/crandall-head/3704",
+  "seasons": [
+    "2010-11",
+    "2011-12"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Crandall",
+    "Last Name": "Head",
+    "Full Name": "Crandall Head",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/Crandall_Head.jpeg?width=300",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Matteson, Ill.",
+    "High School": "Rich South",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Matteson, Ill.",
+    "lat": 41.509832,
+    "lon": -87.739267,
+    "is_illinois": true
+  }
+}

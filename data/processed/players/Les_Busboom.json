@@ -1,0 +1,29 @@
+{
+  "name": "Les Busboom",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/les-busboom/5458",
+  "seasons": [
+    "1966-67",
+    "1967-68",
+    "1968-69"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Les",
+    "Last Name": "Busboom",
+    "Full Name": "Les Busboom",
+    "Ht./Wt.": "6-4 / 195",
+    "Position": "G",
+    "Hometown": "Royal, Ill.",
+    "High School": "St. Joseph-Ogden",
+    "Height": "6-4",
+    "Weight": "195",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Royal, Ill.",
+    "lat": 40.1928126,
+    "lon": -87.9728126,
+    "is_illinois": true
+  }
+}

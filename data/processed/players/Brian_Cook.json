@@ -1,0 +1,30 @@
+{
+  "name": "Brian Cook",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brian-cook/4891",
+  "seasons": [
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Brian",
+    "Last Name": "Cook",
+    "Full Name": "Brian Cook",
+    "Ht./Wt.": "6-10 / 240",
+    "Position": "F",
+    "Hometown": "Lincoln, Ill.",
+    "High School": "Lincoln",
+    "Height": "6-10",
+    "Weight": "240",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lincoln, Ill.",
+    "lat": 40.1481349,
+    "lon": -89.3636569,
+    "is_illinois": true
+  }
+}

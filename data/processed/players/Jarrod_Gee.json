@@ -1,0 +1,30 @@
+{
+  "name": "Jarrod Gee",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jarrod-gee/4972",
+  "seasons": [
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Jarrod",
+    "Last Name": "Gee",
+    "Full Name": "Jarrod Gee",
+    "Ht./Wt.": "6-8 / 240",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "St. Martin de Porres",
+    "Height": "6-8",
+    "Weight": "240",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

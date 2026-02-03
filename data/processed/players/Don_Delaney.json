@@ -1,0 +1,24 @@
+{
+  "name": "Don Delaney",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/don-delaney/5852",
+  "seasons": [
+    "1944-45"
+  ],
+  "header": {
+    "First Name": "Don",
+    "Last Name": "Delaney",
+    "Full Name": "Don Delaney",
+    "Ht./Wt.": "- /",
+    "Position": "C",
+    "Hometown": "Grand Rapids, Mich.",
+    "High School": "Catholic Central",
+    "Height": "-"
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Grand Rapids, Mich.",
+    "lat": 42.9632425,
+    "lon": -85.6678639,
+    "is_illinois": false
+  }
+}

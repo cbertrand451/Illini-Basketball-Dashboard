@@ -1,0 +1,27 @@
+{
+  "name": "Tom Hallwer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-hallwer/5621",
+  "seasons": [
+    "1957-58"
+  ],
+  "header": {
+    "Jersey Number": "51",
+    "First Name": "Tom",
+    "Last Name": "Hallwer",
+    "Full Name": "Tom Hallwer",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F",
+    "Hometown": "Lockport, Ill.",
+    "High School": "Lockport",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lockport, Ill.",
+    "lat": 41.5894753,
+    "lon": -88.057837,
+    "is_illinois": true
+  }
+}

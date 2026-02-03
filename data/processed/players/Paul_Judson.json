@@ -1,0 +1,29 @@
+{
+  "name": "Paul Judson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/paul-judson/5678",
+  "seasons": [
+    "1953-54",
+    "1954-55",
+    "1955-56"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Paul",
+    "Last Name": "Judson",
+    "Full Name": "Paul Judson",
+    "Ht./Wt.": "6-3 / 170",
+    "Position": "G",
+    "Hometown": "Hebron, Ill.",
+    "High School": "Hebron",
+    "Height": "6-3",
+    "Weight": "170",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Hebron, Ill.",
+    "lat": 42.4716853,
+    "lon": -88.432318,
+    "is_illinois": true
+  }
+}

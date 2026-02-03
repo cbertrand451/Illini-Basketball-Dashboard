@@ -1,0 +1,31 @@
+{
+  "name": "Chester Frazier",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/chester-frazier/4798",
+  "seasons": [
+    "2005-06",
+    "2006-07",
+    "2007-08",
+    "2008-09"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Chester",
+    "Last Name": "Frazier",
+    "Full Name": "Chester Frazier",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/2361810.jpeg?width=300",
+    "Ht./Wt.": "6-2 / 195",
+    "Position": "G",
+    "Hometown": "Baltimore, Md.",
+    "High School": "Lake Clifton-Eastern",
+    "Height": "6-2",
+    "Weight": "195",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Baltimore, Md.",
+    "lat": 39.2908816,
+    "lon": -76.610759,
+    "is_illinois": false
+  }
+}

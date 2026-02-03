@@ -1,0 +1,28 @@
+{
+  "name": "Sam Scaletta",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/sam-scaletta/5419",
+  "seasons": [
+    "1969-70",
+    "1970-71"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Sam",
+    "Last Name": "Scaletta",
+    "Full Name": "Sam Scaletta",
+    "Ht./Wt.": "6-0 / 175",
+    "Position": "G",
+    "Hometown": "Blue Island, Ill.",
+    "High School": "Eisenhower",
+    "Height": "6-0",
+    "Weight": "175",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Blue Island, Ill.",
+    "lat": 41.6573014,
+    "lon": -87.679871,
+    "is_illinois": true
+  }
+}

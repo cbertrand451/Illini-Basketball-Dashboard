@@ -1,0 +1,27 @@
+{
+  "name": "Warren Wilkinson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/warren-wilkinson/5668",
+  "seasons": [
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Warren",
+    "Last Name": "Wilkinson",
+    "Full Name": "Warren Wilkinson",
+    "Ht./Wt.": "5-11 / 160",
+    "Position": "G",
+    "Hometown": "West Frankfort, Ill.",
+    "High School": "West Frankfort",
+    "Height": "5-11",
+    "Weight": "160",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "West Frankfort, Ill.",
+    "lat": 37.8978275,
+    "lon": -88.9314583,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jamar Smith",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jamar-smith/4801",
+  "seasons": [
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Jamar",
+    "Last Name": "Smith",
+    "Full Name": "Jamar Smith",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Richwoods",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

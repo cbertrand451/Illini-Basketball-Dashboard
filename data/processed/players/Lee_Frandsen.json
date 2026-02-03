@@ -1,0 +1,29 @@
+{
+  "name": "Lee Frandsen",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/lee-frandsen/5602",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Lee",
+    "Last Name": "Frandsen",
+    "Full Name": "Lee Frandsen",
+    "Ht./Wt.": "6-3 / 165",
+    "Position": "G",
+    "Hometown": "Davenport, Iowa",
+    "High School": "Central",
+    "Height": "6-3",
+    "Weight": "165",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Davenport, Iowa",
+    "lat": 41.5235808,
+    "lon": -90.5770967,
+    "is_illinois": false
+  }
+}

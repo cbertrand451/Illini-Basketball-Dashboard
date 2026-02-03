@@ -1,0 +1,29 @@
+{
+  "name": "Jim Marks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-marks/5807",
+  "seasons": [
+    "1946-47",
+    "1947-48",
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "27",
+    "First Name": "Jim",
+    "Last Name": "Marks",
+    "Full Name": "Jim Marks",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "F",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
+  }
+}

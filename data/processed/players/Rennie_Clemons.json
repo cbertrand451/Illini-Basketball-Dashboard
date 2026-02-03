@@ -1,0 +1,29 @@
+{
+  "name": "Rennie Clemons",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rennie-clemons/5052",
+  "seasons": [
+    "1990-91",
+    "1991-92",
+    "1992-93"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Rennie",
+    "Last Name": "Clemons",
+    "Full Name": "Rennie Clemons",
+    "Ht./Wt.": "6-0 / 185",
+    "Position": "G",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Calvary",
+    "Height": "6-0",
+    "Weight": "185",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
+  }
+}

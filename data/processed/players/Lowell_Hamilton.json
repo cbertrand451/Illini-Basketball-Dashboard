@@ -1,0 +1,30 @@
+{
+  "name": "Lowell Hamilton",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/lowell-hamilton/5166",
+  "seasons": [
+    "1985-86",
+    "1986-87",
+    "1987-88",
+    "1988-89"
+  ],
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Lowell",
+    "Last Name": "Hamilton",
+    "Full Name": "Lowell Hamilton",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Providence St. Mel",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

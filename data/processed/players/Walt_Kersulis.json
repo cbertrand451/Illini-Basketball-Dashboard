@@ -1,0 +1,30 @@
+{
+  "name": "Walt Kersulis",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/walt-kersulis/5849",
+  "seasons": [
+    "1944-45",
+    "1947-48",
+    "1948-49",
+    "1949-50"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Walt",
+    "Last Name": "Kersulis",
+    "Full Name": "Walt Kersulis",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "C",
+    "Hometown": "East St. Louis, Ill.",
+    "High School": "East St. Louis",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "East St. Louis, Ill.",
+    "lat": 38.6268666,
+    "lon": -90.159707,
+    "is_illinois": true
+  }
+}

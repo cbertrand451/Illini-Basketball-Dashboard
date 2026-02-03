@@ -1,0 +1,27 @@
+{
+  "name": "B.J. Jenkins",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/b-j-jenkins/5186",
+  "seasons": [
+    "1983-84"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "B.J.",
+    "Last Name": "Jenkins",
+    "Full Name": "B.J. Jenkins",
+    "Ht./Wt.": "6-4 / 175",
+    "Position": "F",
+    "Hometown": "Palatine, Ill.",
+    "High School": "Palatine",
+    "Height": "6-4",
+    "Weight": "175",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Palatine, Ill.",
+    "lat": 42.1105502,
+    "lon": -88.0434304,
+    "is_illinois": true
+  }
+}

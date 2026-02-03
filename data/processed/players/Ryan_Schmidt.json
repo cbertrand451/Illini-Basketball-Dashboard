@@ -1,0 +1,32 @@
+{
+  "name": "Ryan Schmidt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ryan-schmidt/3265",
+  "seasons": [
+    "2014-15"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Ryan",
+    "Last Name": "Schmidt",
+    "Full Name": "Ryan Schmidt",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/10711747.jpeg?width=300",
+    "Ht./Wt.": "6-0 / 185",
+    "Position": "G",
+    "Hometown": "Bloomington, IL",
+    "High School": "Bloomington Central Catholic",
+    "Height": "6-0",
+    "Weight": "185",
+    "Height Inches": 72
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f3%2f5%2f8542542.jpeg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Bloomington, IL",
+    "lat": 40.4797828,
+    "lon": -88.9939147,
+    "is_illinois": false
+  }
+}

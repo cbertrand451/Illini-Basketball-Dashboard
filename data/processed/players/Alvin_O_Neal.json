@@ -1,0 +1,27 @@
+{
+  "name": "Alvin O'Neal",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/alvin-o-neal/5390",
+  "seasons": [
+    "1970-71"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Alvin",
+    "Last Name": "O'Neal",
+    "Full Name": "Alvin O'Neal",
+    "Ht./Wt.": "6-4 / 183",
+    "Position": "G/F",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Spalding",
+    "Height": "6-4",
+    "Weight": "183",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

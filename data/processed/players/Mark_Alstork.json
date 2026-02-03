@@ -1,0 +1,41 @@
+{
+  "name": "Mark Alstork",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mark-alstork/7418",
+  "seasons": [
+    "2017-18"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Mark",
+    "Last Name": "Alstork",
+    "Full Name": "Mark Alstork",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2017/8/30/24_Alstork_Mark_17_18.JPG?width=300",
+    "Ht./Wt.": "6-5 / 190",
+    "Position": "G",
+    "Hometown": "Dayton, Ohio",
+    "High School": "Thurgood Marshall",
+    "Height": "6-5",
+    "Weight": "190",
+    "Height Inches": 77
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f1%2f30%2fmarkalstork_illinois_rutgers_013018.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f12%2f3%2fmarkalstork_illinois_maryland_120317.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f11%2f19%2fAlstork_DH88678_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f11%2f11%2fAlstork_CP5_1295_web.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Dayton, Ohio",
+    "lat": 39.7589478,
+    "lon": -84.1916069,
+    "is_illinois": false
+  }
+}

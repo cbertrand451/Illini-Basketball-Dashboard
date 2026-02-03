@@ -1,0 +1,29 @@
+{
+  "name": "Doug Mills",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/doug-mills/5572",
+  "seasons": [
+    "1959-60",
+    "1960-61",
+    "1961-62"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Doug",
+    "Last Name": "Mills",
+    "Full Name": "Doug Mills",
+    "Ht./Wt.": "6-0 / 170",
+    "Position": "G",
+    "Hometown": "Galesburg, Ill.",
+    "High School": "Galesburg",
+    "Height": "6-0",
+    "Weight": "170",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Galesburg, Ill.",
+    "lat": 40.9475652,
+    "lon": -90.3712169,
+    "is_illinois": true
+  }
+}

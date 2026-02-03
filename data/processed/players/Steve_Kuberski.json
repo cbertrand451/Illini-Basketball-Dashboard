@@ -1,0 +1,27 @@
+{
+  "name": "Steve Kuberski",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/steve-kuberski/5463",
+  "seasons": [
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Steve",
+    "Last Name": "Kuberski",
+    "Full Name": "Steve Kuberski",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "F/C",
+    "Hometown": "Moline, Ill.",
+    "High School": "Moline",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Moline, Ill.",
+    "lat": 41.5058344,
+    "lon": -90.5136642,
+    "is_illinois": true
+  }
+}

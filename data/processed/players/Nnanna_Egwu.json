@@ -1,0 +1,41 @@
+{
+  "name": "Nnanna Egwu",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nnanna-egwu/3307",
+  "seasons": [
+    "2011-12",
+    "2012-13",
+    "2013-14",
+    "2014-15"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Nnanna",
+    "Last Name": "Egwu",
+    "Full Name": "Nnanna Egwu",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/6/3/Egwu_Nnanna_082414_0301.jpg?width=300",
+    "Ht./Wt.": "6-11 / 250",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Saint Ignatius",
+    "Height": "6-11",
+    "Weight": "250",
+    "Height Inches": 83
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f5%2f28%2fegwu.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f5%2f26%2fEgwu_1MJ4782.JPG&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f3%2f16%2f10899673.jpeg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Ron Dunlap",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ron-dunlap/5476",
+  "seasons": [
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Ron",
+    "Last Name": "Dunlap",
+    "Full Name": "Ron Dunlap",
+    "Ht./Wt.": "6-8 / 220",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Farragut",
+    "Height": "6-8",
+    "Weight": "220",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

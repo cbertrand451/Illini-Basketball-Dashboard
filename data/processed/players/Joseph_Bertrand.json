@@ -1,0 +1,32 @@
+{
+  "name": "Joseph Bertrand",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/joseph-bertrand/3321",
+  "seasons": [
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13",
+    "2013-14"
+  ],
+  "header": {
+    "Jersey Number": "2",
+    "First Name": "Joseph",
+    "Last Name": "Bertrand",
+    "Full Name": "Joseph Bertrand",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/9286813.jpeg?width=300",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "G",
+    "Hometown": "Sterling, Ill.",
+    "High School": "Sterling",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Sterling, Ill.",
+    "lat": 41.788253,
+    "lon": -89.6953656,
+    "is_illinois": true
+  }
+}

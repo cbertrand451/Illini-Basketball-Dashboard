@@ -1,0 +1,28 @@
+{
+  "name": "Marcus Griffin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/marcus-griffin/4893",
+  "seasons": [
+    "1999-00",
+    "2000-01"
+  ],
+  "header": {
+    "Jersey Number": "52",
+    "First Name": "Marcus",
+    "Last Name": "Griffin",
+    "Full Name": "Marcus Griffin",
+    "Ht./Wt.": "6-9 / 235",
+    "Position": "F",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Manual",
+    "Height": "6-9",
+    "Weight": "235",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Greg Eboigbodin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/greg-eboigbodin/7430",
+  "seasons": [
+    "2017-18"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Greg",
+    "Last Name": "Eboigbodin",
+    "Full Name": "Greg Eboigbodin",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2017/8/30/11_Eboigbodin_Greg_17_18.JPG?width=300",
+    "Ht./Wt.": "6-9 / 225",
+    "Position": "F",
+    "Hometown": "Benin City, Nigeria",
+    "High School": "University of Detroit Jesuit",
+    "Height": "6-9",
+    "Weight": "225",
+    "Height Inches": 81
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f1%2f6%2fgregeboigbodin_illinoismichigan_010618.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f1%2f3%2fEboigbodin_Dunk_5769_web.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Benin City, Nigeria",
+    "lat": 6.3330586,
+    "lon": 5.6221058,
+    "is_illinois": false
+  }
+}

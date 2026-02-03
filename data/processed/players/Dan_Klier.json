@@ -1,0 +1,27 @@
+{
+  "name": "Dan Klier",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dan-klier/5217",
+  "seasons": [
+    "1981-82"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Dan",
+    "Last Name": "Klier",
+    "Full Name": "Dan Klier",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "F",
+    "Hometown": "Naperville, Ill.",
+    "High School": "Central",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Naperville, Ill.",
+    "lat": 41.7728699,
+    "lon": -88.1479278,
+    "is_illinois": true
+  }
+}

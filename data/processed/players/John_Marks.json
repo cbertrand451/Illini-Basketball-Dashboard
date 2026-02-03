@@ -1,0 +1,24 @@
+{
+  "name": "John Marks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-marks/5747",
+  "seasons": [
+    "1949-50",
+    "1950-51"
+  ],
+  "header": {
+    "First Name": "John",
+    "Last Name": "Marks",
+    "Full Name": "John Marks",
+    "Ht./Wt.": "- /",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "-"
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
+  }
+}

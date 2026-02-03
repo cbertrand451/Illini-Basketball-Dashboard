@@ -1,0 +1,28 @@
+{
+  "name": "Dwight Humphrey",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dwight-humphrey/5830",
+  "seasons": [
+    "1945-46",
+    "1946-47",
+    "1947-48"
+  ],
+  "header": {
+    "First Name": "Dwight",
+    "Last Name": "Humphrey",
+    "Full Name": "Dwight Humphrey",
+    "Ht./Wt.": "5-9 / 145",
+    "Position": "G",
+    "Hometown": "Moline, Ill.",
+    "High School": "Moline",
+    "Height": "5-9",
+    "Weight": "145",
+    "Height Inches": 69
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Moline, Ill.",
+    "lat": 41.5058344,
+    "lon": -90.5136642,
+    "is_illinois": true
+  }
+}

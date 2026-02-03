@@ -1,0 +1,27 @@
+{
+  "name": "Jeff Finke",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jeff-finke/5145",
+  "seasons": [
+    "1986-87"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Jeff",
+    "Last Name": "Finke",
+    "Full Name": "Jeff Finke",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "F",
+    "Hometown": "Casey, Ill.",
+    "High School": "Casey",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Casey, Ill.",
+    "lat": 39.2993863,
+    "lon": -87.991754,
+    "is_illinois": true
+  }
+}

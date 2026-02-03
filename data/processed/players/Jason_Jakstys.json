@@ -1,0 +1,39 @@
+{
+  "name": "Jason Jakstys",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jason-jakstys/15202",
+  "seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Jason",
+    "Last Name": "Jakstys",
+    "Full Name": "Jason Jakstys",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_1131.jpg?width=300",
+    "Twitter URL": "https://twitter.com/JakstysJason",
+    "Instagram URL": "https://www.instagram.com/jasonjakstys",
+    "NIL URL": "https://opndr.se/jason-jakstys",
+    "Class": "Redshirt Freshman",
+    "Height": "6-10",
+    "Weight": "225",
+    "Major": "Business",
+    "Hometown": "Yorkville, Ill.",
+    "High School": "Yorkville",
+    "Instagram": "jasonjakstys",
+    "Twitter": "JakstysJason",
+    "Height Inches": 82
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20241125_MBB_vs_LittleRock_CB_0129.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Yorkville, Ill.",
+    "lat": 41.6411409,
+    "lon": -88.4472948,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Benton Odum",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/benton-odum/5806",
+  "seasons": [
+    "1946-47",
+    "1947-48",
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Benton",
+    "Last Name": "Odum",
+    "Full Name": "Benton Odum",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "F",
+    "Hometown": "Marion, Ill.",
+    "High School": "Marion",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Marion, Ill.",
+    "lat": 38.6477381,
+    "lon": -88.9232112,
+    "is_illinois": true
+  }
+}

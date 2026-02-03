@@ -1,0 +1,28 @@
+{
+  "name": "Scott Pierce",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/scott-pierce/5054",
+  "seasons": [
+    "1990-91",
+    "1991-92"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Scott",
+    "Last Name": "Pierce",
+    "Full Name": "Scott Pierce",
+    "Ht./Wt.": "6-8 / 200",
+    "Position": "F",
+    "Hometown": "Euless, Texas",
+    "High School": "Trinity",
+    "Height": "6-8",
+    "Weight": "200",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Euless, Texas",
+    "lat": 32.8370727,
+    "lon": -97.0819541,
+    "is_illinois": false
+  }
+}

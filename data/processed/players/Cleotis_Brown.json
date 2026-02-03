@@ -1,0 +1,28 @@
+{
+  "name": "Cleotis Brown",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/cleotis-brown/4903",
+  "seasons": [
+    "1998-99",
+    "1999-00"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Cleotis",
+    "Last Name": "Brown",
+    "Full Name": "Cleotis Brown",
+    "Ht./Wt.": "6-5 / 220",
+    "Position": "F",
+    "Hometown": "Pittsview, Ala.",
+    "High School": "Russell County",
+    "Height": "6-5",
+    "Weight": "220",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pittsview, Ala.",
+    "lat": 32.188207,
+    "lon": -85.1632685,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Ben Humrichous",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ben-humrichous/15200",
+  "seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Ben",
+    "Last Name": "Humrichous",
+    "Full Name": "Ben Humrichous",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_03.jpg?width=300",
+    "Twitter URL": "https://twitter.com/BHumrichous",
+    "Instagram URL": "https://www.instagram.com/benhumrichous",
+    "NIL URL": "https://opndr.se/ben-humrichous",
+    "Class": "Graduate Student",
+    "Height": "6-9",
+    "Weight": "235",
+    "Major": "Business Analytics",
+    "Hometown": "Tipton, Ind.",
+    "High School": "Tipton",
+    "Prev School": "Evansville",
+    "Instagram": "benhumrichous",
+    "Twitter": "BHumrichous",
+    "Height Inches": 81
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250126_MBB_vs_Northwestern_SK_0112.JPG&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250211_MBB_vs_UCLA_CB_1658.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250208_MBB_at_Minnesota_CB_4662.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Tipton, Ind.",
+    "lat": 40.2899154,
+    "lon": -86.058442,
+    "is_illinois": false
+  }
+}

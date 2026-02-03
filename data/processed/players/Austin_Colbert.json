@@ -1,0 +1,28 @@
+{
+  "name": "Austin Colbert",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/austin-colbert/3284",
+  "seasons": [
+    "2013-14",
+    "2014-15"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Austin",
+    "Last Name": "Colbert",
+    "Full Name": "Austin Colbert",
+    "Ht./Wt.": "6-9 / 210",
+    "Position": "F",
+    "Hometown": "Chesapeake, Va.",
+    "High School": "Gill St. Bernard's (N.J.)",
+    "Height": "6-9",
+    "Weight": "210",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chesapeake, Va.",
+    "lat": 36.7168315,
+    "lon": -76.2494453,
+    "is_illinois": false
+  }
+}

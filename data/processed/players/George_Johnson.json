@@ -1,0 +1,27 @@
+{
+  "name": "George Johnson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/george-johnson/5514",
+  "seasons": [
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "53",
+    "First Name": "George",
+    "Last Name": "Johnson",
+    "Full Name": "George Johnson",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F",
+    "Hometown": "Elmhurst, Ill.",
+    "High School": "York",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elmhurst, Ill.",
+    "lat": 41.8994745,
+    "lon": -87.9403418,
+    "is_illinois": true
+  }
+}

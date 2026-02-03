@@ -1,0 +1,31 @@
+{
+  "name": "T.J. Wheeler",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/t-j-wheeler/5085",
+  "seasons": [
+    "1989-90",
+    "1990-91",
+    "1991-92",
+    "1992-93",
+    "1993-94"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "T.J.",
+    "Last Name": "Wheeler",
+    "Full Name": "T.J. Wheeler",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "G",
+    "Hometown": "Buckner, Ill.",
+    "High School": "Christopher",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Buckner, Ill.",
+    "lat": 37.9831056,
+    "lon": -89.0161841,
+    "is_illinois": true
+  }
+}

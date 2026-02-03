@@ -1,0 +1,28 @@
+{
+  "name": "Reno Gray",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/reno-gray/5270",
+  "seasons": [
+    "1977-78",
+    "1979-80"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Reno",
+    "Last Name": "Gray",
+    "Full Name": "Reno Gray",
+    "Ht./Wt.": "6-2 / 170",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Hales Franciscan",
+    "Height": "6-2",
+    "Weight": "170",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

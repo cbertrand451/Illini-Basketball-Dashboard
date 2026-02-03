@@ -1,0 +1,29 @@
+{
+  "name": "Travis Smith",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/travis-smith/5129",
+  "seasons": [
+    "1987-88",
+    "1988-89",
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Travis",
+    "Last Name": "Smith",
+    "Full Name": "Travis Smith",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Ridgeway, Ill.",
+    "High School": "Ridgeway",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Ridgeway, Ill.",
+    "lat": 37.6052107,
+    "lon": -88.938777,
+    "is_illinois": true
+  }
+}

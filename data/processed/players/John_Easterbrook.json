@@ -1,0 +1,27 @@
+{
+  "name": "John Easterbrook",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-easterbrook/5597",
+  "seasons": [
+    "1958-59"
+  ],
+  "header": {
+    "Jersey Number": "41",
+    "First Name": "John",
+    "Last Name": "Easterbrook",
+    "Full Name": "John Easterbrook",
+    "Ht./Wt.": "5-8 / 150",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Central",
+    "Height": "5-8",
+    "Weight": "150",
+    "Height Inches": 68
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

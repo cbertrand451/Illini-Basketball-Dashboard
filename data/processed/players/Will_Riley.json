@@ -1,0 +1,49 @@
+{
+  "name": "Will Riley",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/will-riley/14574",
+  "seasons": [
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "7",
+    "First Name": "Will",
+    "Last Name": "Riley",
+    "Full Name": "Will Riley",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/Riley_Will_WEB_20240916_MBB_Headshot_KS_2135.jpg?width=300",
+    "Twitter URL": "https://twitter.com/WillRiley_7",
+    "Instagram URL": "https://www.instagram.com/willyjball7",
+    "NIL URL": "https://opndr.se/will-riley-profile",
+    "Class": "Freshman",
+    "Height": "6-8",
+    "Weight": "195",
+    "Major": "General Curriculum",
+    "Hometown": "Kitchener, Ontario, Canada",
+    "High School": "The Phelps School (Pa.)",
+    "Instagram": "willyjball7",
+    "Twitter": "WillRiley_7",
+    "Height Inches": 80
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250119_MBB_at_MichiganSt_CB_2207.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250119_MBB_at_MichiganSt_CB_2539.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250202_MBB_vs_OhioSt_CB_2787.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f11%2f4%2fCLB07019_16x9.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Kitchener, Ontario, Canada",
+    "lat": 43.451291,
+    "lon": -80.4927815,
+    "is_illinois": false
+  }
+}

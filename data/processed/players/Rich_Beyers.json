@@ -1,0 +1,28 @@
+{
+  "name": "Rich Beyers",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rich-beyers/4923",
+  "seasons": [
+    "1997-98",
+    "1998-99"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Rich",
+    "Last Name": "Beyers",
+    "Full Name": "Rich Beyers",
+    "Ht./Wt.": "6-8 / 230",
+    "Position": "F",
+    "Hometown": "Shelbyville, Ill.",
+    "High School": "Shelbyville",
+    "Height": "6-8",
+    "Weight": "230",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Shelbyville, Ill.",
+    "lat": 39.4064284,
+    "lon": -88.7900689,
+    "is_illinois": true
+  }
+}

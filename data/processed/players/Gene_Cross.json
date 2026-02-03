@@ -1,0 +1,30 @@
+{
+  "name": "Gene Cross",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/gene-cross/5061",
+  "seasons": [
+    "1990-91",
+    "1991-92",
+    "1992-93",
+    "1993-94"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Gene",
+    "Last Name": "Cross",
+    "Full Name": "Gene Cross",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "G",
+    "Hometown": "Olympia Fields, Ill.",
+    "High School": "Rich Central",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Olympia Fields, Ill.",
+    "lat": 41.5164045,
+    "lon": -87.7028957,
+    "is_illinois": true
+  }
+}

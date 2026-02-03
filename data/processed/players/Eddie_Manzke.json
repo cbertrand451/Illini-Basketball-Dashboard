@@ -1,0 +1,28 @@
+{
+  "name": "Eddie Manzke",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/eddie-manzke/5130",
+  "seasons": [
+    "1987-88",
+    "1988-89"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Eddie",
+    "Last Name": "Manzke",
+    "Full Name": "Eddie Manzke",
+    "Ht./Wt.": "6-2 / 170",
+    "Position": "G",
+    "Hometown": "Orland Park, Ill.",
+    "High School": "Marist",
+    "Height": "6-2",
+    "Weight": "170",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Orland Park, Ill.",
+    "lat": 41.630663,
+    "lon": -87.8536288,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Nick Huge",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nick-huge/4860",
+  "seasons": [
+    "2001-02",
+    "2002-03"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Nick",
+    "Last Name": "Huge",
+    "Full Name": "Nick Huge",
+    "Ht./Wt.": "6-4 / 215",
+    "Position": "G",
+    "Hometown": "Charlotte, N.C.",
+    "High School": "Christian",
+    "Height": "6-4",
+    "Weight": "215",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Charlotte, N.C.",
+    "lat": 35.2272086,
+    "lon": -80.8430827,
+    "is_illinois": false
+  }
+}

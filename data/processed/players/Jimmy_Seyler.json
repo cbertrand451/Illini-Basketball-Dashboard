@@ -1,0 +1,28 @@
+{
+  "name": "Jimmy Seyler",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jimmy-seyler/5844",
+  "seasons": [
+    "1944-45",
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "9",
+    "First Name": "Jimmy",
+    "Last Name": "Seyler",
+    "Full Name": "Jimmy Seyler",
+    "Ht./Wt.": "5-11 / 170",
+    "Position": "G",
+    "Hometown": "Centralia, Ill.",
+    "High School": "Centralia",
+    "Height": "5-11",
+    "Weight": "170",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Centralia, Ill.",
+    "lat": 38.5250491,
+    "lon": -89.1334037,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Wallie Mroz",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/wallie-mroz/5848",
+  "seasons": [
+    "1944-45",
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Wallie",
+    "Last Name": "Mroz",
+    "Full Name": "Wallie Mroz",
+    "Ht./Wt.": "5-9 / 145",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Wells",
+    "Height": "5-9",
+    "Weight": "145",
+    "Height Inches": 69
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

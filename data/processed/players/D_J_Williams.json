@@ -1,0 +1,61 @@
+{
+  "name": "D.J. Williams",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/d-j-williams/4742",
+  "seasons": [
+    "2015-16",
+    "2016-17"
+  ],
+  "header": {
+    "Jersey Number": "0",
+    "First Name": "D.J.",
+    "Last Name": "Williams",
+    "Full Name": "D.J. Williams",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2016/9/1/Williams_DJ_Headshot_082116_2MJ0870.JPG?width=300",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fdjwilliams_team_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f11%2fdwillfinke_illinoissemo_111116.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f4%2fDJ_9564_topaz.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f10%2f30%2fdjwilliams2_illinoiswashu_103016.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f10%2f30%2fdjwilliams_illinoiswashu_103016.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f2%2f13%2fimg_9114428.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f2%2f7%2fWilliams_Iowa_2MJ7627_WEB.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f2%2f3%2fimg_9093974.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f1%2f10%2fimg_9050568.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f23%2fimg_8947804.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

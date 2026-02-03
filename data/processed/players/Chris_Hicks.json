@@ -1,0 +1,30 @@
+{
+  "name": "Chris Hicks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/chris-hicks/4797",
+  "seasons": [
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "header": {
+    "Jersey Number": "2",
+    "First Name": "Chris",
+    "Last Name": "Hicks",
+    "Full Name": "Chris Hicks",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/1450105.jpeg?width=300",
+    "Ht./Wt.": "6-2 / 195",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Whitney Young",
+    "Height": "6-2",
+    "Weight": "195",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

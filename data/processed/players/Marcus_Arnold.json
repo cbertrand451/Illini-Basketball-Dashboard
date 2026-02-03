@@ -1,0 +1,29 @@
+{
+  "name": "Marcus Arnold",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/marcus-arnold/4819",
+  "seasons": [
+    "2004-05",
+    "2005-06",
+    "2006-07"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Marcus",
+    "Last Name": "Arnold",
+    "Full Name": "Marcus Arnold",
+    "Ht./Wt.": "6-8 / 245",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Morgan Park",
+    "Height": "6-8",
+    "Weight": "245",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Walt Kirk",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/walt-kirk/5847",
+  "seasons": [
+    "1944-45",
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Walt",
+    "Last Name": "Kirk",
+    "Full Name": "Walt Kirk",
+    "Ht./Wt.": "6-3 / 175",
+    "Position": "G",
+    "Hometown": "Mt. Vernon, Ill.",
+    "High School": "Mt. Vernon",
+    "Height": "6-3",
+    "Weight": "175",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Mt. Vernon, Ill.",
+    "lat": 38.3172715,
+    "lon": -88.9031201,
+    "is_illinois": true
+  }
+}

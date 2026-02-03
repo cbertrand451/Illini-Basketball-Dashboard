@@ -1,0 +1,28 @@
+{
+  "name": "Stan Simpson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/stan-simpson/3339",
+  "seasons": [
+    "2008-09",
+    "2009-10"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Stan",
+    "Last Name": "Simpson",
+    "Full Name": "Stan Simpson",
+    "Ht./Wt.": "6-10 / 230",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-10",
+    "Weight": "230",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

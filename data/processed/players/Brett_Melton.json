@@ -1,0 +1,28 @@
+{
+  "name": "Brett Melton",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brett-melton/4866",
+  "seasons": [
+    "2000-01",
+    "2001-02"
+  ],
+  "header": {
+    "Jersey Number": "00",
+    "First Name": "Brett",
+    "Last Name": "Melton",
+    "Full Name": "Brett Melton",
+    "Ht./Wt.": "6-5 / 195",
+    "Position": "G",
+    "Hometown": "Mahomet, Ill.",
+    "High School": "Mahomet-Seymour",
+    "Height": "6-5",
+    "Weight": "195",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Mahomet, Ill.",
+    "lat": 40.195142,
+    "lon": -88.4052266,
+    "is_illinois": true
+  }
+}

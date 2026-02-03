@@ -1,0 +1,28 @@
+{
+  "name": "Nick Anderson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nick-anderson/5121",
+  "seasons": [
+    "1987-88",
+    "1988-89"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Nick",
+    "Last Name": "Anderson",
+    "Full Name": "Nick Anderson",
+    "Ht./Wt.": "6-6 / 215",
+    "Position": "G/F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-6",
+    "Weight": "215",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

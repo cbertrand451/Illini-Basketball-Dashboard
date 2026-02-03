@@ -1,0 +1,49 @@
+{
+  "name": "Adam Miller",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/adam-miller/10322",
+  "seasons": [
+    "2020-21"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Adam",
+    "Last Name": "Miller",
+    "Full Name": "Adam Miller",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2020/10/19/MBB1021_Headshot_MillerAdam__1MJ4392.jpg?width=300",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Morgan Park",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f1%2f10%2fMJG05318.jpg&type=webp",
+      "credit": "Michael Glasgow / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f12%2f26%2fAW6_9946.jpg&type=webp",
+      "credit": "Andy Wenstrand / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f12%2f2%2f0E9A8838.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f11%2f26%2fR_5_1947.jpg&type=webp",
+      "credit": "Andy Wenstrand / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f11%2f25%2fMJG09183.jpg&type=webp",
+      "credit": "Michael Glasgow / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

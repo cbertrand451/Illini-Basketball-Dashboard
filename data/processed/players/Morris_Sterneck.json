@@ -1,0 +1,29 @@
+{
+  "name": "Morris Sterneck",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/morris-sterneck/5681",
+  "seasons": [
+    "1952-53",
+    "1953-54",
+    "1954-55"
+  ],
+  "header": {
+    "Jersey Number": "7",
+    "First Name": "Morris",
+    "Last Name": "Sterneck",
+    "Full Name": "Morris Sterneck",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Salem, Ill.",
+    "High School": "Salem",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Salem, Ill.",
+    "lat": 38.6269929,
+    "lon": -88.9456158,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Steve Kohn",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/steve-kohn/5440",
+  "seasons": [
+    "1967-68"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Steve",
+    "Last Name": "Kohn",
+    "Full Name": "Steve Kohn",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Creve Coeur, Mo.",
+    "High School": "Ladue",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Creve Coeur, Mo.",
+    "lat": 38.6613007,
+    "lon": -90.4423653,
+    "is_illinois": false
+  }
+}

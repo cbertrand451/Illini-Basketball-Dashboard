@@ -1,0 +1,68 @@
+{
+  "name": "Coleman Hawkins",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/coleman-hawkins/10324",
+  "seasons": [
+    "2020-21",
+    "2021-22",
+    "2022-23",
+    "2023-24"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Coleman",
+    "Last Name": "Hawkins",
+    "Full Name": "Coleman Hawkins",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2023/9/29/Hawkins_Coleman_WEB_20230929_MBB_Headshot_KS_0036.jpg?width=300",
+    "Twitter URL": "https://twitter.com/colehawk23",
+    "Instagram URL": "https://www.instagram.com/colemanhawkins33",
+    "NIL URL": "https://opndr.se/coleman-hawkins",
+    "Class": "Senior",
+    "Height": "6-10",
+    "Weight": "230",
+    "Hometown": "Sacramento, Calif.",
+    "High School": "Prolific Prep",
+    "Instagram": "colemanhawkins33",
+    "Twitter": "colehawk23",
+    "Height Inches": 82
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2fMBB-2022-12-10_Penn_State__DP__7489.jpg&type=webp",
+      "credit": "Della Perrone / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2fMBB_UW_1-7_KG-17.jpg&type=webp",
+      "credit": "Kedzie Griffin / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2fDSC07296.jpg&type=webp",
+      "credit": "Enoch Wells / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f20230131_DC_MBB_vs._NE_-95.JPG&type=webp",
+      "credit": "David Craan / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f20230124_DC_MBB_vs._Ohio_State-37.JPG&type=webp",
+      "credit": "David Craan / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230128_mbb_wisconsin_cb_096.JPG&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221222_mbb_braggin_rights_cb_052.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2022%2f12%2f2%2fMaryland_Recap.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Sacramento, Calif.",
+    "lat": 38.5810606,
+    "lon": -121.493895,
+    "is_illinois": false
+  }
+}

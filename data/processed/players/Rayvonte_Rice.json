@@ -1,0 +1,52 @@
+{
+  "name": "Rayvonte Rice",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rayvonte-rice/3295",
+  "seasons": [
+    "2012-13",
+    "2013-14",
+    "2014-15"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Rayvonte",
+    "Last Name": "Rice",
+    "Full Name": "Rayvonte Rice",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/6/3/Rice_Rayvonte_082414_0245.jpg?width=300",
+    "Ht./Wt.": "6-4 / 230",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Centennial",
+    "Height": "6-4",
+    "Weight": "230",
+    "Height Inches": 76
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f12%2f18%2fRice_winner_USAToday.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f3%2f7%2f8548464.jpeg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f3%2f7%2f8548465.jpeg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f3%2f7%2f8548467.jpeg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f5%2f28%2frichmich1.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f5%2f28%2frice-mich.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

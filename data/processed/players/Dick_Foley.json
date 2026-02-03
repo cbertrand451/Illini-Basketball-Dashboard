@@ -1,0 +1,29 @@
+{
+  "name": "Dick Foley",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dick-foley/5790",
+  "seasons": [
+    "1946-47",
+    "1947-48",
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "9",
+    "First Name": "Dick",
+    "Last Name": "Foley",
+    "Full Name": "Dick Foley",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Paris, Ill.",
+    "High School": "Paris",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Paris, Ill.",
+    "lat": 39.611146,
+    "lon": -87.6961374,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,31 @@
+.card {
+ display: block;
+ width: 100%;
+ max-width: 100%;
+ line-height: 0;
+ background: var(--card-overlay), var(--card-bg);
+ border: none;
+ border-radius: 20px;
+ overflow: hidden;
+ box-shadow: var(--shadow-1), var(--shadow-2);
+ transition: border-radius 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+             transform 0.3s ease,
+             box-shadow 0.3s ease;
+}
+
+.card img {
+ display: block;
+ width: 100% !important;
+ height: 100% !important;
+ object-fit: cover;
+ /* border-radius: 10px; */
+}
+
+.card.shadow {
+ box-shadow: none;
+}
+
+.card.shadow:hover {
+ box-shadow: 0 16px 45px rgba(16, 24, 40, 0.16), 0 4px 12px rgba(16, 24, 40, 0.10);
+ transform: translateY(-3px) scale(1.01);
+}

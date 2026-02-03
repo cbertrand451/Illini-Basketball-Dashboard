@@ -1,0 +1,31 @@
+{
+  "name": "Mike Davis",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-davis/3344",
+  "seasons": [
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Mike",
+    "Last Name": "Davis",
+    "Full Name": "Mike Davis",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/2361806.jpeg?width=300",
+    "Ht./Wt.": "6-9 / 225",
+    "Position": "F",
+    "Hometown": "Alexandria, Va.",
+    "High School": "T.C. Williams",
+    "Height": "6-9",
+    "Weight": "225",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Alexandria, Va.",
+    "lat": 38.8051095,
+    "lon": -77.0470229,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Jack Burmaster",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jack-burmaster/5851",
+  "seasons": [
+    "1944-45",
+    "1945-46",
+    "1946-47",
+    "1947-48"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Jack",
+    "Last Name": "Burmaster",
+    "Full Name": "Jack Burmaster",
+    "Ht./Wt.": "6-2 / 190",
+    "Position": "G",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-2",
+    "Weight": "190",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "D.J. Richardson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/d-j-richardson/3326",
+  "seasons": [
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13"
+  ],
+  "header": {
+    "Jersey Number": "1",
+    "First Name": "D.J.",
+    "Last Name": "Richardson",
+    "Full Name": "D.J. Richardson",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/8070805.jpeg?width=300",
+    "Ht./Wt.": "6-3 / 195",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Central",
+    "Height": "6-3",
+    "Weight": "195",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

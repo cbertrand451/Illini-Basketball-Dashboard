@@ -1,0 +1,28 @@
+{
+  "name": "Jim Chengary",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-chengary/5638",
+  "seasons": [
+    "1955-56",
+    "1956-57"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Jim",
+    "Last Name": "Chengary",
+    "Full Name": "Jim Chengary",
+    "Ht./Wt.": "6-3 / 190",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Bowen",
+    "Height": "6-3",
+    "Weight": "190",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Steve Holdren",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/steve-holdren/4786",
+  "seasons": [
+    "2006-07",
+    "2007-08"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Steve",
+    "Last Name": "Holdren",
+    "Full Name": "Steve Holdren",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/1450106.jpeg?width=300",
+    "Ht./Wt.": "6-5 / 200",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Centennial",
+    "Height": "6-5",
+    "Weight": "200",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

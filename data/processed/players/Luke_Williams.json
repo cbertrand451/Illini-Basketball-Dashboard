@@ -1,0 +1,27 @@
+{
+  "name": "Luke Williams",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/luke-williams/4915",
+  "seasons": [
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Luke",
+    "Last Name": "Williams",
+    "Full Name": "Luke Williams",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "G",
+    "Hometown": "Mattoon, Ill.",
+    "High School": "Shiloh",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Mattoon, Ill.",
+    "lat": 39.4842821,
+    "lon": -88.3773279,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jim Dorris",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-dorris/5605",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Jim",
+    "Last Name": "Dorris",
+    "Full Name": "Jim Dorris",
+    "Ht./Wt.": "6-1 / 185",
+    "Position": "G",
+    "Hometown": "Centralia, Ill.",
+    "High School": "Centralia",
+    "Height": "6-1",
+    "Weight": "185",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Centralia, Ill.",
+    "lat": 38.5250491,
+    "lon": -89.1334037,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Drew Cayce",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/drew-cayce/7067",
+  "seasons": [
+    "2016-17",
+    "2017-18",
+    "2018-19"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Drew",
+    "Last Name": "Cayce",
+    "Full Name": "Drew Cayce",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2018/9/5/Cayce_Drew_082618_1MJ4880.JPG?width=300",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Libertyville, Ill.",
+    "High School": "La Lumiere (Ind.)",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Libertyville, Ill.",
+    "lat": 42.2830786,
+    "lon": -87.9531303,
+    "is_illinois": true
+  }
+}

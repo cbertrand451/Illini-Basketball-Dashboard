@@ -1,0 +1,32 @@
+{
+  "name": "Brian Randle",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brian-randle/4832",
+  "seasons": [
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07",
+    "2007-08"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Brian",
+    "Last Name": "Randle",
+    "Full Name": "Brian Randle",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/1450116.jpeg?width=300",
+    "Ht./Wt.": "6-8 / 220",
+    "Position": "F",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Notre Dame",
+    "Height": "6-8",
+    "Weight": "220",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

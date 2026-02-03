@@ -1,0 +1,29 @@
+{
+  "name": "John Kerr",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-kerr/5698",
+  "seasons": [
+    "1951-52",
+    "1952-53",
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "John",
+    "Last Name": "Kerr",
+    "Full Name": "John Kerr",
+    "Ht./Wt.": "6-9 / 225",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Tilden",
+    "Height": "6-9",
+    "Weight": "225",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

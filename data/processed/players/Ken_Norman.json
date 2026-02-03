@@ -1,0 +1,29 @@
+{
+  "name": "Ken Norman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ken-norman/5177",
+  "seasons": [
+    "1984-85",
+    "1985-86",
+    "1986-87"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Ken",
+    "Last Name": "Norman",
+    "Full Name": "Ken Norman",
+    "Ht./Wt.": "6-8 / 215",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Crane",
+    "Height": "6-8",
+    "Weight": "215",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

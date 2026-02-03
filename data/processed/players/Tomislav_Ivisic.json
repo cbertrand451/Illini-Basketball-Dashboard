@@ -1,0 +1,46 @@
+{
+  "name": "Tomislav Ivisic",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tomislav-ivisic/15201",
+  "seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "Tomislav",
+    "Last Name": "Ivisic",
+    "Full Name": "Tomislav Ivisic",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_191.jpg?width=300",
+    "Twitter URL": "https://twitter.com/TIvisic",
+    "Instagram URL": "https://www.instagram.com/tomislav_ivisic",
+    "NIL URL": "https://opndr.se/tomislav-ivisic",
+    "Class": "Junior",
+    "Height": "7-1",
+    "Weight": "255",
+    "Major": "Communication",
+    "Hometown": "Vodice, Croatia",
+    "Prev School": "SC Derby",
+    "Instagram": "tomislav_ivisic",
+    "Twitter": "TIvisic",
+    "Height Inches": 85
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250211_MBB_vs_UCLA_CB_5070.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250211_MBB_vs_UCLA_CB_6038_uau6g.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250211_MBB_vs_UCLA_CB_6444.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Vodice, Croatia",
+    "lat": 43.7588065,
+    "lon": 15.7769182,
+    "is_illinois": false
+  }
+}

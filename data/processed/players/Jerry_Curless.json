@@ -1,0 +1,29 @@
+{
+  "name": "Jerry Curless",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jerry-curless/5577",
+  "seasons": [
+    "1959-60",
+    "1960-61",
+    "1961-62"
+  ],
+  "header": {
+    "Jersey Number": "41",
+    "First Name": "Jerry",
+    "Last Name": "Curless",
+    "Full Name": "Jerry Curless",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Table Grove, Ill.",
+    "High School": "V.I.T.",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Table Grove, Ill.",
+    "lat": 40.3642095,
+    "lon": -90.4251258,
+    "is_illinois": true
+  }
+}

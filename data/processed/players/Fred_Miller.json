@@ -1,0 +1,29 @@
+{
+  "name": "Fred Miller",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/fred-miller/5425",
+  "seasons": [
+    "1968-69",
+    "1969-70",
+    "1970-71"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Fred",
+    "Last Name": "Miller",
+    "Full Name": "Fred Miller",
+    "Ht./Wt.": "6-4 / 210",
+    "Position": "G/F",
+    "Hometown": "Pekin, Ill.",
+    "High School": "Pekin",
+    "Height": "6-4",
+    "Weight": "210",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pekin, Ill.",
+    "lat": 40.5687911,
+    "lon": -89.6501621,
+    "is_illinois": true
+  }
+}

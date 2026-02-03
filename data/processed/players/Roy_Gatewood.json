@@ -1,0 +1,29 @@
+{
+  "name": "Roy Gatewood",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/roy-gatewood/5789",
+  "seasons": [
+    "1946-47",
+    "1948-49",
+    "1949-50"
+  ],
+  "header": {
+    "Jersey Number": "8",
+    "First Name": "Roy",
+    "Last Name": "Gatewood",
+    "Full Name": "Roy Gatewood",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "F",
+    "Hometown": "Salem, Ill.",
+    "High School": "Salem",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Salem, Ill.",
+    "lat": 38.6269929,
+    "lon": -88.9456158,
+    "is_illinois": true
+  }
+}

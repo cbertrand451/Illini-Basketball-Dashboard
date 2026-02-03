@@ -1,0 +1,28 @@
+{
+  "name": "Donn Deputy",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/donn-deputy/5357",
+  "seasons": [
+    "1972-73",
+    "1973-74"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Donn",
+    "Last Name": "Deputy",
+    "Full Name": "Donn Deputy",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "F",
+    "Hometown": "Pekin, Ill.",
+    "High School": "Pekin",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pekin, Ill.",
+    "lat": 40.5687911,
+    "lon": -89.6501621,
+    "is_illinois": true
+  }
+}

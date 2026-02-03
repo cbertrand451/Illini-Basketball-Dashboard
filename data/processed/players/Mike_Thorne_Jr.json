@@ -1,0 +1,60 @@
+{
+  "name": "Mike Thorne Jr.",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-thorne-jr-/4739",
+  "seasons": [
+    "2015-16",
+    "2016-17"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Mike",
+    "Last Name": "Thorne Jr.",
+    "Full Name": "Mike Thorne Jr.",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2016/9/1/Thorne_Jr_Mike_Headshot_082116_2MJ0919.JPG?width=300",
+    "Ht./Wt.": "6-11 / 280",
+    "Position": "C",
+    "Hometown": "Fayetteville, N.C.",
+    "High School": "Trinity Christian",
+    "Height": "6-11",
+    "Weight": "280",
+    "Height Inches": 83
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f3%2f14%2fTHORNE_CP4_0667_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f12%2f27%2fimg_9700692.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f25%2fimg_9701629.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f24%2fimg_9700686.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f24%2fimg_9700692.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f23%2fimg_8947788.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f23%2fimg_8947801.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f23%2fimg_8943130.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f21%2fimg_8942518.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f21%2fimg_8942523.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Fayetteville, N.C.",
+    "lat": 35.0525759,
+    "lon": -78.878292,
+    "is_illinois": false
+  }
+}

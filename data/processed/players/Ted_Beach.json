@@ -1,0 +1,29 @@
+{
+  "name": "Ted Beach",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ted-beach/5759",
+  "seasons": [
+    "1948-49",
+    "1949-50",
+    "1950-51"
+  ],
+  "header": {
+    "Jersey Number": "8",
+    "First Name": "Ted",
+    "Last Name": "Beach",
+    "Full Name": "Ted Beach",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "F",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Champaign",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

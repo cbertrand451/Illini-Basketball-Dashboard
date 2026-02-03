@@ -1,0 +1,30 @@
+{
+  "name": "Scott Meents",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/scott-meents/5209",
+  "seasons": [
+    "1982-83",
+    "1983-84",
+    "1984-85",
+    "1985-86"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Scott",
+    "Last Name": "Meents",
+    "Full Name": "Scott Meents",
+    "Ht./Wt.": "6-10 / 230",
+    "Position": "F",
+    "Hometown": "Kankakee, Ill.",
+    "High School": "Herscher",
+    "Height": "6-10",
+    "Weight": "230",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Kankakee, Ill.",
+    "lat": 41.1253903,
+    "lon": -87.848682,
+    "is_illinois": true
+  }
+}

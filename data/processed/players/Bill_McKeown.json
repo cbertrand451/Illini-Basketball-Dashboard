@@ -1,0 +1,29 @@
+{
+  "name": "Bill McKeown",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-mckeown/5526",
+  "seasons": [
+    "1962-63",
+    "1963-64",
+    "1964-65"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Bill",
+    "Last Name": "McKeown",
+    "Full Name": "Bill McKeown",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Clinton, Ill.",
+    "High School": "Clinton",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Clinton, Ill.",
+    "lat": 38.5896187,
+    "lon": -89.420064,
+    "is_illinois": true
+  }
+}

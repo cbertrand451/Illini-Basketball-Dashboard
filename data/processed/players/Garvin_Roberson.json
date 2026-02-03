@@ -1,0 +1,29 @@
+{
+  "name": "Garvin Roberson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/garvin-roberson/5369",
+  "seasons": [
+    "1971-72",
+    "1972-73",
+    "1973-74"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Garvin",
+    "Last Name": "Roberson",
+    "Full Name": "Garvin Roberson",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Elkhart, Ind.",
+    "High School": "Elkhart",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elkhart, Ind.",
+    "lat": 41.6012796,
+    "lon": -85.8590603,
+    "is_illinois": false
+  }
+}

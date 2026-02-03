@@ -1,0 +1,30 @@
+{
+  "name": "Dee Maras",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dee-maras/5225",
+  "seasons": [
+    "1981-82",
+    "1982-83",
+    "1983-84",
+    "1984-85"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Dee",
+    "Last Name": "Maras",
+    "Full Name": "Dee Maras",
+    "Ht./Wt.": "6-7 / 220",
+    "Position": "F",
+    "Hometown": "Antioch, Ill.",
+    "High School": "Antioch",
+    "Height": "6-7",
+    "Weight": "220",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Antioch, Ill.",
+    "lat": 42.4767131,
+    "lon": -88.0950691,
+    "is_illinois": true
+  }
+}

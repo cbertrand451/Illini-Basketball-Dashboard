@@ -1,0 +1,29 @@
+{
+  "name": "Dave Downey",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dave-downey/5556",
+  "seasons": [
+    "1960-61",
+    "1961-62",
+    "1962-63"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Dave",
+    "Last Name": "Downey",
+    "Full Name": "Dave Downey",
+    "Ht./Wt.": "6-4 / 205",
+    "Position": "F",
+    "Hometown": "Canton, Ill.",
+    "High School": "Canton",
+    "Height": "6-4",
+    "Weight": "205",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Canton, Ill.",
+    "lat": 40.5580945,
+    "lon": -90.0351167,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Bill Ridley",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-ridley/5667",
+  "seasons": [
+    "1953-54",
+    "1954-55",
+    "1955-56"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Bill",
+    "Last Name": "Ridley",
+    "Full Name": "Bill Ridley",
+    "Ht./Wt.": "5-9 / 160",
+    "Position": "G",
+    "Hometown": "Taylorville, Ill.",
+    "High School": "Taylorville",
+    "Height": "5-9",
+    "Weight": "160",
+    "Height Inches": 69
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Taylorville, Ill.",
+    "lat": 39.5487452,
+    "lon": -89.2941549,
+    "is_illinois": true
+  }
+}

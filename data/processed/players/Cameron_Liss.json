@@ -1,0 +1,35 @@
+{
+  "name": "Cameron Liss",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/cameron-liss/3273",
+  "seasons": [
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18"
+  ],
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Cameron",
+    "Last Name": "Liss",
+    "Full Name": "Cameron Liss",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2017/8/30/45_Liss_Cameron_17_18.JPG?width=300",
+    "Ht./Wt.": "6-6 / 220",
+    "Position": "F",
+    "Hometown": "Northbrook, Ill.",
+    "High School": "Glenbrook North",
+    "Height": "6-6",
+    "Weight": "220",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f11%2fcameronliss-illinoisbasketball-uis-2015.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Northbrook, Ill.",
+    "lat": 42.128704,
+    "lon": -87.8265089,
+    "is_illinois": true
+  }
+}

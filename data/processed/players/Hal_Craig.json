@@ -1,0 +1,28 @@
+{
+  "name": "Hal Craig",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/hal-craig/5814",
+  "seasons": [
+    "1945-46",
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "27",
+    "First Name": "Hal",
+    "Last Name": "Craig",
+    "Full Name": "Hal Craig",
+    "Ht./Wt.": "6-0 / 160",
+    "Position": "F",
+    "Hometown": "Decatur, Ill.",
+    "High School": "Decatur",
+    "Height": "6-0",
+    "Weight": "160",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Decatur, Ill.",
+    "lat": 39.8454163,
+    "lon": -88.9524151,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Doyle Glass",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/doyle-glass/5670",
+  "seasons": [
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Doyle",
+    "Last Name": "Glass",
+    "Full Name": "Doyle Glass",
+    "Ht./Wt.": "5-11 / 180",
+    "Position": "G",
+    "Hometown": "Pekin, Ill.",
+    "High School": "Pekin",
+    "Height": "5-11",
+    "Weight": "180",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pekin, Ill.",
+    "lat": 40.5687911,
+    "lon": -89.6501621,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Robert Leigh",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/robert-leigh/5669",
+  "seasons": [
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Robert",
+    "Last Name": "Leigh",
+    "Full Name": "Robert Leigh",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "G",
+    "Hometown": "East Lynn, Ill.",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "East Lynn, Ill.",
+    "lat": 40.4664252,
+    "lon": -87.8000287,
+    "is_illinois": true
+  }
+}

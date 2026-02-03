@@ -1,0 +1,35 @@
+{
+  "name": "Mike LaTulip",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-latulip/3292",
+  "seasons": [
+    "2012-13",
+    "2013-14",
+    "2014-15",
+    "2015-16"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Mike",
+    "Last Name": "LaTulip",
+    "Full Name": "Mike LaTulip",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/6/3/LaTulip_Mike_082414_0303.jpg?width=300",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Arlington Heights, Ill.",
+    "High School": "Prospect",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f6%2f20%2flatulip.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Arlington Heights, Ill.",
+    "lat": 42.0811563,
+    "lon": -87.9802164,
+    "is_illinois": true
+  }
+}

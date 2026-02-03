@@ -1,0 +1,29 @@
+{
+  "name": "Bill Altenberger",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-altenberger/5656",
+  "seasons": [
+    "1954-55",
+    "1955-56",
+    "1956-57"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Bill",
+    "Last Name": "Altenberger",
+    "Full Name": "Bill Altenberger",
+    "Ht./Wt.": "6-1 / 180",
+    "Position": "F",
+    "Hometown": "East St. Louis, Ill.",
+    "High School": "Senior",
+    "Height": "6-1",
+    "Weight": "180",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "East St. Louis, Ill.",
+    "lat": 38.6268666,
+    "lon": -90.159707,
+    "is_illinois": true
+  }
+}

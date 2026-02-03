@@ -1,0 +1,27 @@
+{
+  "name": "Jeff Berry",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jeff-berry/5286",
+  "seasons": [
+    "1976-77"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Jeff",
+    "Last Name": "Berry",
+    "Full Name": "Jeff Berry",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Morgan Park",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

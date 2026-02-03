@@ -1,0 +1,28 @@
+{
+  "name": "Mike Washington",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-washington/5331",
+  "seasons": [
+    "1974-75",
+    "1975-76"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Mike",
+    "Last Name": "Washington",
+    "Full Name": "Mike Washington",
+    "Ht./Wt.": "6-8 / 210",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Morgan Park",
+    "Height": "6-8",
+    "Weight": "210",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

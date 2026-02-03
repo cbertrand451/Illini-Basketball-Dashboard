@@ -1,0 +1,27 @@
+{
+  "name": "Doug Faulds",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/doug-faulds/5421",
+  "seasons": [
+    "1969-70"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Doug",
+    "Last Name": "Faulds",
+    "Full Name": "Doug Faulds",
+    "Ht./Wt.": "6-6 / 195",
+    "Position": "C",
+    "Hometown": "La Grange Park, Ill.",
+    "High School": "Lyons",
+    "Height": "6-6",
+    "Weight": "195",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "La Grange Park, Ill.",
+    "lat": 41.8333646,
+    "lon": -87.8677324,
+    "is_illinois": true
+  }
+}

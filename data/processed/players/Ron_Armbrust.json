@@ -1,0 +1,28 @@
+{
+  "name": "Ron Armbrust",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ron-armbrust/5448",
+  "seasons": [
+    "1967-68",
+    "1968-69"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Ron",
+    "Last Name": "Armbrust",
+    "Full Name": "Ron Armbrust",
+    "Ht./Wt.": "6-1 / 185",
+    "Position": "G",
+    "Hometown": "Lincoln, Ill.",
+    "High School": "Lincoln",
+    "Height": "6-1",
+    "Weight": "185",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lincoln, Ill.",
+    "lat": 40.1481349,
+    "lon": -89.3636569,
+    "is_illinois": true
+  }
+}

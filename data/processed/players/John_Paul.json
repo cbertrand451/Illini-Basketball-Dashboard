@@ -1,0 +1,29 @@
+{
+  "name": "John Paul",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-paul/5649",
+  "seasons": [
+    "1955-56",
+    "1956-57",
+    "1957-58"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "John",
+    "Last Name": "Paul",
+    "Full Name": "John Paul",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
+  }
+}

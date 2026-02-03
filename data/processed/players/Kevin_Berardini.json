@@ -1,0 +1,30 @@
+{
+  "name": "Kevin Berardini",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kevin-berardini/3315",
+  "seasons": [
+    "2010-11",
+    "2011-12",
+    "2012-13"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Kevin",
+    "Last Name": "Berardini",
+    "Full Name": "Kevin Berardini",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/8070243.jpeg?width=300",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Lake Forest, Ill.",
+    "High School": "Lake Forest",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lake Forest, Ill.",
+    "lat": 42.2586461,
+    "lon": -87.8407055,
+    "is_illinois": true
+  }
+}

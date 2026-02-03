@@ -1,0 +1,29 @@
+{
+  "name": "Bryant Notree",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bryant-notree/4969",
+  "seasons": [
+    "1994-95",
+    "1995-96",
+    "1996-97"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Bryant",
+    "Last Name": "Notree",
+    "Full Name": "Bryant Notree",
+    "Ht./Wt.": "6-5 / 205",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-5",
+    "Weight": "205",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Jim Dawson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-dawson/5487",
+  "seasons": [
+    "1964-65",
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Jim",
+    "Last Name": "Dawson",
+    "Full Name": "Jim Dawson",
+    "Ht./Wt.": "6-0 / 175",
+    "Position": "G",
+    "Hometown": "Elmhurst, Ill.",
+    "High School": "York",
+    "Height": "6-0",
+    "Weight": "175",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Elmhurst, Ill.",
+    "lat": 41.8994745,
+    "lon": -87.9403418,
+    "is_illinois": true
+  }
+}

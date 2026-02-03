@@ -1,0 +1,66 @@
+{
+  "name": "Kendrick Nunn",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kendrick-nunn/3283",
+  "seasons": [
+    "2013-14",
+    "2014-15",
+    "2015-16"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Kendrick",
+    "Last Name": "Nunn",
+    "Full Name": "Kendrick Nunn",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/6/3/Nunn_Kendrick_082414_0329.jpg?width=300",
+    "Ht./Wt.": "6-3 / 190",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-3",
+    "Weight": "190",
+    "Height Inches": 75
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f3%2f11%2fimg_9175413.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f3%2f10%2fimg_9173448.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f3%2f10%2fIMG_4008.JPG&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f3%2f3%2fimg_9155909.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f2%2f3%2fimg_9093972.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f1%2f23%2fimg_9073572.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f1%2f23%2fimg_9073572.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f1%2f11%2fimg_9050573.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f23%2fimg_9014956.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f19%2fimg_9004578.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

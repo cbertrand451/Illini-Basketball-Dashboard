@@ -1,0 +1,28 @@
+{
+  "name": "Jake Staab",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jake-staab/5845",
+  "seasons": [
+    "1944-45",
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Jake",
+    "Last Name": "Staab",
+    "Full Name": "Jake Staab",
+    "Ht./Wt.": "6-2 / 170",
+    "Position": "F",
+    "Hometown": "Chillicothe, Ill.",
+    "High School": "Chillicothe",
+    "Height": "6-2",
+    "Weight": "170",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chillicothe, Ill.",
+    "lat": 40.9161637,
+    "lon": -89.4884384,
+    "is_illinois": true
+  }
+}

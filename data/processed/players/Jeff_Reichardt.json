@@ -1,0 +1,28 @@
+{
+  "name": "Jeff Reichardt",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jeff-reichardt/4928",
+  "seasons": [
+    "1996-97",
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Jeff",
+    "Last Name": "Reichardt",
+    "Full Name": "Jeff Reichardt",
+    "Ht./Wt.": "6-1 / 185",
+    "Position": "G",
+    "Hometown": "Schaumburg, Ill.",
+    "High School": "Schaumburg",
+    "Height": "6-1",
+    "Weight": "185",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Schaumburg, Ill.",
+    "lat": 42.0333608,
+    "lon": -88.083406,
+    "is_illinois": true
+  }
+}

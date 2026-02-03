@@ -1,0 +1,30 @@
+{
+  "name": "Kevin Turner",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kevin-turner/4973",
+  "seasons": [
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Kevin",
+    "Last Name": "Turner",
+    "Full Name": "Kevin Turner",
+    "Ht./Wt.": "6-3 / 170",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-3",
+    "Weight": "170",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

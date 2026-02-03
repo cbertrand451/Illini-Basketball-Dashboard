@@ -1,0 +1,28 @@
+{
+  "name": "Paul Eckert",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/paul-eckert/5822",
+  "seasons": [
+    "1945-46",
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Paul",
+    "Last Name": "Eckert",
+    "Full Name": "Paul Eckert",
+    "Ht./Wt.": "6-1 / 180",
+    "Position": "G",
+    "Hometown": "Herrin, Ill.",
+    "High School": "Herrin",
+    "Height": "6-1",
+    "Weight": "180",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Herrin, Ill.",
+    "lat": 37.8031056,
+    "lon": -89.0275744,
+    "is_illinois": true
+  }
+}

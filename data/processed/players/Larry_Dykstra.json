@@ -1,0 +1,27 @@
+{
+  "name": "Larry Dykstra",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-dykstra/5415",
+  "seasons": [
+    "1969-70"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Larry",
+    "Last Name": "Dykstra",
+    "Full Name": "Larry Dykstra",
+    "Ht./Wt.": "6-7 / 205",
+    "Position": "C",
+    "Hometown": "Rockford, Ill.",
+    "High School": "Guilford",
+    "Height": "6-7",
+    "Weight": "205",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
+  }
+}

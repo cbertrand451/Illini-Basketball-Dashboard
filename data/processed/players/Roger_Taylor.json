@@ -1,0 +1,29 @@
+{
+  "name": "Roger Taylor",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/roger-taylor/5623",
+  "seasons": [
+    "1956-57",
+    "1957-58",
+    "1958-59"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Roger",
+    "Last Name": "Taylor",
+    "Full Name": "Roger Taylor",
+    "Ht./Wt.": "6-0 / 170",
+    "Position": "G",
+    "Hometown": "Park Forest, Ill.",
+    "High School": "Rich East",
+    "Height": "6-0",
+    "Weight": "170",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Park Forest, Ill.",
+    "lat": 41.4825788,
+    "lon": -87.6802344,
+    "is_illinois": true
+  }
+}

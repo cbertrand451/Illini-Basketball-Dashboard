@@ -1,0 +1,29 @@
+{
+  "name": "Steve Lanter",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/steve-lanter/5287",
+  "seasons": [
+    "1976-77",
+    "1977-78",
+    "1978-79"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Steve",
+    "Last Name": "Lanter",
+    "Full Name": "Steve Lanter",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Belleville, Ill.",
+    "High School": "Mascoutah",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Jerry Renner",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jerry-renner/5547",
+  "seasons": [
+    "1960-61",
+    "1961-62"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Jerry",
+    "Last Name": "Renner",
+    "Full Name": "Jerry Renner",
+    "Ht./Wt.": "6-1 / 185",
+    "Position": "G/F",
+    "Hometown": "Aurora, Ill.",
+    "High School": "East",
+    "Height": "6-1",
+    "Weight": "185",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Aurora, Ill.",
+    "lat": 41.7571701,
+    "lon": -88.3147539,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Chet Trost",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/chet-trost/5800",
+  "seasons": [
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "26",
+    "First Name": "Chet",
+    "Last Name": "Trost",
+    "Full Name": "Chet Trost",
+    "Ht./Wt.": "6-3 / 175",
+    "Position": "F",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Champaign",
+    "Height": "6-3",
+    "Weight": "175",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

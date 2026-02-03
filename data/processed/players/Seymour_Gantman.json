@@ -1,0 +1,29 @@
+{
+  "name": "Seymour Gantman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/seymour-gantman/5743",
+  "seasons": [
+    "1949-50",
+    "1950-51",
+    "1951-52"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Seymour",
+    "Last Name": "Gantman",
+    "Full Name": "Seymour Gantman",
+    "Ht./Wt.": "5-7 / 165",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Marshall",
+    "Height": "5-7",
+    "Weight": "165",
+    "Height Inches": 67
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

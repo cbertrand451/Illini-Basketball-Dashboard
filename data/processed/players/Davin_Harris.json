@@ -1,0 +1,27 @@
+{
+  "name": "Davin Harris",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/davin-harris/5006",
+  "seasons": [
+    "1992-93"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Davin",
+    "Last Name": "Harris",
+    "Full Name": "Davin Harris",
+    "Ht./Wt.": "6-0 / 160",
+    "Position": "G",
+    "Hometown": "Bloomington, Ill.",
+    "High School": "Bloomington",
+    "Height": "6-0",
+    "Weight": "160",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Bloomington, Ill.",
+    "lat": 40.4797828,
+    "lon": -88.9939147,
+    "is_illinois": true
+  }
+}

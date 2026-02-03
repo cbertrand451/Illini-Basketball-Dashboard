@@ -1,0 +1,28 @@
+{
+  "name": "Herb Caldwell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/herb-caldwell/4952",
+  "seasons": [
+    "1995-96",
+    "1996-97"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Herb",
+    "Last Name": "Caldwell",
+    "Full Name": "Herb Caldwell",
+    "Ht./Wt.": "6-8 / 220",
+    "Position": "F",
+    "Hometown": "Jacksonville, Ill.",
+    "High School": "Jacksonville",
+    "Height": "6-8",
+    "Weight": "220",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Jacksonville, Ill.",
+    "lat": 39.7343697,
+    "lon": -90.228782,
+    "is_illinois": true
+  }
+}

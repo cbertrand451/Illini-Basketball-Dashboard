@@ -1,0 +1,29 @@
+{
+  "name": "Brett Robisch",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brett-robisch/4989",
+  "seasons": [
+    "1993-94",
+    "1994-95",
+    "1995-96"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Brett",
+    "Last Name": "Robisch",
+    "Full Name": "Brett Robisch",
+    "Ht./Wt.": "6-11 / 240",
+    "Position": "C",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Calvary",
+    "Height": "6-11",
+    "Weight": "240",
+    "Height Inches": 83
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
+  }
+}

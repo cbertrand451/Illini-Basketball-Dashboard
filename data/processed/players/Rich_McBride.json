@@ -1,0 +1,30 @@
+{
+  "name": "Rich McBride",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rich-mcbride/4828",
+  "seasons": [
+    "2003-04",
+    "2004-05",
+    "2005-06",
+    "2006-07"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Rich",
+    "Last Name": "McBride",
+    "Full Name": "Rich McBride",
+    "Ht./Wt.": "6-3 / 205",
+    "Position": "G",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Lanphier",
+    "Height": "6-3",
+    "Weight": "205",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Kyle Wilson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kyle-wilson/4844",
+  "seasons": [
+    "2002-03"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Kyle",
+    "Last Name": "Wilson",
+    "Full Name": "Kyle Wilson",
+    "Ht./Wt.": "6-8 / 230",
+    "Position": "F",
+    "Hometown": "Plano, Texas",
+    "High School": "Dallas Jesuit",
+    "Height": "6-8",
+    "Weight": "230",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Plano, Texas",
+    "lat": 33.0136764,
+    "lon": -96.6925096,
+    "is_illinois": false
+  }
+}

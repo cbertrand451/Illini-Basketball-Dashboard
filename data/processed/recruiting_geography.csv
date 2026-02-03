@@ -1,0 +1,574 @@
+Player,Hometown,High School,Class,Position,Seasons,seasons_played,lat,lon,state,country,is_illinois,is_us,is_international,has_geocode
+Carl Bontemps,,,,G/C,['1944-45'],1,,,,,False,True,False,False
+Don Delaney,"Grand Rapids, Mich.",Catholic Central,,C,['1944-45'],1,42.9632425,-85.6678639,MI,United States,False,True,False,True
+Gordon Hortin,"Albion, Ill.",Albion,,G,['1944-45'],1,38.3775484,-88.0561465,IL,United States,True,True,False,True
+Howard Judson,"Hebron, Ill.",Hebron,,F,['1944-45'],1,42.4716853,-88.432318,IL,United States,True,True,False,True
+Jack Larson,,,,C,['1944-45'],1,,,,,False,True,False,False
+Joe Sulenski,,,,F,['1944-45'],1,,,,,False,True,False,False
+John Orr,"Taylorville, Ill.",Taylorville,,F/C,['1944-45'],1,39.5487452,-89.2941549,IL,United States,True,True,False,True
+Lee Stickler,,,,,['1944-45'],1,,,,,False,True,False,False
+Maurice Dolan,,,,F,['1944-45'],1,,,,,False,True,False,False
+Paul Schnackenberg,,,,F,['1944-45'],1,,,,,False,True,False,False
+Robert Morton,"Elgin, Ill.",Elgin,,F,['1944-45'],1,42.03726,-88.2810994,IL,United States,True,True,False,True
+Roger Little,,,,G,['1944-45'],1,,,,,False,True,False,False
+Vic Bubas,,,,G,['1944-45'],1,,,,,False,True,False,False
+Bob Dannehl,,,,,['1945-46'],1,,,,,False,True,False,False
+Cal Irvin,,,,,['1945-46'],1,,,,,False,True,False,False
+Dean Meador,"Patoka, Ill.",Centralia,,F,['1945-46'],1,38.7553259,-89.0953417,IL,United States,True,True,False,True
+George Leddy,"Chicago, Ill.",Kelvyn Park,,G,['1945-46'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Harold Strange,,,,,['1945-46'],1,,,,,False,True,False,False
+Jack Pierce,,,,,['1945-46'],1,,,,,False,True,False,False
+Jake Staab,"Chillicothe, Ill.",Chillicothe,,F,"['1944-45', '1945-46']",2,40.9161637,-89.4884384,IL,United States,True,True,False,True
+Jimmy Seyler,"Centralia, Ill.",Centralia,,G,"['1944-45', '1945-46']",2,38.5250491,-89.1334037,IL,United States,True,True,False,True
+Leo Gedvilas,"Spring Valley, Ill.",Hall,,G,"['1944-45', '1945-46']",2,41.3275353,-89.1998078,IL,United States,True,True,False,True
+Leo Swinford,"Paris, Ill.",Paris,,F,['1945-46'],1,39.611146,-87.6961374,IL,United States,True,True,False,True
+Ray McClure,"Galesburg, Ill.",Galesburg,,F,['1945-46'],1,40.9475652,-90.3712169,IL,United States,True,True,False,True
+Robert Jones,"West Frankfort, Ill.",West Frankfort,,C,['1945-46'],1,37.8978275,-88.9314583,IL,United States,True,True,False,True
+Robert Olson,"St. Elmo, Ill.",St. Elmo,,G,['1945-46'],1,39.0272663,-88.8481139,IL,United States,True,True,False,True
+Tony Esposito,,,,,['1945-46'],1,,,,,False,True,False,False
+Wallie Mroz,"Chicago, Ill.",Wells,,F,"['1944-45', '1945-46']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+William Eddleman,"Anna, Ill.",Anna-Jonesboro,,G,"['1944-45', '1945-46']",2,37.4603274,-89.2470282,IL,United States,True,True,False,True
+Andy Phillip,"Granite City, Ill.",Granite City,,F,['1946-47'],1,38.7014389,-90.1487199,IL,United States,True,True,False,True
+Bob Lavoy,"Aurora, Ill.",East,,C,['1946-47'],1,41.7571701,-88.3147539,IL,United States,True,True,False,True
+Chet Trost,"Champaign, Ill.",Champaign,,F,['1946-47'],1,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Gene Vance,"Clinton, Ill.",Clinton,,G,['1946-47'],1,38.5896187,-89.420064,IL,United States,True,True,False,True
+Hal Craig,"Decatur, Ill.",Decatur,,F,"['1945-46', '1946-47']",2,39.8454163,-88.9524151,IL,United States,True,True,False,True
+Jack Smiley,"Waterman, Ill.",Waterman,,G,"['1945-46', '1946-47']",2,41.7716963,-88.7736942,IL,United States,True,True,False,True
+Ken Menke,"Dundee, Ill.",Dundee,,F,['1946-47'],1,42.0989145,-88.2714689,IL,United States,True,True,False,True
+Ray DeMoulin,"Mulberry Grove, Ill.",Mulberry Grove,,F,['1946-47'],1,38.925046,-89.2689626,IL,United States,True,True,False,True
+Ron Bontemps,"Taylorville, Ill.",Taylorville,,G,['1946-47'],1,39.5487452,-89.2941549,IL,United States,True,True,False,True
+Walt Kirk,"Mt. Vernon, Ill.",Mt. Vernon,,G,"['1944-45', '1946-47']",2,38.3172715,-88.9031201,IL,United States,True,True,False,True
+Bob Doster,"Decatur, Ill.",Decatur,,F,"['1945-46', '1946-47', '1947-48']",3,39.8454163,-88.9524151,IL,United States,True,True,False,True
+Bob Menke,"Elgin, Ill.",Elgin,,F/C,"['1945-46', '1946-47', '1947-48']",3,42.03726,-88.2810994,IL,United States,True,True,False,True
+Dwight Humphrey,"Moline, Ill.",Moline,,G,"['1945-46', '1946-47', '1947-48']",3,41.5058344,-90.5136642,IL,United States,True,True,False,True
+Jack Burmaster,"Elgin, Ill.",Elgin,,G,"['1944-45', '1945-46', '1946-47', '1947-48']",4,42.03726,-88.2810994,IL,United States,True,True,False,True
+Joe Rodriguez,"Niagara Falls, N.Y.",,,G,"['1945-46', '1947-48']",2,43.084841,-79.0701786,NY,United States,False,True,False,True
+Robert Rowe,"Warren, Ill.",Warren,,C,"['1945-46', '1946-47', '1947-48']",3,40.8442828,-90.6168408,IL,United States,True,True,False,True
+Stan Fronczak,"Brooklyn, N.Y.",,,G,"['1946-47', '1947-48']",2,40.6526006,-73.9497211,NY,United States,False,True,False,True
+Tom Gallagher,,,,,['1947-48'],1,,,,,False,True,False,False
+Al Leavitt,"Chicago, Ill.",Sullivan,,C,"['1945-46', '1948-49']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Benton Odum,"Marion, Ill.",Marion,,F,"['1946-47', '1947-48', '1948-49']",3,38.6477381,-88.9232112,IL,United States,True,True,False,True
+Bill Boyer,"Beardstown, Ill.",Beardstown,,C,['1948-49'],1,40.0167925,-90.4345418,IL,United States,True,True,False,True
+Bill Hoffman,"Chicago, Ill.",Wells,,G,['1948-49'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Dick Foley,"Paris, Ill.",Paris,,G,"['1946-47', '1947-48', '1948-49']",3,39.611146,-87.6961374,IL,United States,True,True,False,True
+Dwight Eddleman,"Centralia, Ill.",Centralia,,F,"['1945-46', '1946-47', '1947-48', '1948-49']",4,38.5250491,-89.1334037,IL,United States,True,True,False,True
+Fred Green,"Urbana, Ill.",Urbana,,C,"['1945-46', '1946-47', '1947-48', '1948-49']",4,40.1117174,-88.207301,IL,United States,True,True,False,True
+Jim Marks,"Edwardsville, Ill.",Edwardsville,,F,"['1946-47', '1947-48', '1948-49']",3,38.8114364,-89.953157,IL,United States,True,True,False,True
+Paul Eckert,"Herrin, Ill.",Herrin,,G,"['1945-46', '1948-49']",2,37.8031056,-89.0275744,IL,United States,True,True,False,True
+Richard Brogren,,,,,['1948-49'],1,,,,,False,True,False,False
+Bill Erickson,"Rockford, Ill.",East,,G,"['1946-47', '1947-48', '1948-49', '1949-50']",4,42.2713945,-89.093966,IL,United States,True,True,False,True
+Burdette Thurlby,"Kirkland, Ill.",Kirkland,,G,"['1946-47', '1947-48', '1948-49', '1949-50']",4,42.0925258,-88.8512063,IL,United States,True,True,False,True
+Cliff Fulton,,,,,"['1947-48', '1949-50']",2,,,,,False,True,False,False
+Glen Trugillo,"Rockford, Ill.",East,,F,"['1948-49', '1949-50']",2,42.2713945,-89.093966,IL,United States,True,True,False,True
+Jim Cottrell,"Champaign, Ill.",Champaign,,G,"['1948-49', '1949-50']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Roy Gatewood,"Salem, Ill.",Salem,,F,"['1946-47', '1948-49', '1949-50']",3,38.6269929,-88.9456158,IL,United States,True,True,False,True
+Van Anderson,"Sullivan, Ill.",Sullivan,,G/F,"['1945-46', '1947-48', '1948-49', '1949-50']",4,39.599479,-88.6078392,IL,United States,True,True,False,True
+Wally Osterkorn,"Chicago, Ill.",Amundsen,,C,"['1946-47', '1947-48', '1948-49', '1949-50']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Walt Kersulis,"East St. Louis, Ill.",East St. Louis,,C,"['1944-45', '1947-48', '1948-49', '1949-50']",4,38.6268666,-90.159707,IL,United States,True,True,False,True
+Andy Toth,,,,,['1950-51'],1,,,,,False,True,False,False
+Donald Sunderlage,"Elgin, Ill.",Elgin,,F,"['1948-49', '1949-50', '1950-51']",3,42.03726,-88.2810994,IL,United States,True,True,False,True
+George Shapland,,,,,['1950-51'],1,,,,,False,True,False,False
+James Hoffman,,,,,['1950-51'],1,,,,,False,True,False,False
+John Marks,"Edwardsville, Ill.",Edwardsville,,,"['1949-50', '1950-51']",2,38.8114364,-89.953157,IL,United States,True,True,False,True
+Richard Ems,,,,,['1950-51'],1,,,,,False,True,False,False
+Ted Beach,"Champaign, Ill.",Champaign,,F,"['1948-49', '1949-50', '1950-51']",3,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Dick Christiansen,"Winnetka, Ill.",New Trier,,F,"['1950-51', '1951-52']",2,42.1080703,-87.7365286,IL,United States,True,True,False,True
+Herb Gerecke,"Pekin, Ill.",Pekin,,G/F,"['1949-50', '1950-51', '1951-52']",3,40.5687911,-89.6501621,IL,United States,True,True,False,True
+Jim Bredar,"Salem, Ill.",Salem,,G,"['1950-51', '1951-52']",2,38.6269929,-88.9456158,IL,United States,True,True,False,True
+Mack Follmer,"Forrest, Ill.",Forrest,,F/C,"['1949-50', '1950-51', '1951-52']",3,40.7519792,-88.4111647,IL,United States,True,True,False,True
+Ren Alde,"Pana, Ill.",Pana,,G,"['1949-50', '1950-51', '1951-52']",3,39.3889311,-89.0800809,IL,United States,True,True,False,True
+Rod Fletcher,"Champaign, Ill.",Champaign,,G,"['1949-50', '1950-51', '1951-52']",3,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Seymour Gantman,"Chicago, Ill.",Marshall,,G,"['1949-50', '1950-51', '1951-52']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Walt Moore,"Mt. Vernon, Ill.",Mt. Vernon,,F,['1951-52'],1,38.3172715,-88.9031201,IL,United States,True,True,False,True
+Bob Peterson,"Wayne, Ill.",Elgin,,F/C,"['1950-51', '1951-52', '1952-53']",3,38.4251958,-88.4197678,IL,United States,True,True,False,True
+Clive Follmer,"Forrest, Ill.",Forrest,,F,"['1950-51', '1951-52', '1952-53']",3,40.7519792,-88.4111647,IL,United States,True,True,False,True
+Irv Bemoras,"Chicago, Ill.",Marshall,,G,"['1950-51', '1951-52', '1952-53']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+James Bredar,"Salem, Ill.",Salem,,G,['1952-53'],1,38.6269929,-88.9456158,IL,United States,True,True,False,True
+Jim Schuldt,"Dundee, Ill.",Dundee,,G,"['1950-51', '1951-52', '1952-53']",3,42.0989145,-88.2714689,IL,United States,True,True,False,True
+Max Baumgardner,"Sterling, Ill.",Sterling,,,"['1950-51', '1951-52', '1952-53']",3,41.788253,-89.6953656,IL,United States,True,True,False,True
+Doyle Glass,"Pekin, Ill.",Pekin,,G,['1953-54'],1,40.5687911,-89.6501621,IL,United States,True,True,False,True
+Earl Newman,"Chicago, Ill.",Marshall,,F,['1953-54'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Ed Makovsky,"Cicero, Ill.",Morton,,F/C,"['1951-52', '1952-53', '1953-54']",3,41.8455398,-87.7540199,IL,United States,True,True,False,True
+Jim Wright,"Lawrenceville, Ill.",Lawrenceville,,G,"['1951-52', '1952-53', '1953-54']",3,38.7292138,-87.6816927,IL,United States,True,True,False,True
+John Kerr,"Chicago, Ill.",Tilden,,C,"['1951-52', '1952-53', '1953-54']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Max Hooper,"Mt. Vernon, Ill.",Mt. Vernon,,F/C,"['1951-52', '1952-53', '1953-54']",3,38.3172715,-88.9031201,IL,United States,True,True,False,True
+Robert Leigh,"East Lynn, Ill.",,,G,['1953-54'],1,40.4664252,-87.8000287,IL,United States,True,True,False,True
+Robert Reitsch,"Rockford, Ill.",West,,F,['1953-54'],1,42.2713945,-89.093966,IL,United States,True,True,False,True
+Warren Wilkinson,"West Frankfort, Ill.",West Frankfort,,G,['1953-54'],1,37.8978275,-88.9314583,IL,United States,True,True,False,True
+Dick Rapp,,,,,['1954-55'],1,,,,,False,True,False,False
+Elmer Plew,"Paris, Ill.",Paris,,G,"['1951-52', '1952-53', '1953-54', '1954-55']",4,39.611146,-87.6961374,IL,United States,True,True,False,True
+James Burks,"Horse Cave, Ky.",Caverna,,C,['1954-55'],1,37.179496,-85.9069175,KY,United States,False,True,False,True
+Jim Dutcher,"Downers Grove, Ill.",Downers Grove,,F,"['1951-52', '1952-53', '1953-54', '1954-55']",4,41.7936822,-88.0102281,IL,United States,True,True,False,True
+Morris Sterneck,"Salem, Ill.",Salem,,G,"['1952-53', '1953-54', '1954-55']",3,38.6269929,-88.9456158,IL,United States,True,True,False,True
+William Bosnak,,,,,['1954-55'],1,,,,,False,True,False,False
+Bill Ridley,"Taylorville, Ill.",Taylorville,,G,"['1953-54', '1954-55', '1955-56']",3,39.5487452,-89.2941549,IL,United States,True,True,False,True
+Bruce Brothers,"Quincy, Ill.",Quincy,,F,"['1953-54', '1954-55', '1955-56']",3,39.9356016,-91.4098727,IL,United States,True,True,False,True
+Paul Judson,"Hebron, Ill.",Hebron,,G,"['1953-54', '1954-55', '1955-56']",3,42.4716853,-88.432318,IL,United States,True,True,False,True
+Phil Judson,"Hebron, Ill.",Hebron,,F,"['1953-54', '1954-55', '1955-56']",3,42.4716853,-88.432318,IL,United States,True,True,False,True
+Bernie Thompson,"Fairmont, W.Va.",,,F,['1956-57'],1,39.484898,-80.1426539,,WVa,False,False,True,True
+Bill Altenberger,"East St. Louis, Ill.",Senior,,F,"['1954-55', '1955-56', '1956-57']",3,38.6268666,-90.159707,IL,United States,True,True,False,True
+Billy Bolk,"Terre Haute, Ind.",Gerstmeyer,,G,['1956-57'],1,39.4667025,-87.4139119,IN,United States,False,True,False,True
+George BonSalle,"Chicago, Ill.",Loyola,,C,"['1954-55', '1955-56', '1956-57']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Harv Schmidt,"Kankakee, Ill.",Kankakee,,F,"['1954-55', '1955-56', '1956-57']",3,41.1253903,-87.848682,IL,United States,True,True,False,True
+Hiles Stout,"Peoria, Ill.",Central,,F,"['1954-55', '1955-56', '1956-57']",3,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Jim Chengary,"Chicago, Ill.",Bowen,,F,"['1955-56', '1956-57']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Lloyd Eggers,"Toledo, Ill.",Cumberland,,F,['1956-57'],1,39.2736491,-88.2436523,IL,United States,True,True,False,True
+Tom Haller,"Lockport, Ill.",Lockport,,G/F,['1956-57'],1,41.5894753,-88.057837,IL,United States,True,True,False,True
+Don Ohl,"Edwardsville, Ill.",Edwardsville,,G,"['1955-56', '1956-57', '1957-58']",3,38.8114364,-89.953157,IL,United States,True,True,False,True
+Jerry Riva,"Clinton, Ill.",Clinton,,G,['1957-58'],1,38.5896187,-89.420064,IL,United States,True,True,False,True
+John Paul,"Elgin, Ill.",Elgin,,G,"['1955-56', '1956-57', '1957-58']",3,42.03726,-88.2810994,IL,United States,True,True,False,True
+Larry Breyfogle,"Lawrenceville, Ill.",Lawrenceville,,G/F,"['1955-56', '1956-57', '1957-58']",3,38.7292138,-87.6816927,IL,United States,True,True,False,True
+Ted Caiazza,"La Grange, Ill.",Lyons,,C,"['1955-56', '1956-57', '1957-58']",3,41.81483,-87.8735662,IL,United States,True,True,False,True
+Tom Hallwer,"Lockport, Ill.",Lockport,,F,['1957-58'],1,41.5894753,-88.057837,IL,United States,True,True,False,True
+Bill Larson,"Rochelle, Ill.",Rochelle,,G,['1958-59'],1,41.9239178,-89.0687074,IL,United States,True,True,False,True
+John Easterbrook,"Champaign, Ill.",Central,,G,['1958-59'],1,40.1164841,-88.2430932,IL,United States,True,True,False,True
+John Homeier,"Springfield, Ill.",Feitshans,,C,"['1957-58', '1958-59']",2,39.7990175,-89.6439575,IL,United States,True,True,False,True
+Ken Charlcraft,"Maroa, Ill.",Maroa-Forsyth,,G/F,['1958-59'],1,40.0364257,-88.957026,IL,United States,True,True,False,True
+Phil Flanigan,"Tuscola, Ill.",Tuscola,,G,"['1957-58', '1958-59']",2,39.7998585,-88.2884552,IL,United States,True,True,False,True
+Roger DeVries,"Forreston, Ill.",Forreston,,F,['1958-59'],1,42.1261742,-89.579115,IL,United States,True,True,False,True
+Roger Taylor,"Park Forest, Ill.",Rich East,,G,"['1956-57', '1957-58', '1958-59']",3,41.4825788,-87.6802344,IL,United States,True,True,False,True
+Al Gosnell,"Lawrenceville, Ill.",Lawrenceville,,F,"['1956-57', '1957-58', '1958-59', '1959-60']",4,38.7292138,-87.6816927,IL,United States,True,True,False,True
+Bob Schmidt,"Kankakee, Ill.",Kankakee,,F,"['1957-58', '1958-59', '1959-60']",3,41.1253903,-87.848682,IL,United States,True,True,False,True
+Bruce Bunkenburg,"Chicago, Ill.",Roosevelt,,F,"['1957-58', '1958-59', '1959-60']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Ed Perry,"Salem, Ill.",Salem,,F,"['1957-58', '1958-59', '1959-60']",3,38.6269929,-88.9456158,IL,United States,True,True,False,True
+Govoner Vaughn,"Edwardsville, Ill.",Edwardsville,,F,"['1957-58', '1958-59', '1959-60']",3,38.8114364,-89.953157,IL,United States,True,True,False,True
+Jim Dorris,"Centralia, Ill.",Centralia,,G,"['1957-58', '1958-59', '1959-60']",3,38.5250491,-89.1334037,IL,United States,True,True,False,True
+Lee Frandsen,"Davenport, Iowa",Central,,G,"['1957-58', '1958-59', '1959-60']",3,41.5235808,-90.5770967,IA,United States,False,True,False,True
+Lou Landt,"Berwyn, Ill.",Roosevelt,,G,"['1957-58', '1958-59', '1959-60']",3,41.8505874,-87.7936685,IL,United States,True,True,False,True
+Mannie Jackson,"Edwardsville, Ill.",Edwardsville,,G,"['1957-58', '1958-59', '1959-60']",3,38.8114364,-89.953157,IL,United States,True,True,False,True
+Tom  Adams,"Washington, Ill.",Washington,,F,"['1957-58', '1958-59', '1959-60']",3,38.3662806,-89.4201902,IL,United States,True,True,False,True
+Vern Altemeyer,"Scottsburg, Ind.",Scottsburg,,C,"['1958-59', '1959-60']",2,38.685614,-85.7702451,IN,United States,False,True,False,True
+Bill Mohlenbrock,"Murphysboro, Ill.",Murphysboro,,F,"['1958-59', '1959-60', '1960-61']",3,37.7644952,-89.3350888,IL,United States,True,True,False,True
+Butch Jones,,,,,['1960-61'],1,,,,,False,True,False,False
+Ed Searcy,"Indianapolis, Ind.",Attucks,,F,"['1959-60', '1960-61']",2,39.7683331,-86.1583502,IN,United States,False,True,False,True
+Gary McClung,"Maroa, Ill.",Maroa-Forsyth,,F,['1960-61'],1,40.0364257,-88.957026,IL,United States,True,True,False,True
+John Wessels,"Rockford, Ill.",West,,C,"['1958-59', '1959-60', '1960-61']",3,42.2713945,-89.093966,IL,United States,True,True,False,True
+Jones Knoefel,"Valparaiso, Ind.",Valparaiso,,F,['1960-61'],1,41.4672552,-87.0604487,IN,United States,False,True,False,True
+Clyde Kramer,"Erie, Ill.",Erie,,F,['1961-62'],1,41.6563287,-90.0790166,IL,United States,True,True,False,True
+Doug Mills,"Galesburg, Ill.",Galesburg,,G,"['1959-60', '1960-61', '1961-62']",3,40.9475652,-90.3712169,IL,United States,True,True,False,True
+Jerry Colangelo,"Chicago Heights, Ill.",Bloom,,G,"['1959-60', '1960-61', '1961-62']",3,41.5062834,-87.6357079,IL,United States,True,True,False,True
+Jerry Curless,"Table Grove, Ill.",V.I.T.,,G,"['1959-60', '1960-61', '1961-62']",3,40.3642095,-90.4251258,IL,United States,True,True,False,True
+Jerry Renner,"Aurora, Ill.",East,,G/F,"['1960-61', '1961-62']",2,41.7571701,-88.3147539,IL,United States,True,True,False,True
+Phil LaRussa,"Walnut, Ill.",Walnut,,C,['1961-62'],1,41.5567012,-89.5934315,IL,United States,True,True,False,True
+Sam Leeper,"Sidney, Ill.",Unity,,G,"['1959-60', '1960-61', '1961-62']",3,40.0250332,-88.0733729,IL,United States,True,True,False,True
+Bill Burwell,"Brooklyn, N.Y.",Boys,,C,"['1960-61', '1961-62', '1962-63']",3,40.6526006,-73.9497211,NY,United States,False,True,False,True
+Bill Small,"Aurora, Ill.",West,,G,"['1960-61', '1961-62', '1962-63']",3,41.7571701,-88.3147539,IL,United States,True,True,False,True
+Dave Downey,"Canton, Ill.",Canton,,F,"['1960-61', '1961-62', '1962-63']",3,40.5580945,-90.0351167,IL,United States,True,True,False,True
+Jay Lovelace,"Carbondale, Ill.",Carbondale,,G,"['1960-61', '1961-62', '1962-63']",3,37.7274692,-89.216655,IL,United States,True,True,False,True
+Bill Edwards,"Staunton, Ill.",Staunton,,G,"['1945-46', '1946-47', '1961-62', '1962-63', '1963-64']",5,39.0121862,-89.7884869,IL,United States,True,True,False,True
+George Johnson,"Elmhurst, Ill.",York,,F,['1963-64'],1,41.8994745,-87.9403418,IL,United States,True,True,False,True
+Jeff Ferguson,"Benton, Ill.",Benton,,F,"['1960-61', '1961-62', '1962-63', '1963-64']",4,37.9967163,-88.9200685,IL,United States,True,True,False,True
+John Love,"Ottawa, Ill.",Ottawa,,F,"['1961-62', '1962-63', '1963-64']",3,41.3516628,-88.845436,IL,United States,True,True,False,True
+Larry Bauer,"Sprinfield, Ill.",Springfield,,F/C,"['1962-63', '1963-64']",2,,,IL,United States,True,True,False,False
+Mel Blackwell,"Centralia, Ill.",Centralia,,F,['1963-64'],1,38.5250491,-89.1334037,IL,United States,True,True,False,True
+Ron Beeks,"Princeton, N.J.",Lawrenceville,,G,['1963-64'],1,40.3496953,-74.6597376,NJ,United States,False,True,False,True
+Tony Latham,"Waukegan, Ill.",Waukegan,,G,"['1962-63', '1963-64']",2,42.3602273,-87.8318164,IL,United States,True,True,False,True
+Bill McKeown,"Clinton, Ill.",Clinton,,G,"['1962-63', '1963-64', '1964-65']",3,38.5896187,-89.420064,IL,United States,True,True,False,True
+Bob Meadows,"Collinsville, Ill.",Collinsville,,G,"['1962-63', '1963-64', '1964-65']",3,38.6703267,-89.9845476,IL,United States,True,True,False,True
+Bogie Redmon,"Collinsville, Ill.",Collinsville,,F/C,"['1962-63', '1963-64', '1964-65']",3,38.6703267,-89.9845476,IL,United States,True,True,False,True
+Jim Vopicka,"Brookfield, Ill.",Morton West,,G,"['1963-64', '1964-65']",2,41.8228378,-87.848085,IL,United States,True,True,False,True
+Skip Thoren,"Rockford, Ill.",East,,C,"['1962-63', '1963-64', '1964-65']",3,42.2713945,-89.093966,IL,United States,True,True,False,True
+Tal Brody,"Trenton, N.J.",Central,,G,"['1962-63', '1963-64', '1964-65']",3,40.2203074,-74.7659,NJ,United States,False,True,False,True
+Bob Brown,"Wilmington, Del.",DuPont,,G/F,"['1956-57', '1957-58', '1963-64', '1964-65', '1965-66']",5,39.7459468,-75.546589,DE,United States,False,True,False,True
+Dan Lee,"Attica, Ind.",Attica,,F,"['1963-64', '1964-65', '1965-66']",3,40.2941565,-87.2488113,IN,United States,False,True,False,True
+Don Freeman,"Madison, Ill.",Madison,,F,"['1963-64', '1964-65', '1965-66']",3,38.811063,-89.9017112,IL,United States,True,True,False,True
+Greg Wright,"Glenwood, Ill.",Homewood-Flossmoor,,G,['1965-66'],1,41.5424867,-87.6022765,IL,United States,True,True,False,True
+Larry Hinton,"Shelbyville, Ill.",Shelbyville,,G,"['1963-64', '1964-65', '1965-66']",3,39.4064284,-88.7900689,IL,United States,True,True,False,True
+Mike Graville,"Madison, Ill.",Madison,,G,"['1963-64', '1964-65', '1965-66']",3,38.811063,-89.9017112,IL,United States,True,True,False,True
+Bill Stefan,"Westchest, Ill.",St. Joseph,,G,['1966-67'],1,,,IL,United States,True,True,False,False
+Bob Johansen,"Geneva, Ill.",Geneva,,F,"['1964-65', '1965-66', '1966-67']",3,41.8875281,-88.3053525,IL,United States,True,True,False,True
+Deon Flessner,"Fithian, Ill.",St. Joseph-Ogden,,F,"['1964-65', '1965-66', '1966-67']",3,40.1139242,-87.8730857,IL,United States,True,True,False,True
+Jerry Mettille,"Morris, Ill.",Morris,,G/F,"['1964-65', '1965-66', '1966-67']",3,41.3574135,-88.4215234,IL,United States,True,True,False,True
+Jim Dawson,"Elmhurst, Ill.",York,,G,"['1964-65', '1965-66', '1966-67']",3,41.8994745,-87.9403418,IL,United States,True,True,False,True
+John Prescott,"Lake Forest, Ill.",Lake Forest,,F,"['1965-66', '1966-67']",2,42.2586461,-87.8407055,IL,United States,True,True,False,True
+Preston Pearson,"Freeport, Ill.",Freeport,,G,"['1964-65', '1965-66', '1966-67']",3,42.2966861,-89.6212271,IL,United States,True,True,False,True
+Rich Jones,"Memphis, Tenn.",Lester,,F,"['1965-66', '1966-67']",2,35.1460249,-90.0517638,TN,United States,False,True,False,True
+Ron Dunlap,"Chicago, Ill.",Farragut,,C,"['1965-66', '1966-67']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Steve Kuberski,"Moline, Ill.",Moline,,F/C,['1966-67'],1,41.5058344,-90.5136642,IL,United States,True,True,False,True
+Benny Louis,"Pinckneyville, Ill.",Pinckneyville,,F,"['1965-66', '1966-67', '1967-68']",3,38.0803286,-89.3820321,IL,United States,True,True,False,True
+Bill Jones,"Chicago, Ill.",Waller,,G,['1967-68'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Dan Kuemmerle,"Danville, Ill.",Schlarman,,G/F,['1967-68'],1,40.125222,-87.6304614,IL,United States,True,True,False,True
+Jim Skarda,"Lake Geneva, Wis.",Badger,,F,['1967-68'],1,42.5918039,-88.4345369,WI,United States,False,True,False,True
+Paul Nitz,"Woodstock, Ill.",Marian Central,,F/C,"['1966-67', '1967-68']",2,42.3147529,-88.4474302,IL,United States,True,True,False,True
+Rich Crusius,"Bloomington, Ill.",Bloomington,,F,"['1965-66', '1967-68']",2,40.4797828,-88.9939147,IL,United States,True,True,False,True
+Steve Kohn,"Creve Coeur, Mo.",Ladue,,G,['1967-68'],1,38.6613007,-90.4423653,MO,United States,False,True,False,True
+Brad Richardson,"Olney, Ill.",East Richland,,F,['1968-69'],1,38.7296538,-88.0846891,IL,United States,True,True,False,True
+Dave Scholz,"Decatur, Ill.",Stephen Decatur,,F/C,"['1966-67', '1967-68', '1968-69']",3,39.8454163,-88.9524151,IL,United States,True,True,False,True
+Denny Pace,"Collinsville, Ill.",Collinsville,,G/F,"['1966-67', '1967-68', '1968-69']",3,38.6703267,-89.9845476,IL,United States,True,True,False,True
+Jodie Harrison,"Streator, Ill.",Streator,,G,"['1967-68', '1968-69']",2,41.1210234,-88.8357361,IL,United States,True,True,False,True
+Les Busboom,"Royal, Ill.",St. Joseph-Ogden,,G,"['1966-67', '1967-68', '1968-69']",3,40.1928126,-87.9728126,IL,United States,True,True,False,True
+Ron Armbrust,"Lincoln, Ill.",Lincoln,,G,"['1967-68', '1968-69']",2,40.1481349,-89.3636569,IL,United States,True,True,False,True
+Bob Windmiller,"Ossian, Ind.",Ossian,,G,"['1968-69', '1969-70']",2,40.880603,-85.1663593,IN,United States,False,True,False,True
+Doug Faulds,"La Grange Park, Ill.",Lyons,,C,['1969-70'],1,41.8333646,-87.8677324,IL,United States,True,True,False,True
+Larry Dykstra,"Rockford, Ill.",Guilford,,C,['1969-70'],1,42.2713945,-89.093966,IL,United States,True,True,False,True
+Mike Price,"Indianapolis, Ind.",Arsenal Tech,,G,"['1967-68', '1968-69', '1969-70']",3,39.7683331,-86.1583502,IN,United States,False,True,False,True
+Randy Crews,"Kankakee, Ill.",Bradley-Bourbonnais,,F,"['1967-68', '1968-69', '1969-70']",3,41.1253903,-87.848682,IL,United States,True,True,False,True
+Alvin O'Neal,"Peoria, Ill.",Spalding,,G/F,['1970-71'],1,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Bob Shapland,"Champaign, Ill.",Central,,G,"['1968-69', '1969-70', '1970-71']",3,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Fred Miller,"Pekin, Ill.",Pekin,,G/F,"['1968-69', '1969-70', '1970-71']",3,40.5687911,-89.6501621,IL,United States,True,True,False,True
+Greg Jackson,"Chicago, Ill.",St. Philip,,C,"['1968-69', '1969-70', '1970-71']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Rick Howat,"Downers Grove, Ill.",North,,G,"['1968-69', '1969-70', '1970-71']",3,41.7936822,-88.0102281,IL,United States,True,True,False,True
+Sam Scaletta,"Blue Island, Ill.",Eisenhower,,G,"['1969-70', '1970-71']",2,41.6573014,-87.679871,IL,United States,True,True,False,True
+Tom Dezort,"Edwardsville, Ill.",Edwardsville,,F,"['1969-70', '1970-71']",2,38.8114364,-89.953157,IL,United States,True,True,False,True
+Bill Morris,"St. Louis, Mo.",Beaumont,,C,['1971-72'],1,38.6254063,-90.190009,MO,United States,False,True,False,True
+Greg Wilson,"Sebring, Ohio",McKinley,,G,['1971-72'],1,40.9228363,-81.0189816,OH,United States,False,True,False,True
+Jim Krelle,"Aurora, Ill.",West,,G,"['1969-70', '1970-71', '1971-72']",3,41.7571701,-88.3147539,IL,United States,True,True,False,True
+Kim Jolley,"Indiaola, Ill.",Jamaica,,F,['1971-72'],1,,,IL,United States,True,True,False,False
+Jed Foster,"Fairfield, Ill.",Fairfield,,F,"['1970-71', '1971-72', '1972-73']",3,38.378937,-88.3597684,IL,United States,True,True,False,True
+Jim DeDecker,"Moline, Ill.",Alleman,,C,"['1970-71', '1971-72', '1972-73']",3,41.5058344,-90.5136642,IL,United States,True,True,False,True
+Jim Rucks,"Waukegan, Ill.",Waukegan,,F,"['1970-71', '1971-72', '1972-73']",3,42.3602273,-87.8318164,IL,United States,True,True,False,True
+John McBride,"Orland Park, Ill.",Sandberg,,F,"['1971-72', '1972-73']",2,41.630663,-87.8536288,IL,United States,True,True,False,True
+Larry Cohen,"Wilmette, Ill.",New Trier,,G,"['1970-71', '1971-72', '1972-73']",3,42.076066,-87.7115555,IL,United States,True,True,False,True
+Nick Conner,"Columbus, Ohio",East,,F/C,"['1970-71', '1971-72', '1972-73']",3,39.9622601,-83.0007065,OH,United States,False,True,False,True
+Nick Weatherspoon,"Canton, Ohio",McKinley,,F,"['1970-71', '1971-72', '1972-73']",3,40.7985464,-81.3749508,OH,United States,False,True,False,True
+Rich Connell,"St. Joseph, Ill.",St. Joseph-Ogden,,G,['1972-73'],1,40.1117007,-88.0417048,IL,United States,True,True,False,True
+C.J. Schroeder,"Davenport, Iowa",West,,G,"['1971-72', '1972-73', '1973-74']",3,41.5235808,-90.5770967,IA,United States,False,True,False,True
+Donn Deputy,"Pekin, Ill.",Pekin,,F,"['1972-73', '1973-74']",2,40.5687911,-89.6501621,IL,United States,True,True,False,True
+Garvin Roberson,"Elkhart, Ind.",Elkhart,,G,"['1971-72', '1972-73', '1973-74']",3,41.6012796,-85.8590603,IN,United States,False,True,False,True
+Jeff Dawson,"Oak Park, Ill.",Downers Grove North,,G,"['1972-73', '1973-74']",2,41.8878145,-87.7887615,IL,United States,True,True,False,True
+Mark Bondeson,"Des Plaines, Ill.",Maine East,,F,"['1972-73', '1973-74']",2,42.0415823,-87.8873916,IL,United States,True,True,False,True
+Mike Dempsey,"Moline, Ill.",Moline,,C,['1973-74'],1,41.5058344,-90.5136642,IL,United States,True,True,False,True
+Mike Wente,"Effingham, Ill.",St. Anthony,,C,"['1971-72', '1972-73', '1973-74']",3,39.0520902,-88.6029006,IL,United States,True,True,False,True
+Brad Farnham,"Paris, Ill.",Paris,,F,"['1973-74', '1974-75']",2,39.611146,-87.6961374,IL,United States,True,True,False,True
+Dave Roberts,"Broadview, Ill.",Proviso East,,G,"['1972-73', '1973-74', '1974-75']",3,41.863965,-87.8533732,IL,United States,True,True,False,True
+Dave Smith,"Clarendon Hills, Ill.",Hinsdale Central,,F/C,"['1972-73', '1973-74', '1974-75']",3,41.7961237,-87.9551429,IL,United States,True,True,False,True
+Howard Johnson,"Marshall, Ill.",Marshall,,G,"['1973-74', '1974-75']",2,41.0324537,-89.2998456,IL,United States,True,True,False,True
+Rick Schmidt,"Royal, Ill.",St. Joseph-Ogden,,F,"['1972-73', '1973-74', '1974-75']",3,40.1928126,-87.9728126,IL,United States,True,True,False,True
+Tom Carmichael,"Rochelle, Ill.",Rochelle,,F/C,"['1973-74', '1974-75']",2,41.9239178,-89.0687074,IL,United States,True,True,False,True
+Bill Rucks,"Waukegan, Ill.",Waukegan,,C,"['1972-73', '1973-74', '1974-75', '1975-76']",4,42.3602273,-87.8318164,IL,United States,True,True,False,True
+Dennis Graff,"Gibson City, Ill.",Gibson City,,G,"['1972-73', '1973-74', '1974-75', '1975-76']",4,40.4653118,-88.3758875,IL,United States,True,True,False,True
+Mike Washington,"Chicago, Ill.",Morgan Park,,F/C,"['1974-75', '1975-76']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Nate Williams,"Chicago, Ill.",Crane,,G,"['1974-75', '1975-76']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Otho Tucker,"Paris, Ill.",Paris,,G,"['1972-73', '1973-74', '1974-75', '1975-76']",4,39.611146,-87.6961374,IL,United States,True,True,False,True
+Jeff Berry,"Chicago, Ill.",Morgan Park,,G,['1976-77'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Jeff Carter,"Chicago, Ill.",St. Ignatius,,G,['1976-77'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Rick Kirby,"Urbana, Ill.",Urbana,,G,['1976-77'],1,40.1117174,-88.207301,IL,United States,True,True,False,True
+Rick Leighty,"Lawrenceville, Ill.",Lawrenceville,,G/F,"['1974-75', '1975-76', '1976-77']",3,38.7292138,-87.6816927,IL,United States,True,True,False,True
+Tim Bushell,"Lincoln, Ill.",Lincoln,,F,"['1973-74', '1974-75', '1975-76', '1976-77']",4,40.1481349,-89.3636569,IL,United States,True,True,False,True
+Audie Matthews,"Chicago Heights, Ill.",Bloom,,G,"['1974-75', '1975-76', '1976-77', '1977-78']",4,41.5062834,-87.6357079,IL,United States,True,True,False,True
+Ken Ferdinand,"Urbana, Ill.",Urbana,,F,"['1975-76', '1976-77', '1977-78']",3,40.1117174,-88.207301,IL,United States,True,True,False,True
+Mike Jones,"Joliet, Ill.",Central,,G/F,['1977-78'],1,41.5263603,-88.0840212,IL,United States,True,True,False,True
+Rich Adams,"Cincinnati, Ohio",Colerain,,F,"['1974-75', '1975-76', '1976-77', '1977-78']",4,39.1014537,-84.5124602,OH,United States,False,True,False,True
+Tom Gerhardt,"Chicago, Ill.",De La Salle,,F,"['1974-75', '1975-76', '1976-77', '1977-78']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Cletis Hubbard,"Ft. Worth, Texas",Dunbar,,G,['1978-79'],1,32.753177,-97.3327459,TX,United States,False,True,False,True
+Dave Schulter,,,,,['1978-79'],1,,,,,False,True,False,False
+Larry Lubin,"Glencoe, Ill.",Evanston,,G,"['1975-76', '1976-77', '1977-78', '1978-79']",4,42.1350268,-87.7581188,IL,United States,True,True,False,True
+Matt Meyer,"Manito, Ill.",Foreman,,G,"['1976-77', '1977-78', '1978-79']",3,40.4258736,-89.7792762,IL,United States,True,True,False,True
+Steve Lanter,"Belleville, Ill.",Mascoutah,,G,"['1976-77', '1977-78', '1978-79']",3,38.5135805,-89.9841627,IL,United States,True,True,False,True
+Kevin Westervelt,"Peoria, Ill.",Richwoods,,G,"['1978-79', '1979-80']",2,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Levi Cobb,"Chicago, Ill.",Morgan Park,,F,"['1976-77', '1977-78', '1978-79', '1979-80']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Neil Bresnahan,"Oak Park, Ill.",Fenwick,,F,"['1976-77', '1977-78', '1978-79', '1979-80']",4,41.8878145,-87.7887615,IL,United States,True,True,False,True
+Reno Gray,"Chicago, Ill.",Hales Franciscan,,G,"['1977-78', '1979-80']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Rob Judson,"Zion, Ill.",Zion-Benton,,G,"['1976-77', '1977-78', '1978-79', '1979-80']",4,42.4501169,-87.8337753,IL,United States,True,True,False,True
+Derek Holcomb,"Peoria, Ill.",Richwoods,,C,"['1978-79', '1979-80', '1980-81']",3,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Eddie Johnson,"Chicago, Ill.",Westinghouse,,F,"['1977-78', '1978-79', '1979-80', '1980-81']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Mitch Arnold,"Effingham, Ill.",Effingham,,G/F,['1980-81'],1,39.0520902,-88.6029006,IL,United States,True,True,False,True
+Sherrod Arnold,"Chicago, Ill.",Phillips,,G,['1980-81'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Craig Tucker,"Flint, Mich.",Northern,,G,"['1980-81', '1981-82']",2,43.0161693,-83.6900211,MI,United States,False,True,False,True
+Dan Klier,"Naperville, Ill.",Central,,F,['1981-82'],1,41.7728699,-88.1479278,IL,United States,True,True,False,True
+James Griffin,"Grandview, Texas",Dunbar,,C,"['1978-79', '1979-80', '1980-81', '1981-82']",4,32.2666506,-97.1785429,TX,United States,False,True,False,True
+Perry Range,"South Beloit, Ill.",South Beloit,,G,"['1978-79', '1979-80', '1980-81', '1981-82']",4,42.4930708,-89.0367764,IL,United States,True,True,False,True
+Scott Palmer,,,,,['1981-82'],1,,,,,False,True,False,False
+Bryan Leonard,"Belleville, Ill.",East,,C,"['1978-79', '1979-80', '1980-81', '1981-82', '1982-83']",5,38.5135805,-89.9841627,IL,United States,True,True,False,True
+Derek Harper,"West Palm Beach, Fla.",North Shore,,G,"['1980-81', '1981-82', '1982-83']",3,26.715364,-80.0532942,FL,United States,False,True,False,True
+Jay Daniels,"West Palm Beach, Fla.",Leonard,,F,"['1981-82', '1982-83']",2,26.715364,-80.0532942,FL,United States,False,True,False,True
+Kevin Bontemps,"Morton, Ill.",Morton,,G,"['1979-80', '1980-81', '1981-82', '1982-83']",4,40.6127349,-89.459323,IL,United States,True,True,False,True
+Mike O'Brien,"Peoria, Ill.",Richwoods,,G,"['1981-82', '1982-83']",2,40.6938609,-89.5891008,IL,United States,True,True,False,True
+B.J. Jenkins,"Palatine, Ill.",Palatine,,F,['1983-84'],1,42.1105502,-88.0434304,IL,United States,True,True,False,True
+Don Klusendorf,"Western Springs, Ill.",Lyons Township,,F,"['1982-83', '1983-84']",2,41.8096132,-87.900671,IL,United States,True,True,False,True
+Dragomir Marinkovich,"Chicago, Ill.",Lane Tech,,F,['1983-84'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Joe Klauke,,,,,['1983-84'],1,,,,,False,True,False,False
+Quinn Richardson,"Robbins, Ill.",Eisenhower,,G,"['1979-80', '1980-81', '1981-82', '1982-83', '1983-84']",5,41.6439227,-87.7036602,IL,United States,True,True,False,True
+Steven Freeman,"Chicago, Ill.",,,G,['1983-84'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Tom Siegel,"Belleville, Ill.",East,,F,['1983-84'],1,38.5135805,-89.9841627,IL,United States,True,True,False,True
+Dee Maras,"Antioch, Ill.",Antioch,,F,"['1981-82', '1982-83', '1983-84', '1984-85']",4,42.4767131,-88.0950691,IL,United States,True,True,False,True
+George Montgomery,"Chicago, Ill.",Corliss,,C,"['1981-82', '1982-83', '1983-84', '1984-85']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Scott Haffner,"Noblesville, Ind.",Noblesville,,G,['1984-85'],1,40.0460881,-86.0139854,IN,United States,False,True,False,True
+Tom Schafer,"Algonquin, Ill.",Jacobs,,,"['1983-84', '1984-85']",2,42.1655801,-88.2942493,IL,United States,True,True,False,True
+Anthony Welch,"Grand Rapids, Mich.",Creston,,F,"['1981-82', '1982-83', '1983-84', '1984-85', '1985-86']",5,42.9632425,-85.6678639,MI,United States,False,True,False,True
+Brian Sterrett,,,,,['1985-86'],1,,,,,False,True,False,False
+Bruce Douglas,"Quincy, Ill.",Quincy,,G,"['1982-83', '1983-84', '1984-85', '1985-86']",4,39.9356016,-91.4098727,IL,United States,True,True,False,True
+Chuck Keller,"Effingham, Ill.",Effingham,,G,['1985-86'],1,39.0520902,-88.6029006,IL,United States,True,True,False,True
+Curtis Taylor,"Syracuse, N.Y.",Fowler,,G,['1985-86'],1,43.0481221,-76.1474244,NY,United States,False,True,False,True
+Efrem Winters,"Chicago, Ill.",King,,F,"['1982-83', '1983-84', '1984-85', '1985-86']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Reggie Woodward,"Chicago, Ill.",King,,G,"['1982-83', '1983-84', '1984-85', '1985-86']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Scott Meents,"Kankakee, Ill.",Herscher,,F,"['1982-83', '1983-84', '1984-85', '1985-86']",4,41.1253903,-87.848682,IL,United States,True,True,False,True
+Dave Wells,"Freeport, Ill.",Freeport,,,"['1985-86', '1986-87']",2,42.2966861,-89.6212271,IL,United States,True,True,False,True
+Doug Altenberger,"Peoria, Ill.",Richwoods,,G,"['1982-83', '1983-84', '1984-85', '1985-86', '1986-87']",5,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Jeff Finke,"Casey, Ill.",Casey,,F,['1986-87'],1,39.2993863,-87.991754,IL,United States,True,True,False,True
+Jim Green,"Morton, Ill.",Morton,,F,"['1985-86', '1986-87']",2,40.6127349,-89.459323,IL,United States,True,True,False,True
+John Kelly,,,,,['1986-87'],1,,,,,False,True,False,False
+Ken Norman,"Chicago, Ill.",Crane,,F,"['1984-85', '1985-86', '1986-87']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Olaf Blab,"Munich, West Germany",Charleston (Ill.),,C,"['1984-85', '1985-86', '1986-87']",3,48.1719513,11.5783159,,West Germany,False,False,True,True
+Tony Wysinger,"Peoria, Ill.",Central,,G,"['1983-84', '1984-85', '1985-86', '1986-87']",4,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Bob Starnes,"Chicago, Ill.",Gage Park (Ill.),,G,"['1959-60', '1960-61', '1961-62', '1962-63', '1987-88']",5,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Bryan Brickner,,,,,"['1986-87', '1987-88']",2,,,,,False,True,False,False
+Glynn Blackwell,"Highland Park, Mich.",Highland Park,,G,"['1984-85', '1985-86', '1986-87', '1987-88']",4,42.4055981,-83.0965829,MI,United States,False,True,False,True
+Jens Kujawa,"Braunschweig, West Germany",Taylorville (Ill.),,C,"['1984-85', '1985-86', '1986-87', '1987-88']",4,52.3256733,10.4661204,,West Germany,False,False,True,True
+Phil Kunz,"Carlyle, Ill.",Carlyle,,F,"['1986-87', '1987-88']",2,38.6103264,-89.3725796,IL,United States,True,True,False,True
+Randy Scheuneman,,,,,['1987-88'],1,,,,,False,True,False,False
+Ron Trice,,,,,['1987-88'],1,,,,,False,True,False,False
+Eddie Manzke,"Orland Park, Ill.",Marist,,G,"['1987-88', '1988-89']",2,41.630663,-87.8536288,IL,United States,True,True,False,True
+Kenny Battle,"Aurora, Ill.",Aurora West,,F,"['1987-88', '1988-89']",2,41.7571701,-88.3147539,IL,United States,True,True,False,True
+Lowell Hamilton,"Chicago, Ill.",Providence St. Mel,,F/C,"['1985-86', '1986-87', '1987-88', '1988-89']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Mark Shapland,"Monticello, Ill.",Monticello,,G,"['1987-88', '1988-89']",2,40.026295,-88.567956,IL,United States,True,True,False,True
+Mark Steinberg,,,,,['1988-89'],1,,,,,False,True,False,False
+Mike MacDonald,"Streamwood, Ill.",Streamwood,,F,"['1987-88', '1988-89']",2,42.0255827,-88.1784085,IL,United States,True,True,False,True
+Nick Anderson,"Chicago, Ill.",Simeon,,G/F,"['1987-88', '1988-89']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Tyler Cottingham,,,,,['1988-89'],1,,,,,False,True,False,False
+Brian O'Connell,"Schaumburg, Ill.",Schaumburg,,G/F,"['1988-89', '1989-90']",2,42.0333608,-88.083406,IL,United States,True,True,False,True
+Brian Schmitz,,,,,['1989-90'],1,,,,,False,True,False,False
+Ed Armstrong,,,,,['1989-90'],1,,,,,False,True,False,False
+Ervin Small,"Chicago, Ill.",Simeon,,F,"['1987-88', '1988-89', '1989-90']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Ken Gibson,"Bloomington, Ill.",Bloomington,,G,['1989-90'],1,40.4797828,-88.9939147,IL,United States,True,True,False,True
+Kendall Gill,"Matteson, Ill.",Rich Central,,G,"['1986-87', '1987-88', '1988-89', '1989-90']",4,41.509832,-87.739267,IL,United States,True,True,False,True
+Marcus Liberty,"Chicago, Ill.",King,,F,"['1988-89', '1989-90']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+P.J. Bowman,"Champaign, Ill.",Centennial,,G,"['1988-89', '1989-90']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Rodney Jones,"Philadelphia, Pa.",West Philadelphia,,F/C,"['1988-89', '1989-90']",2,39.9527237,-75.1635262,PA,United States,False,True,False,True
+Stephen Bardo,"Carbondale, Ill.",Carbondale,,G/F,"['1986-87', '1987-88', '1988-89', '1989-90']",4,37.7274692,-89.216655,IL,United States,True,True,False,True
+Todd Russell,,,,,['1989-90'],1,,,,,False,True,False,False
+Travis Smith,"Ridgeway, Ill.",Ridgeway,,G,"['1987-88', '1988-89', '1989-90']",3,37.6052107,-88.938777,IL,United States,True,True,False,True
+Andy Kpedi,"Warri, Nigeria",Kankakee JC,,C,"['1989-90', '1990-91']",2,5.5186186,5.7480196,,Nigeria,False,False,True,True
+Craig Davis,,,,,['1990-91'],1,,,,,False,True,False,False
+Larry Smith,"Alton, Ill.",Alton,,G,"['1986-87', '1987-88', '1988-89', '1989-90', '1990-91']",5,38.8908583,-90.1843091,IL,United States,True,True,False,True
+Pat Kennedy,,,,,"['1987-88', '1989-90', '1990-91']",3,,,,,False,True,False,False
+Ryan Tuttle,,,,,"['1989-90', '1990-91']",2,,,,,False,True,False,False
+Scott Bils,,,,,"['1989-90', '1990-91']",2,,,,,False,True,False,False
+Scott Radis,,,,,"['1989-90', '1990-91']",2,,,,,False,True,False,False
+Scott Spitz,,,,,"['1989-90', '1990-91']",2,,,,,False,True,False,False
+Brent Versendaal,,,,,['1991-92'],1,,,,,False,True,False,False
+Doug Clarida,"Marion, Ill.",Marion,,G,['1991-92'],1,38.6477381,-88.9232112,IL,United States,True,True,False,True
+Jerry Maher,,,,,"['1989-90', '1990-91', '1991-92']",3,,,,,False,True,False,False
+Matt Schnaderbeck,"Des Plaines, Ill.",Maine West,,F,"['1988-89', '1989-90', '1990-91', '1991-92']",4,42.0415823,-87.8873916,IL,United States,True,True,False,True
+Matt Williams,"Libertyville, Ill.",Libertyville,,G,['1991-92'],1,42.2830786,-87.9531303,IL,United States,True,True,False,True
+Mike Duis,"Crescent City, Ill.",Crescent-Iroquois,,F,['1991-92'],1,40.7700351,-87.8589251,IL,United States,True,True,False,True
+Scott Pierce,"Euless, Texas",Trinity,,F,"['1990-91', '1991-92']",2,32.8370727,-97.0819541,TX,United States,False,True,False,True
+Tim Geers,"Chicago, Ill.",De La Salle,,F,"['1989-90', '1990-91', '1991-92']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Tom Drynan,,,,,['1991-92'],1,,,,,False,True,False,False
+Tom Sloan,,,,,"['1988-89', '1991-92']",2,,,,,False,True,False,False
+Troy Fischer,,,,,"['1989-90', '1990-91', '1991-92']",3,,,,,False,True,False,False
+Will Tuttle,"Mokena, Ill.",Mokena,,G,['1991-92'],1,41.5261437,-87.8892189,IL,United States,True,True,False,True
+Andy Kaufmann,"Jacksonville, Ill.",Jacksonville,,F,"['1988-89', '1989-90', '1990-91', '1991-92', '1992-93']",5,39.7343697,-90.228782,IL,United States,True,True,False,True
+Brad Ostendorf,,,,,"['1991-92', '1992-93']",2,,,,,False,True,False,False
+Brooks Taylor,"Chicago, Ill.",De La Salle,,G,"['1989-90', '1990-91', '1991-92', '1992-93']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Bryan Rice,,,,,['1992-93'],1,,,,,False,True,False,False
+Davin Harris,"Bloomington, Ill.",Bloomington,,G,['1992-93'],1,40.4797828,-88.9939147,IL,United States,True,True,False,True
+John Vivian,,,,,['1992-93'],1,,,,,False,True,False,False
+Kelly O'Rourke,,,,,['1992-93'],1,,,,,False,True,False,False
+Marc Davidson,"Minooka, Ill.",Aurora Christian,,F,"['1991-92', '1992-93']",2,41.4553084,-88.2617305,IL,United States,True,True,False,True
+Matt Griswold,,,,,['1992-93'],1,,,,,False,True,False,False
+Rennie Clemons,"Springfield, Ill.",Calvary,,G,"['1990-91', '1991-92', '1992-93']",3,39.7990175,-89.6439575,IL,United States,True,True,False,True
+Brian McAleenan,,,,,"['1991-92', '1993-94']",2,,,,,False,True,False,False
+Brian Thiede,,,,,['1993-94'],1,,,,,False,True,False,False
+Deon Thomas,"Chicago, Ill.",Simeon,,F/C,"['1989-90', '1990-91', '1991-92', '1992-93', '1993-94']",5,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Gene Cross,"Olympia Fields, Ill.",Rich Central,,G,"['1990-91', '1991-92', '1992-93', '1993-94']",4,41.5164045,-87.7028957,IL,United States,True,True,False,True
+Greg Phillips,,,,,['1993-94'],1,,,,,False,True,False,False
+Justin Fierz,,,,,['1993-94'],1,,,,,False,True,False,False
+Mike Shannon,,,,,['1993-94'],1,,,,,False,True,False,False
+T.J. Wheeler,"Buckner, Ill.",Christopher,,G,"['1989-90', '1990-91', '1991-92', '1992-93', '1993-94']",5,37.9831056,-89.0161841,IL,United States,True,True,False,True
+Tom Michael,"Hoffman, Ill.",Carlyle,,F,"['1989-90', '1990-91', '1991-92', '1992-93', '1993-94']",5,38.5413716,-89.263599,IL,United States,True,True,False,True
+Bob Edgerton,,,,,['1994-95'],1,,,,,False,True,False,False
+Derrick Thomas,,,,,"['1993-94', '1994-95']",2,,,,,False,True,False,False
+John Larson,,,,,['1994-95'],1,,,,,False,True,False,False
+Robert Bennett,"Chicago, Ill.",Julian,,F,"['1991-92', '1992-93', '1993-94', '1994-95']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Robert Rodgers,,,,,['1994-95'],1,,,,,False,True,False,False
+Shelly Clark,"Chicago, Ill.",South Shore,,F/C,"['1993-94', '1994-95']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Steve Roth,"Belleville, Ill.",East,,C,"['1991-92', '1992-93', '1993-94', '1994-95']",4,38.5135805,-89.9841627,IL,United States,True,True,False,True
+Brett Robisch,"Springfield, Ill.",Calvary,,C,"['1993-94', '1994-95', '1995-96']",3,39.7990175,-89.6439575,IL,United States,True,True,False,True
+Brian Begley,,,,,['1995-96'],1,,,,,False,True,False,False
+Dean Hill,,,,,['1995-96'],1,,,,,False,True,False,False
+Ed Cisowski,,,,,['1995-96'],1,,,,,False,True,False,False
+Jeff Lindenmeyer,,,,,['1995-96'],1,,,,,False,True,False,False
+Joe Lambert,,,,,['1995-96'],1,,,,,False,True,False,False
+John Steele,,,,,"['1993-94', '1994-95', '1995-96']",3,,,,,False,True,False,False
+Karl Schulz,,,,,"['1993-94', '1994-95', '1995-96']",3,,,,,False,True,False,False
+Larry Christian,,,,,['1995-96'],1,,,,,False,True,False,False
+Richard Keene,"Collinsville, Ill.",Collinsville,,G,"['1992-93', '1993-94', '1994-95', '1995-96']",4,38.6703267,-89.9845476,IL,United States,True,True,False,True
+Ryan Blackwell,"Pittsford, N.Y.",Pittsford-Sutherland,,F,['1995-96'],1,43.090959,-77.515298,NY,United States,False,True,False,True
+Scott Brunson,,,,,['1995-96'],1,,,,,False,True,False,False
+Tom Barich,,,,,['1995-96'],1,,,,,False,True,False,False
+Travis Wilson,,,,,['1995-96'],1,,,,,False,True,False,False
+Bryant Notree,"Chicago, Ill.",Simeon,,G,"['1994-95', '1995-96', '1996-97']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Chris Gandy,"Kankakee, Ill.",Bradley-Bourbonnais,,F,"['1992-93', '1993-94', '1994-95', '1995-96', '1996-97']",5,41.1253903,-87.848682,IL,United States,True,True,False,True
+Halim Abdullah,"Jersey City, N.J.",St. Anthony's,,G,['1996-97'],1,40.7215682,-74.047455,NJ,United States,False,True,False,True
+Herb Caldwell,"Jacksonville, Ill.",Jacksonville,,F,"['1995-96', '1996-97']",2,39.7343697,-90.228782,IL,United States,True,True,False,True
+Kiwane Garris,"Chicago, Ill.",Westinghouse,,G,"['1993-94', '1994-95', '1995-96', '1996-97']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Udoiwod Udoiwod,,,,,['1996-97'],1,,,,,False,True,False,False
+Awvee Storey,"Chicago, Ill.",Proviso West,,G/F,['1997-98'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Brian Johnson,"Des Plaines, Ill.",Maine West,,F,"['1993-94', '1994-95', '1995-96', '1996-97', '1997-98']",5,42.0415823,-87.8873916,IL,United States,True,True,False,True
+David Freeman,"Champaign, Ill.",Central,,G,"['1996-97', '1997-98']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Jarrod Gee,"Chicago, Ill.",St. Martin de Porres,,F,"['1994-95', '1995-96', '1996-97', '1997-98']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Jeff Reichardt,"Schaumburg, Ill.",Schaumburg,,G,"['1996-97', '1997-98']",2,42.0333608,-88.083406,IL,United States,True,True,False,True
+Jelani Boline,"Chicago, Ill.",Whitney Young,,G,"['1996-97', '1997-98']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Jerry Hester,"Peoria, Ill.",Manual,,F,"['1993-94', '1994-95', '1995-96', '1996-97', '1997-98']",5,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Kevin Turner,"Chicago, Ill.",Simeon,,G,"['1994-95', '1995-96', '1996-97', '1997-98']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Luke Williams,"Mattoon, Ill.",Shiloh,,G,['1997-98'],1,39.4842821,-88.3773279,IL,United States,True,True,False,True
+Matt Heldman,"Libertyville, Ill.",Libertyville,,G,"['1994-95', '1995-96', '1996-97', '1997-98']",4,42.2830786,-87.9531303,IL,United States,True,True,False,True
+Arias Davis,"Waycross, Ga.",Ware County,,G,"['1997-98', '1998-99']",2,31.2135511,-82.3540178,GA,United States,False,True,False,True
+Carvell Ammons,"Champaign, Ill.",Centennial,,F,"['1997-98', '1998-99']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Dave Wilkinson,,,,,['1998-99'],1,,,,,False,True,False,False
+Fess Hawkins,"Pine Bluff, Ark.",Dollarway,,C,"['1996-97', '1998-99']",2,34.2228884,-92.004334,AR,United States,False,True,False,True
+Rich Beyers,"Shelbyville, Ill.",Shelbyville,,F,"['1997-98', '1998-99']",2,39.4064284,-88.7900689,IL,United States,True,True,False,True
+Cleotis Brown,"Pittsview, Ala.",Russell County,,F,"['1998-99', '1999-00']",2,32.188207,-85.1632685,AL,United States,False,True,False,True
+Gareth Breunlin,"La Grange, Ill.",Lyons Township,,G,['1999-00'],1,41.81483,-87.8735662,IL,United States,True,True,False,True
+Victor Chukwudebe,"Springfield, Ill.",Lanphier,,F,"['1996-97', '1997-98', '1998-99', '1999-00']",4,39.7990175,-89.6439575,IL,United States,True,True,False,True
+Joe Cross,"Carbondale, Ill.",Carbondale,,G,"['1998-99', '1999-00', '2000-01']",3,37.7274692,-89.216655,IL,United States,True,True,False,True
+Marcus Griffin,"Peoria, Ill.",Manual,,F,"['1999-00', '2000-01']",2,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Nate Mast,"Champaign, Ill.",Central,,G,"['1998-99', '1999-00', '2000-01']",3,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Sergio McClain,"Peoria, Ill.",Manual,,F,"['1997-98', '1998-99', '1999-00', '2000-01']",4,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Brett Melton,"Mahomet, Ill.",Mahomet-Seymour,,G,"['2000-01', '2001-02']",2,40.195142,-88.4052266,IL,United States,True,True,False,True
+Cory Bradford,"Memphis, Tenn.",Raleigh Egypt,,G,"['1997-98', '1998-99', '1999-00', '2000-01', '2001-02']",5,35.1460249,-90.0517638,TN,United States,False,True,False,True
+Damir Krupalija,"Rockford, Ill.",Boylan,,F,"['1998-99', '1999-00', '2000-01', '2001-02']",4,42.2713945,-89.093966,IL,United States,True,True,False,True
+Frank Williams,"Peoria, Ill.",Manual,,G,"['1998-99', '1999-00', '2000-01', '2001-02']",4,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Lucas Johnson,"Des Plaines, Ill.",Maine West,,F,"['1998-99', '1999-00', '2000-01', '2001-02']",4,42.0415823,-87.8873916,IL,United States,True,True,False,True
+Robert Archibald,"Ballwin, Mo.",Lafayette,,F,"['1998-99', '1999-00', '2000-01', '2001-02']",4,38.5961694,-90.5387318,MO,United States,False,True,False,True
+Walter Young,,,,,['2001-02'],1,,,,,False,True,False,False
+Blandon Ferguson,"Oakland, Calif.",St. Joseph Notre Dame,,F,"['2001-02', '2002-03']",2,37.8044557,-122.271356,CA,United States,False,True,False,True
+Brian Cook,"Lincoln, Ill.",Lincoln,,F,"['1999-00', '2000-01', '2001-02', '2002-03']",4,40.1481349,-89.3636569,IL,United States,True,True,False,True
+Clayton Thomas,"Elgin, Ill.",Larkin,,F,"['1999-00', '2000-01', '2001-02', '2002-03']",4,42.03726,-88.2810994,IL,United States,True,True,False,True
+Kyle Wilson,"Plano, Texas",Dallas Jesuit,,F,['2002-03'],1,33.0136764,-96.6925096,TX,United States,False,True,False,True
+Nick Huge,"Charlotte, N.C.",Christian,,G,"['2001-02', '2002-03']",2,35.2272086,-80.8430827,NC,United States,False,True,False,True
+Sean Harrington,"Bartlett, Ill.",Elgin,,G,"['1999-00', '2000-01', '2001-02', '2002-03']",4,41.9908485,-88.1850028,IL,United States,True,True,False,True
+Aaron Spears,"Chicago, Ill.",Dunbar,,F/C,"['2002-03', '2003-04']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Jerrance Howard,"Peoria, Ill.",Peoria,,G,"['1999-00', '2000-01', '2001-02', '2002-03', '2003-04']",5,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Deron Williams,"The Colony, Texas",The Colony,,G,"['2002-03', '2003-04', '2004-05']",3,33.0890094,-96.8863922,TX,United States,False,True,False,True
+Fred Nkemdi,"North Riverside, Ill.",Riverside-Brookfield,,F,"['2003-04', '2004-05']",2,41.84686,-87.8152024,IL,United States,True,True,False,True
+Jack Ingram,"San Antonio, Texas",Marshall,,F/C,"['2002-03', '2003-04', '2004-05']",3,29.4246002,-98.4951405,TX,United States,False,True,False,True
+Luther Head,"Chicago, Ill.",Manley,,G,"['2001-02', '2002-03', '2003-04', '2004-05']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Nick Smith,"Valrico, Fla.",Bloomingdale,,C,"['2000-01', '2001-02', '2002-03', '2003-04', '2004-05']",5,27.9484265,-82.2362155,FL,United States,False,True,False,True
+Roger Powell,"Joliet, Ill.",Joliet,,F,"['2001-02', '2002-03', '2003-04', '2004-05']",4,41.5263603,-88.0840212,IL,United States,True,True,False,True
+Dee Brown,"Maywood, Ill.",Proviso East,,G,"['2002-03', '2003-04', '2004-05', '2005-06']",4,41.8789942,-87.8436412,IL,United States,True,True,False,True
+James Augustine,"Mokena, Ill.",Lincoln-Way Central,,F/C,"['2002-03', '2003-04', '2004-05', '2005-06']",4,41.5261437,-87.8892189,IL,United States,True,True,False,True
+Jeremiah Wise,"Maywood, Ill.",Proviso East,,G,['2006-07'],1,41.8789942,-87.8436412,IL,United States,True,True,False,True
+Marcus Arnold,"Chicago, Ill.",Morgan Park,,F,"['2004-05', '2005-06', '2006-07']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Rich McBride,"Springfield, Ill.",Lanphier,,G,"['2003-04', '2004-05', '2005-06', '2006-07']",4,39.7990175,-89.6439575,IL,United States,True,True,False,True
+Warren Carter,"Dallas, Texas",Lake Highlands,,F,"['2003-04', '2004-05', '2005-06', '2006-07']",4,32.7762719,-96.7968559,TX,United States,False,True,False,True
+Brian Carlwell,"Maywood, Ill.",Proviso East,,C,"['2006-07', '2007-08']",2,41.8789942,-87.8436412,IL,United States,True,True,False,True
+Brian Randle,"Peoria, Ill.",Notre Dame,,F,"['2003-04', '2004-05', '2005-06', '2006-07', '2007-08']",5,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Chris Hicks,"Chicago, Ill.",Whitney Young,,G,"['2005-06', '2006-07', '2007-08']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Jamar Smith,"Peoria, Ill.",Richwoods,,G,"['2005-06', '2006-07', '2007-08']",3,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Rodney Alexander,"Benton Harbor, Mich.",Benton Harbor,,F,['2007-08'],1,42.1167065,-86.4541894,MI,United States,False,True,False,True
+Shaun Pruitt,"Aurora, Ill.",West Aurora,,C,"['2004-05', '2005-06', '2006-07', '2007-08']",4,41.7571701,-88.3147539,IL,United States,True,True,False,True
+Steve Holdren,"Champaign, Ill.",Centennial,,G,"['2006-07', '2007-08']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+C.J. Jackson,"Buena Vista, Ga.",Tri-County,,F,"['2005-06', '2006-07', '2008-09']",3,32.3190398,-84.5171411,GA,United States,False,True,False,True
+Calvin Brock,"Chicago, Ill.",Simeon,,G,"['2004-05', '2005-06', '2006-07', '2007-08', '2008-09']",5,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Chester Frazier,"Baltimore, Md.",Lake Clifton-Eastern,,G,"['2005-06', '2006-07', '2007-08', '2008-09']",4,39.2908816,-76.610759,MD,United States,False,True,False,True
+Trent Meacham,"Champaign, Ill.",Centennial,,G,"['2005-06', '2006-07', '2007-08', '2008-09']",4,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Alex Legion,"Detroit, Mich.",Oak Hill Academy,,G,"['2007-08', '2008-09', '2009-10']",3,42.3315509,-83.0466403,MI,United States,False,True,False,True
+Bubba Chisholm,"Champaign, Ill.",Central,,G,"['2008-09', '2009-10']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Dominique Keller,"Port Arthur, Texas",Memorial,,F,"['2008-09', '2009-10']",2,29.8716577,-93.9332302,TX,United States,False,True,False,True
+Jeff Jordan,"Highland Park, Ill.",Loyola Academy,,G,"['2007-08', '2008-09', '2009-10']",3,42.1836719,-87.7993245,IL,United States,True,True,False,True
+Richard Semrau,"Grafton, Ohio",Lutheran West,,C,"['2006-07', '2007-08', '2008-09', '2009-10']",4,41.2725522,-82.0545892,OH,United States,False,True,False,True
+Stan Simpson,"Chicago, Ill.",Simeon,,C,"['2008-09', '2009-10']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Bill Cole,"Peoria, Ill.",Richwoods,,F,"['2007-08', '2008-09', '2009-10', '2010-11']",4,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Demetri McCamey,"Bellwood, Ill.",St. Joseph,,G,"['2007-08', '2008-09', '2009-10', '2010-11']",4,41.8814184,-87.88319,IL,United States,True,True,False,True
+Jereme Richmond,"Waukegan, Ill.",Waukegan,,G/F,['2010-11'],1,42.3602273,-87.8318164,IL,United States,True,True,False,True
+Mike Davis,"Alexandria, Va.",T.C. Williams,,F,"['2007-08', '2008-09', '2009-10', '2010-11']",4,38.8051095,-77.0470229,VA,United States,False,True,False,True
+Mike Tisdale,"Riverton, Ill.",Riverton,,C,"['2007-08', '2008-09', '2009-10', '2010-11']",4,39.8442164,-89.5395417,IL,United States,True,True,False,True
+Crandall Head,"Matteson, Ill.",Rich South,,G,"['2010-11', '2011-12']",2,41.509832,-87.739267,IL,United States,True,True,False,True
+Jean Selus,"Montreal, Quebec",Winter Garden (Fla.),,G,"['2010-11', '2011-12']",2,45.5031824,-73.5698065,,Quebec,False,False,True,True
+Meyers Leonard,"Robinson, Ill.",Robinson,,C,"['2010-11', '2011-12']",2,39.0053201,-87.7391936,IL,United States,True,True,False,True
+Sam Maniscalco,"Chicago, Ill.",St. Patrick,,G,['2011-12'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Brandon Paul,"Gurnee, Ill.",Warren,,G,"['2009-10', '2010-11', '2011-12', '2012-13']",4,42.3702996,-87.9020186,IL,United States,True,True,False,True
+D.J. Richardson,"Peoria, Ill.",Central,,G,"['2009-10', '2010-11', '2011-12', '2012-13']",4,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Devin Langford,"Hunstville, Ala.",Lee,,G/F,"['2011-12', '2012-13']",2,,,AL,United States,False,True,False,False
+Ibby Djimde,"Bamako, Mali",Huntington (W. Va.) Prep,,F/C,"['2011-12', '2012-13']",2,12.649319,-8.000337,,Mali,False,False,True,True
+Kevin Berardini,"Lake Forest, Ill.",Lake Forest,,G,"['2010-11', '2011-12', '2012-13']",3,42.2586461,-87.8407055,IL,United States,True,True,False,True
+Mike Shaw,"Chicago, Ill.",De La Salle,,F,"['2011-12', '2012-13']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Myke Henry,"Chicago, Ill.",Orr,,G/F,"['2011-12', '2012-13']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Sam McLaurin,"Havana, Fla.",East Gadsden,,F/C,['2012-13'],1,30.6255617,-84.4153769,FL,United States,False,True,False,True
+Tyler Griffey,"Wildwood, Mo.",Lafayette,,F,"['2009-10', '2010-11', '2011-12', '2012-13']",4,38.5806948,-90.6314374,MO,United States,False,True,False,True
+Darius Paul,"Gurnee, Ill.",Warren,,F,['2013-14'],1,42.3702996,-87.9020186,IL,United States,True,True,False,True
+Jon Ekey,"Independence, Mo.",Chrisman,,F,['2013-14'],1,39.0924792,-94.4137923,MO,United States,False,True,False,True
+Joseph Bertrand,"Sterling, Ill.",Sterling,,G,"['2009-10', '2010-11', '2011-12', '2012-13', '2013-14']",5,41.788253,-89.6953656,IL,United States,True,True,False,True
+Aaron Cosby,"Louisville, Ky.",Northfield Mount Hermon (Mass.),,G,"['2013-14', '2014-15']",2,38.2542376,-85.759407,KY,United States,False,True,False,True
+Ahmad Starks,"Chicago, Ill.",Whitney Young,,G,"['2013-14', '2014-15']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Austin Colbert,"Chesapeake, Va.",Gill St. Bernard's (N.J.),,F,"['2013-14', '2014-15']",2,36.7168315,-76.2494453,VA,United States,False,True,False,True
+Nnanna Egwu,"Chicago, Ill.",Saint Ignatius,,F/C,"['2011-12', '2012-13', '2013-14', '2014-15']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Rayvonte Rice,"Champaign, Ill.",Centennial,,G,"['2012-13', '2013-14', '2014-15']",3,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Ryan Schmidt,"Bloomington, IL",Bloomington Central Catholic,,G,['2014-15'],1,40.4797828,-88.9939147,IL,United States,False,True,False,True
+Kendrick Nunn,"Chicago, Ill.",Simeon,,G,"['2013-14', '2014-15', '2015-16']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Khalid Lewis,"Trenton, N.J.",Trenton Catholic,,G,['2015-16'],1,40.2203074,-74.7659,NJ,United States,False,True,False,True
+Mike LaTulip,"Arlington Heights, Ill.",Prospect,,G,"['2012-13', '2013-14', '2014-15', '2015-16']",4,42.0811563,-87.9802164,IL,United States,True,True,False,True
+Alex Austin,"Chicago, Ill.",Mount Carmel,,G,"['2014-15', '2015-16', '2016-17']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+D.J. Williams,"Chicago, Ill.",Simeon,,G,"['2015-16', '2016-17']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Jalen Coleman-Lands,"Indianapolis, Ind.",La Lumiere,,G,"['2015-16', '2016-17']",2,39.7683331,-86.1583502,IN,United States,False,True,False,True
+Jaylon Tate,"Chicago, Ill.",Simeon,,G,"['2013-14', '2014-15', '2015-16', '2016-17']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Malcolm Hill,"Fairview Heights, Ill.",Belleville East,,G,"['2013-14', '2014-15', '2015-16', '2016-17']",4,38.5889386,-89.990382,IL,United States,True,True,False,True
+Maverick Morgan,"Springboro, Ohio",Springboro,,C,"['2013-14', '2014-15', '2015-16', '2016-17']",4,39.5522815,-84.2332718,OH,United States,False,True,False,True
+Mike Thorne Jr.,"Fayetteville, N.C.",Trinity Christian,,C,"['2015-16', '2016-17']",2,35.0525759,-78.878292,NC,United States,False,True,False,True
+Tracy Abrams,"Chicago, Ill.",Mount Carmel,,G,"['2011-12', '2012-13', '2013-14', '2014-15', '2015-16', '2016-17']",6,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Cameron Liss,"Northbrook, Ill.",Glenbrook North,,F,"['2014-15', '2015-16', '2016-17', '2017-18']",4,42.128704,-87.8265089,IL,United States,True,True,False,True
+Clayton Jones,"Champaign, Ill.",Central,,G,"['2016-17', '2017-18']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Greg Eboigbodin,"Benin City, Nigeria",University of Detroit Jesuit,,F,['2017-18'],1,6.3330586,5.6221058,,Nigeria,False,False,True,True
+Leron Black,"Memphis, Tenn.",White Station,,F,"['2014-15', '2015-16', '2016-17', '2017-18']",4,35.1460249,-90.0517638,TN,United States,False,True,False,True
+Mark Alstork,"Dayton, Ohio",Thurgood Marshall,,G,['2017-18'],1,39.7589478,-84.1916069,OH,United States,False,True,False,True
+Mark Smith,"Peoria, Ill.",Richwoods,,F,"['1977-78', '1978-79', '1979-80', '1980-81', '2017-18']",5,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Matic Vesel,"Ljubljana, Slovenia",Domžale,,F,['2017-18'],1,46.0500268,14.5069289,,Slovenia,False,False,True,True
+Michael Finke,"Champaign, Ill.",Centennial,,F,"['2014-15', '2015-16', '2016-17', '2017-18']",4,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Te'Jon Lucas,"Milwaukee, Wis.",Washington,,G,"['2016-17', '2017-18']",2,43.0386475,-87.9090751,WI,United States,False,True,False,True
+Aaron Jordan,"Plainfield, Ill.",East,,G,"['2015-16', '2016-17', '2017-18', '2018-19']",4,41.6086711,-88.2054345,IL,United States,True,True,False,True
+Adonis De La Rosa,"The Bronx, N.Y.",Christ the King,,C,['2018-19'],1,40.8466508,-73.8785937,NY,United States,False,True,False,True
+Alan Griffin,"Ossining, N.Y.",Archbishop Stepinac,,G,['2018-19'],1,41.1613168,-73.8620367,NY,United States,False,True,False,True
+Anthony Higgs,"Baltimore, Md.",Perry Hall,,F,['2018-19'],1,39.2908816,-76.610759,MD,United States,False,True,False,True
+Drew Cayce,"Libertyville, Ill.",La Lumiere (Ind.),,G,"['2016-17', '2017-18', '2018-19']",3,42.2830786,-87.9531303,IL,United States,True,True,False,True
+Samba Kane,"Dakar, Senegal",Florida Prep Academy,,C,['2018-19'],1,14.693425,-17.447938,,Senegal,False,False,True,True
+Tevian Jones,"Chandler, Ariz.",Culver City (Calif.),,G,['2018-19'],1,33.3062031,-111.841185,AZ,United States,False,True,False,True
+Andres Feliz,"Guachupita, Dominican Republic",West Oaks Academy (Fla.),,G,"['2018-19', '2019-20']",2,18.496744,-69.8839466,,Dominican Republic,False,False,True,True
+Kipper Nichols,"Cleveland, Ohio",St. Edward,,F,"['2015-16', '2016-17', '2017-18', '2018-19', '2019-20']",5,41.4996574,-81.6936772,OH,United States,False,True,False,True
+Samson Oladimeji,"Rolling Meadows, Ill.",Fremd,,F,"['2016-17', '2017-18', '2018-19', '2019-20']",4,42.0841936,-88.0131275,IL,United States,True,True,False,True
+Adam Miller,"Peoria, Ill.",Morgan Park,,G,['2020-21'],1,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Ayo Dosunmu,"Chicago, Ill.",Morgan Park,,G,"['2018-19', '2019-20', '2020-21']",3,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Edgar Padilla Jr.,"Carolina, Puerto Rico",San Ignacio de Loyola,,G,['2020-21'],1,18.3640599,-65.9526682,PR,United States,False,True,False,True
+Giorgi Bezhanishvili,"Rustavi, Georgia",The Patrick School (N.J.),,F,"['2018-19', '2019-20', '2020-21']",3,41.54309,45.0112804,GA,United States,False,True,False,True
+Jermaine Hamlin,"Lincoln, Ill.",Lincoln,,C,"['2019-20', '2020-21']",2,40.1481349,-89.3636569,IL,United States,True,True,False,True
+Tyler Underwood,"Champaign, Ill.",Nacogdoches (Texas),,G,"['2017-18', '2018-19', '2019-20', '2020-21']",4,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Zach Griffith,"Fisher, Ill.",Fisher,,F,"['2018-19', '2019-20', '2020-21']",3,40.3147555,-88.3500541,IL,United States,True,True,False,True
+Alfonso Plummer,"Fajardo, Puerto Rico",Colegio La Luz Juncos,Graduate Student,,['2021-22'],1,18.3278026,-65.6561832,PR,United States,False,True,False,True
+Andre Curbelo,"Vega Baja, Puerto Rico",Long Island Lutheran (N.Y.),Sophomore,,"['2020-21', '2021-22']",2,18.4177658,-66.3994474,PR,United States,False,True,False,True
+Austin Hutcherson,"New York, N.Y.",The Hun School (N.J.),Graduate Student,,"['2019-20', '2020-21', '2021-22']",3,40.7127281,-74.0060152,NY,United States,False,True,False,True
+Benjamin Bosmans-Verdonk,"Lommel, Belgium",KA Pegasus,Redshirt Sophomore,,"['2019-20', '2020-21', '2021-22']",3,51.2305657,5.3076895,,Belgium,False,False,True,True
+Brandin Podziemski,"Muskego, Wis.",St. John's Northwestern,Freshman,,['2021-22'],1,42.905848,-88.1389779,WI,United States,False,True,False,True
+Da'Monte Williams,"Peoria, Ill.",Manual,Senior,,"['2017-18', '2018-19', '2019-20', '2020-21', '2021-22']",5,40.6938609,-89.5891008,IL,United States,True,True,False,True
+Jacob Grandison,"Oakland, Calif.",Phillips Exeter (N.H.),Graduate Student,,"['2019-20', '2020-21', '2021-22']",3,37.8044557,-122.271356,CA,United States,False,True,False,True
+Kofi Cockburn,"Kingston, Jamaica",Oak Hill Academy (Va.),Junior,,"['2019-20', '2020-21', '2021-22']",3,17.9712148,-76.7928128,,Jamaica,False,False,True,True
+Omar Payne,"Kissimmee, Fla.",Montverde,Junior,,['2021-22'],1,28.2918995,-81.4075838,FL,United States,False,True,False,True
+Trent Frazier,"Wellington, Fla.",Wellington,Senior,,"['2017-18', '2018-19', '2019-20', '2020-21', '2021-22']",5,26.6549551,-80.2375279,FL,United States,False,True,False,True
+Brandon Lieb,"Deerfield, Ill.",Deerfield,,C,"['2020-21', '2021-22', '2022-23']",3,42.1711365,-87.8445119,IL,United States,True,True,False,True
+Connor Serven,"Prairie City, Ill.",St. Rita,,F,"['2020-21', '2021-22', '2022-23']",3,40.6211512,-90.4620731,IL,United States,True,True,False,True
+Jayden Epps,"Norfolk, Va.",Combine Academy (N.C.),,G,['2022-23'],1,36.8493695,-76.2899539,VA,United States,False,True,False,True
+Matthew Mayer,"Austin, Texas",Westlake,,G/F,['2022-23'],1,30.2711286,-97.7436995,TX,United States,False,True,False,True
+Paxton Warden,"Glen Ellyn, Ill.",Glenbard West,,G,['2022-23'],1,41.8775293,-88.0670118,IL,United States,True,True,False,True
+RJ Melendez,"Arecibo, Puerto Rico",Central Pointe Christian (Fla.),,G,"['2021-22', '2022-23']",2,18.4047499,-66.6810353,PR,United States,False,True,False,True
+Amani Hansberry,"Silver Spring, Md.",Mount Saint Joseph,Freshman,,['2023-24'],1,38.9997621,-77.0240371,MD,United States,False,True,False,True
+Coleman Hawkins,"Sacramento, Calif.",Prolific Prep,Senior,,"['2020-21', '2021-22', '2022-23', '2023-24']",4,38.5810606,-121.493895,CA,United States,False,True,False,True
+Dain Dainja,"Brooklyn Park, Minn.",Park Center,Redshirt Junior,,"['2021-22', '2022-23', '2023-24']",3,45.1004807,-93.3443585,MN,United States,False,True,False,True
+Justin Harmon,"Chicago, Ill.",Curie,Graduate Student,,['2023-24'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Luke Goode,"Fort Wayne, Ind.",Homestead,Junior,,"['2021-22', '2022-23', '2023-24']",3,41.0799898,-85.1386015,IN,United States,False,True,False,True
+Marcus Domask,"Waupun, Wis.",Waupun,Graduate Student,,['2023-24'],1,43.633216,-88.7296352,WI,United States,False,True,False,True
+Max Williams,"Chicago, Ill.",IMG Academy (Fla.),Senior,,['2023-24'],1,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Niccolo Moretti,"Bologna, Italy",DME Academy (Fla.),Redshirt Freshman,,"['2022-23', '2023-24']",2,44.4938203,11.3426327,,Italy,False,False,True,True
+Quincy Guerrier,"Montreal, Quebec",Thetford Academy,Graduate Student,,['2023-24'],1,45.5031824,-73.5698065,,Quebec,False,False,True,True
+Sencire Harris,"Canton, Ohio",St. Vincent-St. Mary,Sophomore,,"['2022-23', '2023-24']",2,40.7985464,-81.3749508,OH,United States,False,True,False,True
+Terrence Shannon Jr.,"Chicago, Ill.",IMG Academy (Fla.),Fifth Year,,"['2022-23', '2023-24']",2,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Carey Booth,"Englewood, Colo.",Brewster Academy (N.H.),Sophomore,,['2024-25'],1,39.6482059,-104.9879641,CO,United States,False,True,False,True
+Dra Gibbs-Lawhorn,"Lafayette, Ind.",Word of God Christian Academy (N.C.),Sophomore,,"['2023-24', '2024-25']",2,40.4191229,-86.8919011,IN,United States,False,True,False,True
+Kasparas Jakucionis,"Vilnius, Lithuania",,Freshman,,['2024-25'],1,54.6870458,25.2829111,,Lithuania,False,False,True,True
+Keaton Kutcher,"Mount Vernon, Iowa",Mount Vernon,Redshirt Junior,,"['2023-24', '2024-25']",2,41.9222443,-91.4171209,IA,United States,False,True,False,True
+Morez Johnson Jr.,"Riverdale, Ill.",Thornton Township,Freshman,,['2024-25'],1,41.6333678,-87.6331021,IL,United States,True,True,False,True
+Tre White,"Dallas, Texas",Prolific Prep (Calif.),Junior,,['2024-25'],1,32.7762719,-96.7968559,TX,United States,False,True,False,True
+Will Riley,"Kitchener, Ontario, Canada",The Phelps School (Pa.),Freshman,,['2024-25'],1,43.451291,-80.4927815,,Canada,False,False,True,True
+AJ Redd,"Chicago, Ill.",St. Ignatius,Senior,,"['2022-23', '2023-24', '2024-25', '2025-26']",4,41.8755616,-87.6244212,IL,United States,True,True,False,True
+Andrej Stojakovic,"Thessaloniki, Greece",Jesuit,Junior,,['2025-26'],1,40.6403167,22.9352716,,Greece,False,False,True,True
+Ben Humrichous,"Tipton, Ind.",Tipton,Graduate Student,,"['2024-25', '2025-26']",2,40.2899154,-86.058442,IN,United States,False,True,False,True
+Blake Fagbemi,"Naperville, Ill.",Benet Academy,Freshman,,['2025-26'],1,41.7728699,-88.1479278,IL,United States,True,True,False,True
+Brandon Lee,"San Juan, Puerto Rico",The Patrick School (N.J.),Freshman,,['2025-26'],1,18.465299,-66.116666,PR,United States,False,True,False,True
+David Mirkovic,"Niksic, Montenegro",,Freshman,,['2025-26'],1,42.7739388,18.9488097,,Montenegro,False,False,True,True
+Jake Davis,"McCordsville, Ind.",Cathedral,Junior,,"['2024-25', '2025-26']",2,39.8939648,-85.9219417,IN,United States,False,True,False,True
+Jason Jakstys,"Yorkville, Ill.",Yorkville,Redshirt Freshman,,"['2024-25', '2025-26']",2,41.6411409,-88.4472948,IL,United States,True,True,False,True
+Keaton Wagler,"Shawnee, Kan.",Shawnee Mission Northwest,Freshman,,['2025-26'],1,39.0273676,-95.7627535,KS,United States,False,True,False,True
+Kylan Boswell,Champaign Ill.,AZ Compass Prep,Senior,,"['2024-25', '2025-26']",2,40.1164841,-88.2430932,IL,United States,True,True,False,True
+Mihailo Petrovic,"Prokuplje, Serbia",,Sophomore,,['2025-26'],1,43.2343484,21.5884422,,Serbia,False,False,True,True
+Tomislav Ivisic,"Vodice, Croatia",,Junior,,"['2024-25', '2025-26']",2,43.7588065,15.7769182,,Croatia,False,False,True,True
+Ty Rodgers,"Saginaw, Mich.",Thornton Township (Ill.),Redshirt Junior,,"['2022-23', '2023-24', '2024-25', '2025-26']",4,43.4200387,-83.9490365,MI,United States,False,True,False,True
+Zvonimir Ivisic,"Vodice, Croatia",,Junior,,['2025-26'],1,43.7588065,15.7769182,,Croatia,False,False,True,True

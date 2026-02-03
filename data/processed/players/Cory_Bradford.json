@@ -1,0 +1,31 @@
+{
+  "name": "Cory Bradford",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/cory-bradford/4912",
+  "seasons": [
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01",
+    "2001-02"
+  ],
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "Cory",
+    "Last Name": "Bradford",
+    "Full Name": "Cory Bradford",
+    "Ht./Wt.": "6-3 / 200",
+    "Position": "G",
+    "Hometown": "Memphis, Tenn.",
+    "High School": "Raleigh Egypt",
+    "Height": "6-3",
+    "Weight": "200",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Memphis, Tenn.",
+    "lat": 35.1460249,
+    "lon": -90.0517638,
+    "is_illinois": false
+  }
+}

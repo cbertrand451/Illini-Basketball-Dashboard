@@ -1,0 +1,27 @@
+{
+  "name": "Rich Connell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rich-connell/5355",
+  "seasons": [
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Rich",
+    "Last Name": "Connell",
+    "Full Name": "Rich Connell",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "St. Joseph, Ill.",
+    "High School": "St. Joseph-Ogden",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "St. Joseph, Ill.",
+    "lat": 40.1117007,
+    "lon": -88.0417048,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Fess Hawkins",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/fess-hawkins/4925",
+  "seasons": [
+    "1996-97",
+    "1998-99"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Fess",
+    "Last Name": "Hawkins",
+    "Full Name": "Fess Hawkins",
+    "Ht./Wt.": "6-10 / 270",
+    "Position": "C",
+    "Hometown": "Pine Bluff, Ark.",
+    "High School": "Dollarway",
+    "Height": "6-10",
+    "Weight": "270",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pine Bluff, Ark.",
+    "lat": 34.2228884,
+    "lon": -92.004334,
+    "is_illinois": false
+  }
+}

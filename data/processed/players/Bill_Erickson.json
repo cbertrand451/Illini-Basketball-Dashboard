@@ -1,0 +1,30 @@
+{
+  "name": "Bill Erickson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-erickson/5805",
+  "seasons": [
+    "1946-47",
+    "1947-48",
+    "1948-49",
+    "1949-50"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Bill",
+    "Last Name": "Erickson",
+    "Full Name": "Bill Erickson",
+    "Ht./Wt.": "6-1 / 185",
+    "Position": "G",
+    "Hometown": "Rockford, Ill.",
+    "High School": "East",
+    "Height": "6-1",
+    "Weight": "185",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
+  }
+}

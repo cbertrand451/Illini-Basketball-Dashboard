@@ -1,0 +1,28 @@
+{
+  "name": "Kenny Battle",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kenny-battle/5123",
+  "seasons": [
+    "1987-88",
+    "1988-89"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Kenny",
+    "Last Name": "Battle",
+    "Full Name": "Kenny Battle",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Aurora, Ill.",
+    "High School": "Aurora West",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Aurora, Ill.",
+    "lat": 41.7571701,
+    "lon": -88.3147539,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Steve Roth",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/steve-roth/5042",
+  "seasons": [
+    "1991-92",
+    "1992-93",
+    "1993-94",
+    "1994-95"
+  ],
+  "header": {
+    "Jersey Number": "52",
+    "First Name": "Steve",
+    "Last Name": "Roth",
+    "Full Name": "Steve Roth",
+    "Ht./Wt.": "6-10 / 250",
+    "Position": "C",
+    "Hometown": "Belleville, Ill.",
+    "High School": "East",
+    "Height": "6-10",
+    "Weight": "250",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
+  }
+}

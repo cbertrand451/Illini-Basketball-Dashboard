@@ -1,0 +1,31 @@
+{
+  "name": "Doug Altenberger",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/doug-altenberger/5205",
+  "seasons": [
+    "1982-83",
+    "1983-84",
+    "1984-85",
+    "1985-86",
+    "1986-87"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Doug",
+    "Last Name": "Altenberger",
+    "Full Name": "Doug Altenberger",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Richwoods",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "Dra Gibbs-Lawhorn",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dra-gibbs-lawhorn/13966",
+  "seasons": [
+    "2023-24",
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "2",
+    "First Name": "Dra",
+    "Last Name": "Gibbs-Lawhorn",
+    "Full Name": "Dra Gibbs-Lawhorn",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/Gibbs-Lawhorn_Dra_WEB_20240916_MBB_Headshot_KS_2487.jpg?width=300",
+    "Twitter URL": "https://twitter.com/DravynGibbs",
+    "Instagram URL": "https://www.instagram.com/rilladra",
+    "NIL URL": "https://opndr.se/dra-gibbs-lawhorn",
+    "Class": "Sophomore",
+    "Height": "6-1",
+    "Weight": "185",
+    "Major": "Recreation, Sport, & Tourism",
+    "Hometown": "Lafayette, Ind.",
+    "High School": "Word of God Christian Academy (N.C.)",
+    "Instagram": "rilladra",
+    "Twitter": "DravynGibbs",
+    "Height Inches": 73
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f3%2f21%2f20240105_MBB_at_Purdue_CB_0076_GibbsLawhorn2.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f3%2f21%2f20240213_MBB_vs_Michigan_CB_3627.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f3%2f21%2f20240317_MBB_B1G_Tournament_Championship_Wisconsin_CB_2693.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Lafayette, Ind.",
+    "lat": 40.4191229,
+    "lon": -86.8919011,
+    "is_illinois": false
+  }
+}

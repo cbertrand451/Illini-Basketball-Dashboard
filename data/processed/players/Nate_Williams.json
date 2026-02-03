@@ -1,0 +1,28 @@
+{
+  "name": "Nate Williams",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nate-williams/5316",
+  "seasons": [
+    "1974-75",
+    "1975-76"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Nate",
+    "Last Name": "Williams",
+    "Full Name": "Nate Williams",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Crane",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

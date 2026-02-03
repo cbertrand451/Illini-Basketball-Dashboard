@@ -1,0 +1,27 @@
+{
+  "name": "Ray McClure",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ray-mcclure/5829",
+  "seasons": [
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "27",
+    "First Name": "Ray",
+    "Last Name": "McClure",
+    "Full Name": "Ray McClure",
+    "Ht./Wt.": "5-11 / 155",
+    "Position": "F",
+    "Hometown": "Galesburg, Ill.",
+    "High School": "Galesburg",
+    "Height": "5-11",
+    "Weight": "155",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Galesburg, Ill.",
+    "lat": 40.9475652,
+    "lon": -90.3712169,
+    "is_illinois": true
+  }
+}

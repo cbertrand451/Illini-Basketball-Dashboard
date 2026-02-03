@@ -1,0 +1,27 @@
+{
+  "name": "Ken Gibson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ken-gibson/5075",
+  "seasons": [
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Ken",
+    "Last Name": "Gibson",
+    "Full Name": "Ken Gibson",
+    "Ht./Wt.": "6-2 / 195",
+    "Position": "G",
+    "Hometown": "Bloomington, Ill.",
+    "High School": "Bloomington",
+    "Height": "6-2",
+    "Weight": "195",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Bloomington, Ill.",
+    "lat": 40.4797828,
+    "lon": -88.9939147,
+    "is_illinois": true
+  }
+}

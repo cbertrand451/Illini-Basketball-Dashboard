@@ -1,0 +1,27 @@
+{
+  "name": "Mel Blackwell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mel-blackwell/5502",
+  "seasons": [
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Mel",
+    "Last Name": "Blackwell",
+    "Full Name": "Mel Blackwell",
+    "Ht./Wt.": "6-2 / 170",
+    "Position": "F",
+    "Hometown": "Centralia, Ill.",
+    "High School": "Centralia",
+    "Height": "6-2",
+    "Weight": "170",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Centralia, Ill.",
+    "lat": 38.5250491,
+    "lon": -89.1334037,
+    "is_illinois": true
+  }
+}

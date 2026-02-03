@@ -1,0 +1,29 @@
+{
+  "name": "Tom  Adams",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-adams/5617",
+  "seasons": [
+    "1957-58",
+    "1958-59",
+    "1959-60"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Tom",
+    "Last Name": "Adams",
+    "Full Name": "Tom Adams",
+    "Ht./Wt.": "6-5 / 190",
+    "Position": "F",
+    "Hometown": "Washington, Ill.",
+    "High School": "Washington",
+    "Height": "6-5",
+    "Weight": "190",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Washington, Ill.",
+    "lat": 38.3662806,
+    "lon": -89.4201902,
+    "is_illinois": true
+  }
+}

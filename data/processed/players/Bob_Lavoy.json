@@ -1,0 +1,27 @@
+{
+  "name": "Bob Lavoy",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-lavoy/5809",
+  "seasons": [
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "39",
+    "First Name": "Bob",
+    "Last Name": "Lavoy",
+    "Full Name": "Bob Lavoy",
+    "Ht./Wt.": "6-6 / 185",
+    "Position": "C",
+    "Hometown": "Aurora, Ill.",
+    "High School": "East",
+    "Height": "6-6",
+    "Weight": "185",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Aurora, Ill.",
+    "lat": 41.7571701,
+    "lon": -88.3147539,
+    "is_illinois": true
+  }
+}

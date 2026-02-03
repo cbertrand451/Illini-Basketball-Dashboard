@@ -1,0 +1,29 @@
+{
+  "name": "Larry Hinton",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-hinton/5512",
+  "seasons": [
+    "1963-64",
+    "1964-65",
+    "1965-66"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Larry",
+    "Last Name": "Hinton",
+    "Full Name": "Larry Hinton",
+    "Ht./Wt.": "6-2 / 190",
+    "Position": "G",
+    "Hometown": "Shelbyville, Ill.",
+    "High School": "Shelbyville",
+    "Height": "6-2",
+    "Weight": "190",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Shelbyville, Ill.",
+    "lat": 39.4064284,
+    "lon": -88.7900689,
+    "is_illinois": true
+  }
+}

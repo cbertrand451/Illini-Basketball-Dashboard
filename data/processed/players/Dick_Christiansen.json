@@ -1,0 +1,28 @@
+{
+  "name": "Dick Christiansen",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dick-christiansen/5725",
+  "seasons": [
+    "1950-51",
+    "1951-52"
+  ],
+  "header": {
+    "Jersey Number": "47",
+    "First Name": "Dick",
+    "Last Name": "Christiansen",
+    "Full Name": "Dick Christiansen",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "F",
+    "Hometown": "Winnetka, Ill.",
+    "High School": "New Trier",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Winnetka, Ill.",
+    "lat": 42.1080703,
+    "lon": -87.7365286,
+    "is_illinois": true
+  }
+}

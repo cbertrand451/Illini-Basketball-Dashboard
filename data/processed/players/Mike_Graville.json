@@ -1,0 +1,29 @@
+{
+  "name": "Mike Graville",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-graville/5513",
+  "seasons": [
+    "1963-64",
+    "1964-65",
+    "1965-66"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Mike",
+    "Last Name": "Graville",
+    "Full Name": "Mike Graville",
+    "Ht./Wt.": "6-0 / 185",
+    "Position": "G",
+    "Hometown": "Madison, Ill.",
+    "High School": "Madison",
+    "Height": "6-0",
+    "Weight": "185",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Madison, Ill.",
+    "lat": 38.811063,
+    "lon": -89.9017112,
+    "is_illinois": true
+  }
+}

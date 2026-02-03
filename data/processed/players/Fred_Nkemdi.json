@@ -1,0 +1,28 @@
+{
+  "name": "Fred Nkemdi",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/fred-nkemdi/4829",
+  "seasons": [
+    "2003-04",
+    "2004-05"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Fred",
+    "Last Name": "Nkemdi",
+    "Full Name": "Fred Nkemdi",
+    "Ht./Wt.": "6-5 / 235",
+    "Position": "F",
+    "Hometown": "North Riverside, Ill.",
+    "High School": "Riverside-Brookfield",
+    "Height": "6-5",
+    "Weight": "235",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "North Riverside, Ill.",
+    "lat": 41.84686,
+    "lon": -87.8152024,
+    "is_illinois": true
+  }
+}

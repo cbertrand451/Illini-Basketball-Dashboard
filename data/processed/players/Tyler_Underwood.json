@@ -1,0 +1,31 @@
+{
+  "name": "Tyler Underwood",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tyler-underwood/7419",
+  "seasons": [
+    "2017-18",
+    "2018-19",
+    "2019-20",
+    "2020-21"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Tyler",
+    "Last Name": "Underwood",
+    "Full Name": "Tyler Underwood",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2020/10/19/MBB2021_Headshot_UnderwoodTyler__1MJ4406.jpg?width=300",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Nacogdoches (Texas)",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

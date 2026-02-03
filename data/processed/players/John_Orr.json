@@ -1,0 +1,24 @@
+{
+  "name": "John Orr",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-orr/5856",
+  "seasons": [
+    "1944-45"
+  ],
+  "header": {
+    "First Name": "John",
+    "Last Name": "Orr",
+    "Full Name": "John Orr",
+    "Ht./Wt.": "- /",
+    "Position": "F/C",
+    "Hometown": "Taylorville, Ill.",
+    "High School": "Taylorville",
+    "Height": "-"
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Taylorville, Ill.",
+    "lat": 39.5487452,
+    "lon": -89.2941549,
+    "is_illinois": true
+  }
+}

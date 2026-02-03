@@ -1,0 +1,63 @@
+{
+  "name": "Michael Finke",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/michael-finke/3271",
+  "seasons": [
+    "2014-15",
+    "2015-16",
+    "2016-17",
+    "2017-18"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Michael",
+    "Last Name": "Finke",
+    "Full Name": "Michael Finke",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2017/8/30/43_Finke_Michael_17_18.JPG?width=300",
+    "Ht./Wt.": "6-10 / 235",
+    "Position": "F",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Centennial",
+    "Height": "6-10",
+    "Weight": "235",
+    "Height Inches": 82
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f2%2f25%2fmichaelfinke_illinois_rutgers_022518.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f1%2f15%2fmichaelfinke_illinoisatnebraska_011518.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f12%2f23%2fmichaelfinke_illinois_missouri_122317.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f12%2f14%2fFinke_CRF_5151_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f11%2f24%2fFinke_CP44573.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f3%2f4%2fimg_9915334.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fmichaelfinke_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f12%2f23%2fimg_9761220.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f12%2f18%2fFinke_Dunk_JP19756_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f24%2fimg_9700568.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

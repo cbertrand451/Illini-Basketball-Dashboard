@@ -1,0 +1,30 @@
+{
+  "name": "Richard Semrau",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/richard-semrau/4794",
+  "seasons": [
+    "2006-07",
+    "2007-08",
+    "2008-09",
+    "2009-10"
+  ],
+  "header": {
+    "Jersey Number": "50",
+    "First Name": "Richard",
+    "Last Name": "Semrau",
+    "Full Name": "Richard Semrau",
+    "Ht./Wt.": "6-10 / 245",
+    "Position": "C",
+    "Hometown": "Grafton, Ohio",
+    "High School": "Lutheran West",
+    "Height": "6-10",
+    "Weight": "245",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Grafton, Ohio",
+    "lat": 41.2725522,
+    "lon": -82.0545892,
+    "is_illinois": false
+  }
+}

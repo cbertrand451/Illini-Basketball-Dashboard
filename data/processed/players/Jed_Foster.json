@@ -1,0 +1,29 @@
+{
+  "name": "Jed Foster",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jed-foster/5394",
+  "seasons": [
+    "1970-71",
+    "1971-72",
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Jed",
+    "Last Name": "Foster",
+    "Full Name": "Jed Foster",
+    "Ht./Wt.": "6-6 / 205",
+    "Position": "F",
+    "Hometown": "Fairfield, Ill.",
+    "High School": "Fairfield",
+    "Height": "6-6",
+    "Weight": "205",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Fairfield, Ill.",
+    "lat": 38.378937,
+    "lon": -88.3597684,
+    "is_illinois": true
+  }
+}

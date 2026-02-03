@@ -1,0 +1,29 @@
+{
+  "name": "Hiles Stout",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/hiles-stout/5653",
+  "seasons": [
+    "1954-55",
+    "1955-56",
+    "1956-57"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Hiles",
+    "Last Name": "Stout",
+    "Full Name": "Hiles Stout",
+    "Ht./Wt.": "6-4 / 205",
+    "Position": "F",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Central",
+    "Height": "6-4",
+    "Weight": "205",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

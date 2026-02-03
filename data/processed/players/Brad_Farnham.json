@@ -1,0 +1,28 @@
+{
+  "name": "Brad Farnham",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brad-farnham/5346",
+  "seasons": [
+    "1973-74",
+    "1974-75"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Brad",
+    "Last Name": "Farnham",
+    "Full Name": "Brad Farnham",
+    "Ht./Wt.": "6-6 / 205",
+    "Position": "F",
+    "Hometown": "Paris, Ill.",
+    "High School": "Paris",
+    "Height": "6-6",
+    "Weight": "205",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Paris, Ill.",
+    "lat": 39.611146,
+    "lon": -87.6961374,
+    "is_illinois": true
+  }
+}

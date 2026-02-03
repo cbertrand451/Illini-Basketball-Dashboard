@@ -1,0 +1,27 @@
+{
+  "name": "George Leddy",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/george-leddy/5828",
+  "seasons": [
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "26",
+    "First Name": "George",
+    "Last Name": "Leddy",
+    "Full Name": "George Leddy",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Kelvyn Park",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

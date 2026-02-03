@@ -1,0 +1,31 @@
+{
+  "name": "Demetri McCamey",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/demetri-mccamey/3705",
+  "seasons": [
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Demetri",
+    "Last Name": "McCamey",
+    "Full Name": "Demetri McCamey",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/Demetri_McCamey.jpeg?width=300",
+    "Ht./Wt.": "6-3 / 200",
+    "Position": "G",
+    "Hometown": "Bellwood, Ill.",
+    "High School": "St. Joseph",
+    "Height": "6-3",
+    "Weight": "200",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Bellwood, Ill.",
+    "lat": 41.8814184,
+    "lon": -87.88319,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Brian O'Connell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brian-o-connell/5106",
+  "seasons": [
+    "1988-89",
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Brian",
+    "Last Name": "O'Connell",
+    "Full Name": "Brian O'Connell",
+    "Ht./Wt.": "6-4 / 195",
+    "Position": "G/F",
+    "Hometown": "Schaumburg, Ill.",
+    "High School": "Schaumburg",
+    "Height": "6-4",
+    "Weight": "195",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Schaumburg, Ill.",
+    "lat": 42.0333608,
+    "lon": -88.083406,
+    "is_illinois": true
+  }
+}

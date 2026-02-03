@@ -1,0 +1,31 @@
+{
+  "name": "Brian Johnson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brian-johnson/4991",
+  "seasons": [
+    "1993-94",
+    "1994-95",
+    "1995-96",
+    "1996-97",
+    "1997-98"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Brian",
+    "Last Name": "Johnson",
+    "Full Name": "Brian Johnson",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Des Plaines, Ill.",
+    "High School": "Maine West",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Des Plaines, Ill.",
+    "lat": 42.0415823,
+    "lon": -87.8873916,
+    "is_illinois": true
+  }
+}

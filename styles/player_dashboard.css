@@ -1,0 +1,508 @@
+:root {
+    --brand-navy: #13294b;
+    --brand-navy-deep: #0f1e33;
+    --muted-gray: #5b6770;
+    --card-radius: 18px;
+    --surface: #ffffff;
+    --surface-tint: #f7f7f9;
+    --hairline: rgba(15, 30, 51, 0.12);
+    --shadow-1: 0 10px 30px rgba(16, 24, 40, 0.12);
+    --shadow-2: 0 2px 8px rgba(16, 24, 40, 0.08);
+    --card-bg: linear-gradient(180deg, #ffffff 0%, var(--surface-tint) 100%);
+    --card-overlay: linear-gradient(120deg, rgba(19, 41, 75, 0.08), transparent 55%);
+}
+
+div[data-testid="stHorizontalBlock"]:has(.player-image-stack) {
+    align-items: center;
+    gap: 32px;
+    flex-wrap: nowrap;
+}
+
+div[data-testid="column"]:has(.player-image-stack) > div,
+div[data-testid="column"]:has(.player-text-marker) > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+
+div[data-testid="stHorizontalBlock"]:has(.player-image-stack) > div {
+    flex: 1 1 0%;
+    min-width: 0;
+}
+
+div[data-testid="column"]:has(.player-text-marker) > div {
+    padding: 0;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+}
+
+.player-image-stack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+}
+
+.player-card {
+    background: var(--card-overlay), var(--card-bg);
+    border: none;
+    border-radius: 20px;
+    padding: 10px 10px 18px;
+    box-shadow: var(--shadow-1), var(--shadow-2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    width: 100%;
+    max-width: 320px;
+    overflow: hidden;
+}
+
+
+.player-card img {
+    display: block;
+    border-radius: 12px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.player-icon-links {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    padding: 12px 16px;
+    margin-top: 16px;
+    border: none;
+    border-radius: 12px;
+    background: rgba(15, 30, 51, 0.04);
+    box-shadow: 0 8px 18px rgba(15, 30, 51, 0.12);
+}
+
+.player-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 12px;
+    width: 100%;
+}
+
+.player-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 6px 12px;
+    border-radius: 999px;
+    border: none;
+    background: rgba(19, 41, 75, 0.8);
+    color: #ffffff;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+}
+
+.player-icon-link img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.18s ease;
+}
+
+.player-icon-link img:hover {
+    transform: scale(1.22);
+}
+
+div[data-testid="column"]:has(.player-text-marker) h1 {
+    letter-spacing: -0.6px;
+    color: var(--brand-navy-deep);
+}
+
+div[data-testid="column"]:has(.player-text-marker) h3 {
+    letter-spacing: -0.3px;
+    color: var(--brand-navy);
+}
+
+div[data-testid="column"]:has(.player-text-marker) p {
+    color: var(--muted-gray);
+    line-height: 1.55;
+}
+
+.player-jersey-line {
+    margin: 0;
+    text-align: center;
+    font-weight: 700;
+    letter-spacing: -0.3px;
+    line-height: 1.15;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    align-self: center;
+    width: 100%;
+}
+
+.player-jersey-number,
+.player-jersey-name {
+    font-family: "Space Grotesk", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-size: clamp(24px, 2.2vw, 36px);
+}
+
+.player-jersey-number {
+    color: #111111;
+}
+
+.player-name-short {
+    font-size: clamp(24px, 2.6vw, 36px);
+}
+
+.player-name-medium {
+    font-size: clamp(22px, 2.2vw, 32px);
+}
+
+.player-name-long {
+    font-size: clamp(20px, 1.9vw, 24px);
+}
+
+.player-text-card {
+    padding: 18px 20px;
+    border-radius: 18px;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-1), var(--shadow-2);
+}
+
+.player-text-card p {
+    margin: 0 0 0.45rem 0;
+}
+
+.player-text-card p:last-child {
+    margin-bottom: 0;
+}
+
+.player-map-title {
+    font-family: "Space Grotesk", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    margin: 0.2rem 0 0.6rem 0;
+    color: #111111;
+    /* text-transform: uppercase; */
+}
+
+div[data-testid="stDeckGlJsonChart"] {
+    border: none !important;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: var(--shadow-1), var(--shadow-2);
+    background: var(--card-overlay), var(--card-bg);
+}
+
+div[data-testid="stDeckGlJsonChart"] > div {
+    border-radius: 18px;
+}
+
+div[data-testid="stDeckGlJsonChart"] canvas {
+    border-radius: 16px;
+}
+
+span.stMarkdownBadge {
+    background-color: var(--brand-navy) !important;
+    color: #ffffff !important;
+}
+
+div[data-testid="stButton"] > button {
+    background: linear-gradient(180deg, #ffffff 0%, #f3f4f7 100%);
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    color: var(--brand-navy-deep);
+    padding: 0.55rem 1.1rem;
+    box-shadow: 0 2px 6px rgba(16, 24, 40, 0.08);
+    transition: transform 0.16s ease, box-shadow 0.16s ease, background 0.16s ease;
+}
+
+div[data-testid="stButton"] > button:hover {
+    transform: translateY(-1px);
+    background: linear-gradient(180deg, #ffffff 0%, #eef1f6 100%);
+    box-shadow: 0 6px 14px rgba(16, 24, 40, 0.12);
+}
+
+.impact-ring-card {
+    margin-top: 0.6rem;
+    padding: 20px 24px;
+    border-radius: 20px;
+    border: none;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-1), var(--shadow-2);
+    max-width: 360px;
+}
+
+.impact-ring-header {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    margin-bottom: 16px;
+}
+
+.impact-ring-title {
+    font-family: "Space Grotesk", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    color: #111111;
+}
+
+.impact-ring-subtitle {
+    font-size: 0.92rem;
+    color: var(--muted-gray);
+}
+
+.impact-ring-body {
+    display: flex;
+    gap: 18px;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.impact-ring-svg {
+    width: 210px;
+    height: 210px;
+}
+
+.impact-ring-svg svg {
+    width: 100%;
+    height: 100%;
+}
+
+.impact-ring-center {
+    font-family: "Space Grotesk", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    fill: #111111;
+    text-transform: uppercase;
+}
+
+.impact-arc {
+    cursor: pointer;
+    transform-origin: 50% 50%;
+    transform-box: fill-box;
+    transition: transform 0.18s ease;
+}
+
+.impact-arc-base {
+    stroke: #e1e3e8;
+    stroke-width: 10;
+    fill: none;
+    stroke-linecap: round;
+}
+
+.impact-arc-fill {
+    stroke-width: 10;
+    fill: none;
+    stroke-linecap: round;
+    transition: stroke-width 0.18s ease, filter 0.18s ease;
+}
+
+.impact-arc:hover {
+    transform: scale(1.03);
+}
+
+.impact-arc:hover .impact-arc-fill {
+    stroke-width: 14;
+    filter: drop-shadow(0 6px 8px rgba(16, 24, 40, 0.18));
+}
+
+.impact-ring-legend {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    width: 100%;
+}
+
+.impact-legend-item {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.impact-legend-swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 999px;
+    box-shadow: 0 2px 6px rgba(16, 24, 40, 0.18);
+}
+
+.impact-legend-label {
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: #111111;
+}
+
+.impact-legend-score {
+    font-size: 0.85rem;
+    color: var(--muted-gray);
+}
+
+.impact-details-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-auto-rows: 1fr;
+    gap: 14px;
+    width: 100%;
+}
+
+.impact-detail-card {
+    border-radius: 18px;
+    border: none;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-2);
+    padding: 14px 16px;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+    width: 100%;
+    flex: 0 0 auto;
+    height: 100%;
+}
+
+.impact-detail-card:hover {
+    box-shadow: var(--shadow-1);
+    transform: translateY(-2px) scale(1.01);
+}
+
+.impact-detail-header {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #111111;
+}
+
+.impact-detail-body {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.impact-stat-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.05rem;
+    color: var(--muted-gray);
+}
+
+.impact-stat-label {
+    font-weight: 500;
+    color: #9C9A9D;
+}
+
+.impact-stat-value {
+    font-weight: 700;
+    font-size: 1.12rem;
+}
+
+.impact-stat-value {
+    font-variant-numeric: tabular-nums;
+}
+
+.career-summary {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    margin: 8px 0 18px 0;
+}
+
+.career-summary-title {
+    font-family: "Space Grotesk", "Montserrat", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    margin-bottom: 10px;
+    color: #111111;
+}
+
+.career-summary-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 12px;
+}
+
+.career-stat-card {
+    padding: 12px 14px;
+    border-radius: 16px;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-2);
+    transition: transform 0.18s ease, box-shadow 0.18s ease;
+}
+
+.career-stat-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-1);
+}
+
+.career-stat-label {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--muted-gray);
+    margin-bottom: 6px;
+}
+
+.career-stat-value {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #111111;
+}
+
+.carousel-shell {
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto 14px auto;
+    aspect-ratio: 16 / 9;
+    border-radius: 20px;
+    overflow: hidden;
+    background: #0f1e33;
+    box-shadow: var(--shadow-1), var(--shadow-2);
+}
+
+.carousel-slide {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    animation: carouselFade var(--carousel-duration) infinite;
+}
+
+.carousel-shell.single .carousel-slide {
+    opacity: 1;
+    animation: none;
+}
+
+.carousel-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: rgba(15, 30, 51, 0.65);
+    color: #ffffff;
+    font-size: 0.78rem;
+    letter-spacing: 0.02em;
+}
+
+@keyframes carouselFade {
+    0% {
+        opacity: 0;
+    }
+    6% {
+        opacity: 1;
+    }
+    24% {
+        opacity: 1;
+    }
+    30% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}

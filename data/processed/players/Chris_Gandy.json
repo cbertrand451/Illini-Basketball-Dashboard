@@ -1,0 +1,31 @@
+{
+  "name": "Chris Gandy",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/chris-gandy/5017",
+  "seasons": [
+    "1992-93",
+    "1993-94",
+    "1994-95",
+    "1995-96",
+    "1996-97"
+  ],
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Chris",
+    "Last Name": "Gandy",
+    "Full Name": "Chris Gandy",
+    "Ht./Wt.": "6-9 / 205",
+    "Position": "F",
+    "Hometown": "Kankakee, Ill.",
+    "High School": "Bradley-Bourbonnais",
+    "Height": "6-9",
+    "Weight": "205",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Kankakee, Ill.",
+    "lat": 41.1253903,
+    "lon": -87.848682,
+    "is_illinois": true
+  }
+}

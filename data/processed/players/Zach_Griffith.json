@@ -1,0 +1,34 @@
+{
+  "name": "Zach Griffith",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/zach-griffith/8533",
+  "seasons": [
+    "2018-19",
+    "2019-20",
+    "2020-21"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Zach",
+    "Last Name": "Griffith",
+    "Full Name": "Zach Griffith",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2020/10/19/MBB2021_Headshot_GriffithZach__1MJ4426.jpg?width=300",
+    "Ht./Wt.": "6-6 / 220",
+    "Position": "F",
+    "Hometown": "Fisher, Ill.",
+    "High School": "Fisher",
+    "Height": "6-6",
+    "Weight": "220",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f6%2f12%2fMBB_GriffithSchmidt__web.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Fisher, Ill.",
+    "lat": 40.3147555,
+    "lon": -88.3500541,
+    "is_illinois": true
+  }
+}

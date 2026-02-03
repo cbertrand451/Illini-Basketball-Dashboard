@@ -1,0 +1,30 @@
+{
+  "name": "Eddie Johnson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/eddie-johnson/5279",
+  "seasons": [
+    "1977-78",
+    "1978-79",
+    "1979-80",
+    "1980-81"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Eddie",
+    "Last Name": "Johnson",
+    "Full Name": "Eddie Johnson",
+    "Ht./Wt.": "6-8 / 215",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Westinghouse",
+    "Height": "6-8",
+    "Weight": "215",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

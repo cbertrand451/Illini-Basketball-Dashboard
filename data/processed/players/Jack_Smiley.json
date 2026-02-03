@@ -1,0 +1,28 @@
+{
+  "name": "Jack Smiley",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jack-smiley/5837",
+  "seasons": [
+    "1945-46",
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Jack",
+    "Last Name": "Smiley",
+    "Full Name": "Jack Smiley",
+    "Ht./Wt.": "6-3 / 195",
+    "Position": "G",
+    "Hometown": "Waterman, Ill.",
+    "High School": "Waterman",
+    "Height": "6-3",
+    "Weight": "195",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Waterman, Ill.",
+    "lat": 41.7716963,
+    "lon": -88.7736942,
+    "is_illinois": true
+  }
+}

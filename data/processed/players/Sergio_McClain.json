@@ -1,0 +1,30 @@
+{
+  "name": "Sergio McClain",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/sergio-mcclain/4921",
+  "seasons": [
+    "1997-98",
+    "1998-99",
+    "1999-00",
+    "2000-01"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Sergio",
+    "Last Name": "McClain",
+    "Full Name": "Sergio McClain",
+    "Ht./Wt.": "6-4 / 230",
+    "Position": "F",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Manual",
+    "Height": "6-4",
+    "Weight": "230",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Gary McClung",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/gary-mcclung/5555",
+  "seasons": [
+    "1960-61"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Gary",
+    "Last Name": "McClung",
+    "Full Name": "Gary McClung",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "F",
+    "Hometown": "Maroa, Ill.",
+    "High School": "Maroa-Forsyth",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Maroa, Ill.",
+    "lat": 40.0364257,
+    "lon": -88.957026,
+    "is_illinois": true
+  }
+}

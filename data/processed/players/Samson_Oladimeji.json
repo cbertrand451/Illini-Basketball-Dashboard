@@ -1,0 +1,31 @@
+{
+  "name": "Samson Oladimeji",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/samson-oladimeji/7270",
+  "seasons": [
+    "2016-17",
+    "2017-18",
+    "2018-19",
+    "2019-20"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Samson",
+    "Last Name": "Oladimeji",
+    "Full Name": "Samson Oladimeji",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2019/10/4/Oladimeji_Samson_Headshot_082519_2MJ0252.JPG?width=300",
+    "Ht./Wt.": "6-4 / 210",
+    "Position": "F",
+    "Hometown": "Rolling Meadows, Ill.",
+    "High School": "Fremd",
+    "Height": "6-4",
+    "Weight": "210",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rolling Meadows, Ill.",
+    "lat": 42.0841936,
+    "lon": -88.0131275,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Brandon Paul",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brandon-paul/3325",
+  "seasons": [
+    "2009-10",
+    "2010-11",
+    "2011-12",
+    "2012-13"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Brandon",
+    "Last Name": "Paul",
+    "Full Name": "Brandon Paul",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/8070793.jpeg?width=300",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "G",
+    "Hometown": "Gurnee, Ill.",
+    "High School": "Warren",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Gurnee, Ill.",
+    "lat": 42.3702996,
+    "lon": -87.9020186,
+    "is_illinois": true
+  }
+}

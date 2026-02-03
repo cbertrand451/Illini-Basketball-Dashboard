@@ -1,0 +1,54 @@
+{
+  "name": "Connor Serven",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/connor-serven/10552",
+  "seasons": [
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "header": {
+    "Jersey Number": "2",
+    "First Name": "Connor",
+    "Last Name": "Serven",
+    "Full Name": "Connor Serven",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2022/10/11/2-Serven_Connor_kMjiw.jpg?width=300",
+    "Twitter URL": "https://twitter.com/ConnorServen",
+    "Instagram URL": "https://www.instagram.com/connor.serven",
+    "NIL URL": "https://opndr.se/connor-serven",
+    "Ht./Wt.": "6-9 / 235",
+    "Position": "F",
+    "Hometown": "Prairie City, Ill.",
+    "High School": "St. Rita",
+    "Height": "6-9",
+    "Weight": "235",
+    "Height Inches": 81
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221129_MBB_Syracuse_CAP611.jpg&type=webp",
+      "credit": "Craig Pessman / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221125_MBB_Lindenwood_CAP425.JPG&type=webp",
+      "credit": "Craig Pessman / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221202_mbb_maryland_cb_108.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221114_mbb_monmouth_cb_168.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221114_mbb_monmouth_cb_166.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Prairie City, Ill.",
+    "lat": 40.6211512,
+    "lon": -90.4620731,
+    "is_illinois": true
+  }
+}

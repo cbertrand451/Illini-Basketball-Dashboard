@@ -1,0 +1,30 @@
+{
+  "name": "Victor Chukwudebe",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/victor-chukwudebe/4924",
+  "seasons": [
+    "1996-97",
+    "1997-98",
+    "1998-99",
+    "1999-00"
+  ],
+  "header": {
+    "Jersey Number": "00",
+    "First Name": "Victor",
+    "Last Name": "Chukwudebe",
+    "Full Name": "Victor Chukwudebe",
+    "Ht./Wt.": "6-7 / 230",
+    "Position": "F",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Lanphier",
+    "Height": "6-7",
+    "Weight": "230",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
+  }
+}

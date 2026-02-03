@@ -1,0 +1,27 @@
+{
+  "name": "Curtis Taylor",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/curtis-taylor/5156",
+  "seasons": [
+    "1985-86"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Curtis",
+    "Last Name": "Taylor",
+    "Full Name": "Curtis Taylor",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "G",
+    "Hometown": "Syracuse, N.Y.",
+    "High School": "Fowler",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Syracuse, N.Y.",
+    "lat": 43.0481221,
+    "lon": -76.1474244,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Keaton Kutcher",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/keaton-kutcher/13963",
+  "seasons": [
+    "2023-24",
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Keaton",
+    "Last Name": "Kutcher",
+    "Full Name": "Keaton Kutcher",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/Kutcher_Keaton_WEB_20240916_MBB_Headshot_KS_0495.jpg?width=300",
+    "Twitter URL": "https://twitter.com/KeatonKutcher",
+    "Instagram URL": "https://www.instagram.com/keatonkutcher",
+    "NIL URL": "https://opndr.se/keaton-kutcher",
+    "Class": "Redshirt Junior",
+    "Height": "6-2",
+    "Weight": "195",
+    "Major": "Communication",
+    "Hometown": "Mount Vernon, Iowa",
+    "High School": "Mount Vernon",
+    "Prev School": "South Dakota",
+    "Instagram": "keatonkutcher",
+    "Twitter": "KeatonKutcher",
+    "Height Inches": 74
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250208_MBB_at_Minnesota_CB_7388.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250123_MBB_vs_Maryland_CB_4130.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20241108_MBB_vs_SIUE_CB_2875.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Mount Vernon, Iowa",
+    "lat": 41.9222443,
+    "lon": -91.4171209,
+    "is_illinois": false
+  }
+}

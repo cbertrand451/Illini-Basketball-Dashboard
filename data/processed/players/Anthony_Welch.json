@@ -1,0 +1,31 @@
+{
+  "name": "Anthony Welch",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/anthony-welch/5227",
+  "seasons": [
+    "1981-82",
+    "1982-83",
+    "1983-84",
+    "1984-85",
+    "1985-86"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Anthony",
+    "Last Name": "Welch",
+    "Full Name": "Anthony Welch",
+    "Ht./Wt.": "6-9 / 200",
+    "Position": "F",
+    "Hometown": "Grand Rapids, Mich.",
+    "High School": "Creston",
+    "Height": "6-9",
+    "Weight": "200",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Grand Rapids, Mich.",
+    "lat": 42.9632425,
+    "lon": -85.6678639,
+    "is_illinois": false
+  }
+}

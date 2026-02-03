@@ -1,0 +1,27 @@
+{
+  "name": "Bill Morris",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-morris/5376",
+  "seasons": [
+    "1971-72"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Bill",
+    "Last Name": "Morris",
+    "Full Name": "Bill Morris",
+    "Ht./Wt.": "6-9 / 235",
+    "Position": "C",
+    "Hometown": "St. Louis, Mo.",
+    "High School": "Beaumont",
+    "Height": "6-9",
+    "Weight": "235",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "St. Louis, Mo.",
+    "lat": 38.6254063,
+    "lon": -90.190009,
+    "is_illinois": false
+  }
+}

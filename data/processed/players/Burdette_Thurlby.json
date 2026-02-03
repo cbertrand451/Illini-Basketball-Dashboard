@@ -1,0 +1,30 @@
+{
+  "name": "Burdette Thurlby",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/burdette-thurlby/5798",
+  "seasons": [
+    "1946-47",
+    "1947-48",
+    "1948-49",
+    "1949-50"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Burdette",
+    "Last Name": "Thurlby",
+    "Full Name": "Burdette Thurlby",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Kirkland, Ill.",
+    "High School": "Kirkland",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Kirkland, Ill.",
+    "lat": 42.0925258,
+    "lon": -88.8512063,
+    "is_illinois": true
+  }
+}

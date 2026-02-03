@@ -1,0 +1,30 @@
+{
+  "name": "Otho Tucker",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/otho-tucker/5361",
+  "seasons": [
+    "1972-73",
+    "1973-74",
+    "1974-75",
+    "1975-76"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Otho",
+    "Last Name": "Tucker",
+    "Full Name": "Otho Tucker",
+    "Ht./Wt.": "6-6 / 190",
+    "Position": "G",
+    "Hometown": "Paris, Ill.",
+    "High School": "Paris",
+    "Height": "6-6",
+    "Weight": "190",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Paris, Ill.",
+    "lat": 39.611146,
+    "lon": -87.6961374,
+    "is_illinois": true
+  }
+}

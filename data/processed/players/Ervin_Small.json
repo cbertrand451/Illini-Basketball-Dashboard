@@ -1,0 +1,29 @@
+{
+  "name": "Ervin Small",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ervin-small/5120",
+  "seasons": [
+    "1987-88",
+    "1988-89",
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Ervin",
+    "Last Name": "Small",
+    "Full Name": "Ervin Small",
+    "Ht./Wt.": "6-7 / 222",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-7",
+    "Weight": "222",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

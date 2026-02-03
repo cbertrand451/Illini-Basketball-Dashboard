@@ -1,0 +1,29 @@
+{
+  "name": "Jean Selus",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jean-selus/3314",
+  "seasons": [
+    "2010-11",
+    "2011-12"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Jean",
+    "Last Name": "Selus",
+    "Full Name": "Jean Selus",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/6911311.jpeg?width=300",
+    "Ht./Wt.": "6-2 / 195",
+    "Position": "G",
+    "Hometown": "Montreal, Quebec",
+    "High School": "Winter Garden (Fla.)",
+    "Height": "6-2",
+    "Weight": "195",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Montreal, Quebec",
+    "lat": 45.5031824,
+    "lon": -73.5698065,
+    "is_illinois": false
+  }
+}

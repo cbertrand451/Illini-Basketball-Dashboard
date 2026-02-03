@@ -1,0 +1,29 @@
+{
+  "name": "Jim Rucks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-rucks/5391",
+  "seasons": [
+    "1970-71",
+    "1971-72",
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Jim",
+    "Last Name": "Rucks",
+    "Full Name": "Jim Rucks",
+    "Ht./Wt.": "6-3 / 215",
+    "Position": "F",
+    "Hometown": "Waukegan, Ill.",
+    "High School": "Waukegan",
+    "Height": "6-3",
+    "Weight": "215",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Waukegan, Ill.",
+    "lat": 42.3602273,
+    "lon": -87.8318164,
+    "is_illinois": true
+  }
+}

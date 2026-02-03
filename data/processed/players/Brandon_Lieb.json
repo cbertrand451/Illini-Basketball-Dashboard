@@ -1,0 +1,50 @@
+{
+  "name": "Brandon Lieb",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brandon-lieb/10325",
+  "seasons": [
+    "2020-21",
+    "2021-22",
+    "2022-23"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Brandon",
+    "Last Name": "Lieb",
+    "Full Name": "Brandon Lieb",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2022/10/11/12-Lieb_Brandon_fUGYQ.jpg?width=300",
+    "Twitter URL": "https://twitter.com/brandonlieb12",
+    "Instagram URL": "https://www.instagram.com/blieb12",
+    "NIL URL": "https://opndr.se/brandon-lieb",
+    "Ht./Wt.": "7-0 / 220",
+    "Position": "C",
+    "Hometown": "Deerfield, Ill.",
+    "High School": "Deerfield",
+    "Height": "7-0",
+    "Weight": "220",
+    "Height Inches": 84
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230204_mbb_iowa_cb_063.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230116_mbb_minnesota_cb_111.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221217_mbb_aamu_cb_066.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221114_mbb_monmouth_cb_162.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Deerfield, Ill.",
+    "lat": 42.1711365,
+    "lon": -87.8445119,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Carey Booth",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/carey-booth/14522",
+  "seasons": [
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "0",
+    "First Name": "Carey",
+    "Last Name": "Booth",
+    "Full Name": "Carey Booth",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/Booth_Carey_WEB_20240916_MBB_Headshot_KS_0714.jpg?width=300",
+    "Instagram URL": "https://www.instagram.com/careybooth",
+    "NIL URL": "https://opndr.se/carey-booth",
+    "Class": "Sophomore",
+    "Height": "6-10",
+    "Weight": "215",
+    "Major": "Communication",
+    "Hometown": "Englewood, Colo.",
+    "High School": "Brewster Academy (N.H.)",
+    "Prev School": "Notre Dame",
+    "Instagram": "careybooth",
+    "Height Inches": 82
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20241104_MBB_vs_EIU_CB_2644.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250123_MBB_vs_Maryland_CB_3367.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250208_MBB_at_Minnesota_CB_7392_iU1cs.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Englewood, Colo.",
+    "lat": 39.6482059,
+    "lon": -104.9879641,
+    "is_illinois": false
+  }
+}

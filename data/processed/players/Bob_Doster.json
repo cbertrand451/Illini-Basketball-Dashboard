@@ -1,0 +1,29 @@
+{
+  "name": "Bob Doster",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-doster/5820",
+  "seasons": [
+    "1945-46",
+    "1946-47",
+    "1947-48"
+  ],
+  "header": {
+    "Jersey Number": "16",
+    "First Name": "Bob",
+    "Last Name": "Doster",
+    "Full Name": "Bob Doster",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "F",
+    "Hometown": "Decatur, Ill.",
+    "High School": "Decatur",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Decatur, Ill.",
+    "lat": 39.8454163,
+    "lon": -88.9524151,
+    "is_illinois": true
+  }
+}

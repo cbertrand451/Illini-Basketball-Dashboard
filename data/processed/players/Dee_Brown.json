@@ -1,0 +1,37 @@
+{
+  "name": "Dee Brown",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dee-brown/4839",
+  "seasons": [
+    "2002-03",
+    "2003-04",
+    "2004-05",
+    "2005-06"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Dee",
+    "Last Name": "Brown",
+    "Full Name": "Dee Brown",
+    "Ht./Wt.": "6-0 / 185",
+    "Position": "G",
+    "Hometown": "Maywood, Ill.",
+    "High School": "Proviso East",
+    "Height": "6-0",
+    "Weight": "185",
+    "Height Inches": 72
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f11%2f28%2fDee_Brown_V_Wake_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f2%2f8%2fDee_Net_Cutting_and_Fans_copy_web.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Maywood, Ill.",
+    "lat": 41.8789942,
+    "lon": -87.8436412,
+    "is_illinois": true
+  }
+}

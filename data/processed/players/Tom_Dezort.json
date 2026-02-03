@@ -1,0 +1,28 @@
+{
+  "name": "Tom Dezort",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-dezort/5420",
+  "seasons": [
+    "1969-70",
+    "1970-71"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Tom",
+    "Last Name": "Dezort",
+    "Full Name": "Tom Dezort",
+    "Ht./Wt.": "6-5 / 195",
+    "Position": "F",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "6-5",
+    "Weight": "195",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
+  }
+}

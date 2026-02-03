@@ -1,0 +1,29 @@
+{
+  "name": "Mike Wente",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-wente/5374",
+  "seasons": [
+    "1971-72",
+    "1972-73",
+    "1973-74"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Mike",
+    "Last Name": "Wente",
+    "Full Name": "Mike Wente",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "C",
+    "Hometown": "Effingham, Ill.",
+    "High School": "St. Anthony",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Effingham, Ill.",
+    "lat": 39.0520902,
+    "lon": -88.6029006,
+    "is_illinois": true
+  }
+}

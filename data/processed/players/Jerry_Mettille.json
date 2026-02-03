@@ -1,0 +1,29 @@
+{
+  "name": "Jerry Mettille",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jerry-mettille/5483",
+  "seasons": [
+    "1964-65",
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Jerry",
+    "Last Name": "Mettille",
+    "Full Name": "Jerry Mettille",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G/F",
+    "Hometown": "Morris, Ill.",
+    "High School": "Morris",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Morris, Ill.",
+    "lat": 41.3574135,
+    "lon": -88.4215234,
+    "is_illinois": true
+  }
+}

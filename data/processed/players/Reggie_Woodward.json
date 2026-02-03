@@ -1,0 +1,30 @@
+{
+  "name": "Reggie Woodward",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/reggie-woodward/5213",
+  "seasons": [
+    "1982-83",
+    "1983-84",
+    "1984-85",
+    "1985-86"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Reggie",
+    "Last Name": "Woodward",
+    "Full Name": "Reggie Woodward",
+    "Ht./Wt.": "6-2 / 190",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "King",
+    "Height": "6-2",
+    "Weight": "190",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

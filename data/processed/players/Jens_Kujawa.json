@@ -1,0 +1,30 @@
+{
+  "name": "Jens Kujawa",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jens-kujawa/5182",
+  "seasons": [
+    "1984-85",
+    "1985-86",
+    "1986-87",
+    "1987-88"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Jens",
+    "Last Name": "Kujawa",
+    "Full Name": "Jens Kujawa",
+    "Ht./Wt.": "7-0 / 250",
+    "Position": "C",
+    "Hometown": "Braunschweig, West Germany",
+    "High School": "Taylorville (Ill.)",
+    "Height": "7-0",
+    "Weight": "250",
+    "Height Inches": 84
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Braunschweig, West Germany",
+    "lat": 52.3256733,
+    "lon": 10.4661204,
+    "is_illinois": false
+  }
+}

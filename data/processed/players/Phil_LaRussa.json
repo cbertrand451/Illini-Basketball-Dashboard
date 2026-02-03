@@ -1,0 +1,27 @@
+{
+  "name": "Phil LaRussa",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/phil-larussa/5545",
+  "seasons": [
+    "1961-62"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Phil",
+    "Last Name": "LaRussa",
+    "Full Name": "Phil LaRussa",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "C",
+    "Hometown": "Walnut, Ill.",
+    "High School": "Walnut",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Walnut, Ill.",
+    "lat": 41.5567012,
+    "lon": -89.5934315,
+    "is_illinois": true
+  }
+}

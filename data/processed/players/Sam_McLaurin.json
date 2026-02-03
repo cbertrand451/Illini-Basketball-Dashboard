@@ -1,0 +1,28 @@
+{
+  "name": "Sam McLaurin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/sam-mclaurin/3288",
+  "seasons": [
+    "2012-13"
+  ],
+  "header": {
+    "Jersey Number": "0",
+    "First Name": "Sam",
+    "Last Name": "McLaurin",
+    "Full Name": "Sam McLaurin",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/8070292.jpeg?width=300",
+    "Ht./Wt.": "6-8 / 220",
+    "Position": "F/C",
+    "Hometown": "Havana, Fla.",
+    "High School": "East Gadsden",
+    "Height": "6-8",
+    "Weight": "220",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Havana, Fla.",
+    "lat": 30.6255617,
+    "lon": -84.4153769,
+    "is_illinois": false
+  }
+}

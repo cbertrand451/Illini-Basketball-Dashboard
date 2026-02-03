@@ -1,0 +1,29 @@
+{
+  "name": "Derek Holcomb",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/derek-holcomb/5268",
+  "seasons": [
+    "1978-79",
+    "1979-80",
+    "1980-81"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Derek",
+    "Last Name": "Holcomb",
+    "Full Name": "Derek Holcomb",
+    "Ht./Wt.": "6-11 / 230",
+    "Position": "C",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Richwoods",
+    "Height": "6-11",
+    "Weight": "230",
+    "Height Inches": 83
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

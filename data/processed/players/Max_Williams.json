@@ -1,0 +1,33 @@
+{
+  "name": "Max Williams",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/max-williams/13964",
+  "seasons": [
+    "2023-24"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Max",
+    "Last Name": "Williams",
+    "Full Name": "Max Williams",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2023/9/20/Williams_Max_WEB_20230906_MBB_Headshot_KS_0012.jpg?width=300",
+    "Twitter URL": "https://twitter.com/MaxWilliams_8",
+    "Instagram URL": "https://www.instagram.com/maxswilliams",
+    "NIL URL": "https://opndr.se/maximus-williams",
+    "Class": "Senior",
+    "Height": "6-2",
+    "Weight": "200",
+    "Hometown": "Chicago, Ill.",
+    "High School": "IMG Academy (Fla.)",
+    "Prev School": "DePaul",
+    "Instagram": "maxswilliams",
+    "Twitter": "MaxWilliams_8",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

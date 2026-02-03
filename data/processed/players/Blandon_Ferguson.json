@@ -1,0 +1,28 @@
+{
+  "name": "Blandon Ferguson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/blandon-ferguson/4856",
+  "seasons": [
+    "2001-02",
+    "2002-03"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Blandon",
+    "Last Name": "Ferguson",
+    "Full Name": "Blandon Ferguson",
+    "Ht./Wt.": "6-3 / 205",
+    "Position": "F",
+    "Hometown": "Oakland, Calif.",
+    "High School": "St. Joseph Notre Dame",
+    "Height": "6-3",
+    "Weight": "205",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Oakland, Calif.",
+    "lat": 37.8044557,
+    "lon": -122.271356,
+    "is_illinois": false
+  }
+}

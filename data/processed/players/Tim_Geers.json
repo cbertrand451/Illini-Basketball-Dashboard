@@ -1,0 +1,29 @@
+{
+  "name": "Tim Geers",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tim-geers/5070",
+  "seasons": [
+    "1989-90",
+    "1990-91",
+    "1991-92"
+  ],
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Tim",
+    "Last Name": "Geers",
+    "Full Name": "Tim Geers",
+    "Ht./Wt.": "6-5 / 200",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "De La Salle",
+    "Height": "6-5",
+    "Weight": "200",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

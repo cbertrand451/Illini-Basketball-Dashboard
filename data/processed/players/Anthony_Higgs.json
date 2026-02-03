@@ -1,0 +1,28 @@
+{
+  "name": "Anthony Higgs",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/anthony-higgs/8150",
+  "seasons": [
+    "2018-19"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Anthony",
+    "Last Name": "Higgs",
+    "Full Name": "Anthony Higgs",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2018/9/5/Higgs_Anthony_082618_1MJ4931.JPG?width=300",
+    "Ht./Wt.": "6-8 / 235",
+    "Position": "F",
+    "Hometown": "Baltimore, Md.",
+    "High School": "Perry Hall",
+    "Height": "6-8",
+    "Weight": "235",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Baltimore, Md.",
+    "lat": 39.2908816,
+    "lon": -76.610759,
+    "is_illinois": false
+  }
+}

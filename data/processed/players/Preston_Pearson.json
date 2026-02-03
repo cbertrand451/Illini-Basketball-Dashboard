@@ -1,0 +1,29 @@
+{
+  "name": "Preston Pearson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/preston-pearson/5488",
+  "seasons": [
+    "1964-65",
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Preston",
+    "Last Name": "Pearson",
+    "Full Name": "Preston Pearson",
+    "Ht./Wt.": "6-1 / 195",
+    "Position": "G",
+    "Hometown": "Freeport, Ill.",
+    "High School": "Freeport",
+    "Height": "6-1",
+    "Weight": "195",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Freeport, Ill.",
+    "lat": 42.2966861,
+    "lon": -89.6212271,
+    "is_illinois": true
+  }
+}

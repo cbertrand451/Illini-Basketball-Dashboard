@@ -1,0 +1,31 @@
+{
+  "name": "Deon Thomas",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/deon-thomas/5079",
+  "seasons": [
+    "1989-90",
+    "1990-91",
+    "1991-92",
+    "1992-93",
+    "1993-94"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Deon",
+    "Last Name": "Thomas",
+    "Full Name": "Deon Thomas",
+    "Ht./Wt.": "6-9 / 240",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-9",
+    "Weight": "240",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

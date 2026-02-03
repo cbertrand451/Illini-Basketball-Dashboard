@@ -1,0 +1,29 @@
+{
+  "name": "Benny Louis",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/benny-louis/5466",
+  "seasons": [
+    "1965-66",
+    "1966-67",
+    "1967-68"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Benny",
+    "Last Name": "Louis",
+    "Full Name": "Benny Louis",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "F",
+    "Hometown": "Pinckneyville, Ill.",
+    "High School": "Pinckneyville",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Pinckneyville, Ill.",
+    "lat": 38.0803286,
+    "lon": -89.3820321,
+    "is_illinois": true
+  }
+}

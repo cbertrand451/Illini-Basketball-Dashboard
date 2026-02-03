@@ -1,0 +1,28 @@
+{
+  "name": "Jodie Harrison",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jodie-harrison/5443",
+  "seasons": [
+    "1967-68",
+    "1968-69"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Jodie",
+    "Last Name": "Harrison",
+    "Full Name": "Jodie Harrison",
+    "Ht./Wt.": "6-3 / 195",
+    "Position": "G",
+    "Hometown": "Streator, Ill.",
+    "High School": "Streator",
+    "Height": "6-3",
+    "Weight": "195",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Streator, Ill.",
+    "lat": 41.1210234,
+    "lon": -88.8357361,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "name": "Jaylon Tate",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jaylon-tate/3274",
+  "seasons": [
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17"
+  ],
+  "header": {
+    "Jersey Number": "1",
+    "First Name": "Jaylon",
+    "Last Name": "Tate",
+    "Full Name": "Jaylon Tate",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2016/9/1/Tate_Jaylon_Headshot_082116_2MJ0892.JPG?width=300",
+    "Ht./Wt.": "6-3 / 170",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-3",
+    "Weight": "170",
+    "Height Inches": 75
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f12%2f21%2fimg_9753395.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f12%2f12%2fTate_topaz_1MJ6016_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f11%2f11%2fimg_9669857.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f1%2f24%2fimg_9073573.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f19%2fimg_9004576.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f12%2fimg_8992122.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f9%2f_2MJ5576_edit.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f5%2fjaylonetate4_illinois_westerncarolina_2015_16.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f5%2fjaylontate2-illinois-wcu-2015-16.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f5%2fjaylontate-illinois-wcu-2015-16.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

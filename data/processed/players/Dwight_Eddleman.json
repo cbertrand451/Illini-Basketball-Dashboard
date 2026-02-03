@@ -1,0 +1,30 @@
+{
+  "name": "Dwight Eddleman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dwight-eddleman/5835",
+  "seasons": [
+    "1945-46",
+    "1946-47",
+    "1947-48",
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Dwight",
+    "Last Name": "Eddleman",
+    "Full Name": "Dwight Eddleman",
+    "Ht./Wt.": "6-2 / 190",
+    "Position": "F",
+    "Hometown": "Centralia, Ill.",
+    "High School": "Centralia",
+    "Height": "6-2",
+    "Weight": "190",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Centralia, Ill.",
+    "lat": 38.5250491,
+    "lon": -89.1334037,
+    "is_illinois": true
+  }
+}

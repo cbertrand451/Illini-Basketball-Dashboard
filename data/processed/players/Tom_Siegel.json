@@ -1,0 +1,27 @@
+{
+  "name": "Tom Siegel",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-siegel/5198",
+  "seasons": [
+    "1983-84"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Tom",
+    "Last Name": "Siegel",
+    "Full Name": "Tom Siegel",
+    "Ht./Wt.": "6-5 / 200",
+    "Position": "F",
+    "Hometown": "Belleville, Ill.",
+    "High School": "East",
+    "Height": "6-5",
+    "Weight": "200",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
+  }
+}

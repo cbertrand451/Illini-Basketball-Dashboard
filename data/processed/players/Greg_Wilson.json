@@ -1,0 +1,27 @@
+{
+  "name": "Greg Wilson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/greg-wilson/5375",
+  "seasons": [
+    "1971-72"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Greg",
+    "Last Name": "Wilson",
+    "Full Name": "Greg Wilson",
+    "Ht./Wt.": "6-3 / 190",
+    "Position": "G",
+    "Hometown": "Sebring, Ohio",
+    "High School": "McKinley",
+    "Height": "6-3",
+    "Weight": "190",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Sebring, Ohio",
+    "lat": 40.9228363,
+    "lon": -81.0189816,
+    "is_illinois": false
+  }
+}

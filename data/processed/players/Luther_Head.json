@@ -1,0 +1,30 @@
+{
+  "name": "Luther Head",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/luther-head/4852",
+  "seasons": [
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Luther",
+    "Last Name": "Head",
+    "Full Name": "Luther Head",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Manley",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

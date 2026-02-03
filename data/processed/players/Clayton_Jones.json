@@ -1,0 +1,29 @@
+{
+  "name": "Clayton Jones",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/clayton-jones/7068",
+  "seasons": [
+    "2016-17",
+    "2017-18"
+  ],
+  "header": {
+    "Jersey Number": "41",
+    "First Name": "Clayton",
+    "Last Name": "Jones",
+    "Full Name": "Clayton Jones",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2017/8/30/41_Jones_Clayton_17_18.JPG?width=300",
+    "Ht./Wt.": "6-0 / 190",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Central",
+    "Height": "6-0",
+    "Weight": "190",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

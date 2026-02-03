@@ -1,0 +1,29 @@
+{
+  "name": "Myke Henry",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/myke-henry/3305",
+  "seasons": [
+    "2011-12",
+    "2012-13"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Myke",
+    "Last Name": "Henry",
+    "Full Name": "Myke Henry",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/8070275.jpeg?width=300",
+    "Ht./Wt.": "6-6 / 230",
+    "Position": "G/F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Orr",
+    "Height": "6-6",
+    "Weight": "230",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

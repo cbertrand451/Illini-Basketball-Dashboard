@@ -1,0 +1,44 @@
+{
+  "name": "Paxton Warden",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/paxton-warden/13031",
+  "seasons": [
+    "2022-23"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Paxton",
+    "Last Name": "Warden",
+    "Full Name": "Paxton Warden",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2022/10/11/22-Warden_Paxton_mCzfL.jpg?width=300",
+    "Twitter URL": "https://twitter.com/PaxtonWarden",
+    "Instagram URL": "https://www.instagram.com/paxton.warden22",
+    "NIL URL": "https://opndr.se/paxton-warden",
+    "Ht./Wt.": "6-4 / 180",
+    "Position": "G",
+    "Hometown": "Glen Ellyn, Ill.",
+    "High School": "Glenbard West",
+    "Height": "6-4",
+    "Weight": "180",
+    "Height Inches": 76
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221217_mbb_aamu_cb_071.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221202_mbb_maryland_cb_128.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f221217_mbb_AlabamaAM_192.jpg&type=webp",
+      "credit": "Deep Doshi / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Glen Ellyn, Ill.",
+    "lat": 41.8775293,
+    "lon": -88.0670118,
+    "is_illinois": true
+  }
+}

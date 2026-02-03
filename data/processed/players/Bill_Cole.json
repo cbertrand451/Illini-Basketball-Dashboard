@@ -1,0 +1,31 @@
+{
+  "name": "Bill Cole",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-cole/3343",
+  "seasons": [
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Bill",
+    "Last Name": "Cole",
+    "Full Name": "Bill Cole",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/5763983.jpeg?width=300",
+    "Ht./Wt.": "6-9 / 215",
+    "Position": "F",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Richwoods",
+    "Height": "6-9",
+    "Weight": "215",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

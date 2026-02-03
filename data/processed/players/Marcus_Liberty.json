@@ -1,0 +1,28 @@
+{
+  "name": "Marcus Liberty",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/marcus-liberty/5105",
+  "seasons": [
+    "1988-89",
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Marcus",
+    "Last Name": "Liberty",
+    "Full Name": "Marcus Liberty",
+    "Ht./Wt.": "6-8 / 210",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "King",
+    "Height": "6-8",
+    "Weight": "210",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

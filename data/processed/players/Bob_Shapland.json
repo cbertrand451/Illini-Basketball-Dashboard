@@ -1,0 +1,29 @@
+{
+  "name": "Bob Shapland",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-shapland/5434",
+  "seasons": [
+    "1968-69",
+    "1969-70",
+    "1970-71"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Bob",
+    "Last Name": "Shapland",
+    "Full Name": "Bob Shapland",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Central",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

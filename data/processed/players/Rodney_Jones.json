@@ -1,0 +1,28 @@
+{
+  "name": "Rodney Jones",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rodney-jones/5101",
+  "seasons": [
+    "1988-89",
+    "1989-90"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Rodney",
+    "Last Name": "Jones",
+    "Full Name": "Rodney Jones",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "F/C",
+    "Hometown": "Philadelphia, Pa.",
+    "High School": "West Philadelphia",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Philadelphia, Pa.",
+    "lat": 39.9527237,
+    "lon": -75.1635262,
+    "is_illinois": false
+  }
+}

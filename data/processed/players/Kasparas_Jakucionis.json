@@ -1,0 +1,42 @@
+{
+  "name": "Kasparas Jakucionis",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kasparas-jakucionis/14521",
+  "seasons": [
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Kasparas",
+    "Last Name": "Jakucionis",
+    "Full Name": "Kasparas Jakucionis",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/Jakucionis_Kasparas_WEB_20240916_MBB_Headshot_KS_1331.jpg?width=300",
+    "Instagram URL": "https://www.instagram.com/kaspa_32",
+    "NIL URL": "https://opndr.se/kasparas-jakucionis",
+    "Class": "Freshman",
+    "Height": "6-6",
+    "Weight": "205",
+    "Major": "General Curriculum",
+    "Hometown": "Vilnius, Lithuania",
+    "Prev School": "FC Barcelona",
+    "Instagram": "kaspa_32",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f8%2fMBO02204.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f1%2f6%2f20250102_MBB_at_Oregon_CB_4251.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f12%2f16%2f20241210_MBB_vs_Wisconsin_CB_2859.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Vilnius, Lithuania",
+    "lat": 54.6870458,
+    "lon": 25.2829111,
+    "is_illinois": false
+  }
+}

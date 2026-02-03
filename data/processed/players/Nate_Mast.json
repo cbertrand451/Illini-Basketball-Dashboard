@@ -1,0 +1,29 @@
+{
+  "name": "Nate Mast",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nate-mast/4897",
+  "seasons": [
+    "1998-99",
+    "1999-00",
+    "2000-01"
+  ],
+  "header": {
+    "Jersey Number": "5",
+    "First Name": "Nate",
+    "Last Name": "Mast",
+    "Full Name": "Nate Mast",
+    "Ht./Wt.": "5-11 / 170",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Central",
+    "Height": "5-11",
+    "Weight": "170",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

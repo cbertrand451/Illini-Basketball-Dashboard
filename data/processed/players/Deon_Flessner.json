@@ -1,0 +1,29 @@
+{
+  "name": "Deon Flessner",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/deon-flessner/5489",
+  "seasons": [
+    "1964-65",
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Deon",
+    "Last Name": "Flessner",
+    "Full Name": "Deon Flessner",
+    "Ht./Wt.": "6-4 / 205",
+    "Position": "F",
+    "Hometown": "Fithian, Ill.",
+    "High School": "St. Joseph-Ogden",
+    "Height": "6-4",
+    "Weight": "205",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Fithian, Ill.",
+    "lat": 40.1139242,
+    "lon": -87.8730857,
+    "is_illinois": true
+  }
+}

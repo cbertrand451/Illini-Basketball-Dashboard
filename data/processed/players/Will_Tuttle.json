@@ -1,0 +1,27 @@
+{
+  "name": "Will Tuttle",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/will-tuttle/5028",
+  "seasons": [
+    "1991-92"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Will",
+    "Last Name": "Tuttle",
+    "Full Name": "Will Tuttle",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Mokena, Ill.",
+    "High School": "Mokena",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Mokena, Ill.",
+    "lat": 41.5261437,
+    "lon": -87.8892189,
+    "is_illinois": true
+  }
+}

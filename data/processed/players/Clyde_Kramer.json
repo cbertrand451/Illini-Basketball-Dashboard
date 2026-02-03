@@ -1,0 +1,27 @@
+{
+  "name": "Clyde Kramer",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/clyde-kramer/5540",
+  "seasons": [
+    "1961-62"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Clyde",
+    "Last Name": "Kramer",
+    "Full Name": "Clyde Kramer",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "F",
+    "Hometown": "Erie, Ill.",
+    "High School": "Erie",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Erie, Ill.",
+    "lat": 41.6563287,
+    "lon": -90.0790166,
+    "is_illinois": true
+  }
+}

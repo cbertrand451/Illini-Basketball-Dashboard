@@ -1,0 +1,27 @@
+{
+  "name": "Mike Dempsey",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-dempsey/5348",
+  "seasons": [
+    "1973-74"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Mike",
+    "Last Name": "Dempsey",
+    "Full Name": "Mike Dempsey",
+    "Ht./Wt.": "6-8 / 195",
+    "Position": "C",
+    "Hometown": "Moline, Ill.",
+    "High School": "Moline",
+    "Height": "6-8",
+    "Weight": "195",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Moline, Ill.",
+    "lat": 41.5058344,
+    "lon": -90.5136642,
+    "is_illinois": true
+  }
+}

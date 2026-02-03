@@ -1,0 +1,65 @@
+{
+  "name": "Giorgi Bezhanishvili",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/giorgi-bezhanishvili/8085",
+  "seasons": [
+    "2018-19",
+    "2019-20",
+    "2020-21"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Giorgi",
+    "Last Name": "Bezhanishvili",
+    "Full Name": "Giorgi Bezhanishvili",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2020/10/19/MBB2021_Headshot_BezhanishviliGiorgi__1MJ4381.jpg?width=300",
+    "Ht./Wt.": "6-9 / 245",
+    "Position": "F",
+    "Hometown": "Rustavi, Georgia",
+    "High School": "The Patrick School (N.J.)",
+    "Height": "6-9",
+    "Weight": "245",
+    "Height Inches": 81
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f2%2f12%2fMJG00775.jpg&type=webp",
+      "credit": "Michael Glasgow / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2021%2f1%2f1%2fAW5_1616.jpg&type=webp",
+      "credit": "Andy Wenstrand / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f12%2f2%2f0E9A8790.jpg&type=webp",
+      "credit": "Kelsea Ansfield / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2020%2f2%2f29%2f022420_ILMBB_Nebraska_MG_05471.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f12%2f11%2fEDIT_121119_ILMBB_Michigan_MJG_09419.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f11%2f20%2fGiorgi_112019_ILMBB_Citadel_CF_4046_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f8%2f24%2fBezhanishvili_020519_ILMBB_MSU_CP_85_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f3%2f13%2fMBB1819_Giorgi_IllinoisvsNW_031319.jpg&type=webp",
+      "credit": "Michael Glasgow / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f2%2f20%2fBezhanishvili_020519_ILMBB_MSU_CP_85.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f2%2f10%2fGiorgi_020919_ILMBB_RUTGERS_MJG_73_WEB.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Rustavi, Georgia",
+    "lat": 41.54309,
+    "lon": 45.0112804,
+    "is_illinois": false
+  }
+}

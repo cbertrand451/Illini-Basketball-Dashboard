@@ -1,0 +1,29 @@
+{
+  "name": "Don Ohl",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/don-ohl/5650",
+  "seasons": [
+    "1955-56",
+    "1956-57",
+    "1957-58"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Don",
+    "Last Name": "Ohl",
+    "Full Name": "Don Ohl",
+    "Ht./Wt.": "6-3 / 190",
+    "Position": "G",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "6-3",
+    "Weight": "190",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
+  }
+}

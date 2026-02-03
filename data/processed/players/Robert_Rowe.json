@@ -1,0 +1,28 @@
+{
+  "name": "Robert Rowe",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/robert-rowe/5823",
+  "seasons": [
+    "1945-46",
+    "1946-47",
+    "1947-48"
+  ],
+  "header": {
+    "First Name": "Robert",
+    "Last Name": "Rowe",
+    "Full Name": "Robert Rowe",
+    "Ht./Wt.": "6-7 / 195",
+    "Position": "C",
+    "Hometown": "Warren, Ill.",
+    "High School": "Warren",
+    "Height": "6-7",
+    "Weight": "195",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Warren, Ill.",
+    "lat": 40.8442828,
+    "lon": -90.6168408,
+    "is_illinois": true
+  }
+}

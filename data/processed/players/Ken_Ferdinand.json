@@ -1,0 +1,29 @@
+{
+  "name": "Ken Ferdinand",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ken-ferdinand/5305",
+  "seasons": [
+    "1975-76",
+    "1976-77",
+    "1977-78"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Ken",
+    "Last Name": "Ferdinand",
+    "Full Name": "Ken Ferdinand",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "F",
+    "Hometown": "Urbana, Ill.",
+    "High School": "Urbana",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Urbana, Ill.",
+    "lat": 40.1117174,
+    "lon": -88.207301,
+    "is_illinois": true
+  }
+}

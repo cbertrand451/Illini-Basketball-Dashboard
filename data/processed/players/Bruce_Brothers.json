@@ -1,0 +1,29 @@
+{
+  "name": "Bruce Brothers",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bruce-brothers/5677",
+  "seasons": [
+    "1953-54",
+    "1954-55",
+    "1955-56"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Bruce",
+    "Last Name": "Brothers",
+    "Full Name": "Bruce Brothers",
+    "Ht./Wt.": "6-5 / 200",
+    "Position": "F",
+    "Hometown": "Quincy, Ill.",
+    "High School": "Quincy",
+    "Height": "6-5",
+    "Weight": "200",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Quincy, Ill.",
+    "lat": 39.9356016,
+    "lon": -91.4098727,
+    "is_illinois": true
+  }
+}

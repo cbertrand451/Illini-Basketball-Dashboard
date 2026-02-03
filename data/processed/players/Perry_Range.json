@@ -1,0 +1,30 @@
+{
+  "name": "Perry Range",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/perry-range/5260",
+  "seasons": [
+    "1978-79",
+    "1979-80",
+    "1980-81",
+    "1981-82"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Perry",
+    "Last Name": "Range",
+    "Full Name": "Perry Range",
+    "Ht./Wt.": "6-4 / 180",
+    "Position": "G",
+    "Hometown": "South Beloit, Ill.",
+    "High School": "South Beloit",
+    "Height": "6-4",
+    "Weight": "180",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "South Beloit, Ill.",
+    "lat": 42.4930708,
+    "lon": -89.0367764,
+    "is_illinois": true
+  }
+}

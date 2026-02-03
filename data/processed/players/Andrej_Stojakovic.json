@@ -1,0 +1,54 @@
+{
+  "name": "Andrej Stojakovic",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/andrej-stojakovic/15217",
+  "seasons": [
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "2",
+    "First Name": "Andrej",
+    "Last Name": "Stojakovic",
+    "Full Name": "Andrej Stojakovic",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_1558.jpg?width=300",
+    "Twitter URL": "https://twitter.com/AndrejSto2",
+    "Instagram URL": "https://www.instagram.com/andrejstojakovic",
+    "Class": "Junior",
+    "Height": "6-7",
+    "Weight": "215",
+    "Major": "Psychology",
+    "Hometown": "Thessaloniki, Greece",
+    "High School": "Jesuit",
+    "Prev School": "Cal",
+    "Instagram": "andrejstojakovic",
+    "Twitter": "AndrejSto2",
+    "Height Inches": 79
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20251222_MBB_VS_MISSOURI_BRAGGIN_RIGHTS_CB_6984.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20260103_MBB_AT_PENN_ST_CB_05456.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20251222_MBB_VS_MISSOURI_BRAGGIN_RIGHTS_CB_8410.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20260201_MBB_AT_NEBRASKA_CB_06008.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20251213_MBB_VS_NEBRASKA_CB_1998.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Thessaloniki, Greece",
+    "lat": 40.6403167,
+    "lon": 22.9352716,
+    "is_illinois": false
+  }
+}

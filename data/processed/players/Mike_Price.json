@@ -1,0 +1,29 @@
+{
+  "name": "Mike Price",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-price/5438",
+  "seasons": [
+    "1967-68",
+    "1968-69",
+    "1969-70"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Mike",
+    "Last Name": "Price",
+    "Full Name": "Mike Price",
+    "Ht./Wt.": "6-3 / 200",
+    "Position": "G",
+    "Hometown": "Indianapolis, Ind.",
+    "High School": "Arsenal Tech",
+    "Height": "6-3",
+    "Weight": "200",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Indianapolis, Ind.",
+    "lat": 39.7683331,
+    "lon": -86.1583502,
+    "is_illinois": false
+  }
+}

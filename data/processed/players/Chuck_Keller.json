@@ -1,0 +1,27 @@
+{
+  "name": "Chuck Keller",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/chuck-keller/5153",
+  "seasons": [
+    "1985-86"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Chuck",
+    "Last Name": "Keller",
+    "Full Name": "Chuck Keller",
+    "Ht./Wt.": "5-10 / 145",
+    "Position": "G",
+    "Hometown": "Effingham, Ill.",
+    "High School": "Effingham",
+    "Height": "5-10",
+    "Weight": "145",
+    "Height Inches": 70
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Effingham, Ill.",
+    "lat": 39.0520902,
+    "lon": -88.6029006,
+    "is_illinois": true
+  }
+}

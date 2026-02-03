@@ -1,0 +1,28 @@
+{
+  "name": "Jim Bredar",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-bredar/5715",
+  "seasons": [
+    "1950-51",
+    "1951-52"
+  ],
+  "header": {
+    "Jersey Number": "19",
+    "First Name": "Jim",
+    "Last Name": "Bredar",
+    "Full Name": "Jim Bredar",
+    "Ht./Wt.": "5-10 / 170",
+    "Position": "G",
+    "Hometown": "Salem, Ill.",
+    "High School": "Salem",
+    "Height": "5-10",
+    "Weight": "170",
+    "Height Inches": 70
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Salem, Ill.",
+    "lat": 38.6269929,
+    "lon": -88.9456158,
+    "is_illinois": true
+  }
+}

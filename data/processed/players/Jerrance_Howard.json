@@ -1,0 +1,31 @@
+{
+  "name": "Jerrance Howard",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jerrance-howard/4887",
+  "seasons": [
+    "1999-00",
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Jerrance",
+    "Last Name": "Howard",
+    "Full Name": "Jerrance Howard",
+    "Ht./Wt.": "6-1 / 200",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Peoria",
+    "Height": "6-1",
+    "Weight": "200",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

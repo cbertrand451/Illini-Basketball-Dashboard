@@ -1,0 +1,29 @@
+{
+  "name": "Bogie Redmon",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bogie-redmon/5525",
+  "seasons": [
+    "1962-63",
+    "1963-64",
+    "1964-65"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Bogie",
+    "Last Name": "Redmon",
+    "Full Name": "Bogie Redmon",
+    "Ht./Wt.": "6-5 / 225",
+    "Position": "F/C",
+    "Hometown": "Collinsville, Ill.",
+    "High School": "Collinsville",
+    "Height": "6-5",
+    "Weight": "225",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Collinsville, Ill.",
+    "lat": 38.6703267,
+    "lon": -89.9845476,
+    "is_illinois": true
+  }
+}

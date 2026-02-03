@@ -1,0 +1,27 @@
+{
+  "name": "Ken Menke",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ken-menke/5808",
+  "seasons": [
+    "1946-47"
+  ],
+  "header": {
+    "Jersey Number": "38",
+    "First Name": "Ken",
+    "Last Name": "Menke",
+    "Full Name": "Ken Menke",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "F",
+    "Hometown": "Dundee, Ill.",
+    "High School": "Dundee",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Dundee, Ill.",
+    "lat": 42.0989145,
+    "lon": -88.2714689,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Ed Makovsky",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ed-makovsky/5699",
+  "seasons": [
+    "1951-52",
+    "1952-53",
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Ed",
+    "Last Name": "Makovsky",
+    "Full Name": "Ed Makovsky",
+    "Ht./Wt.": "6-5 / 205",
+    "Position": "F/C",
+    "Hometown": "Cicero, Ill.",
+    "High School": "Morton",
+    "Height": "6-5",
+    "Weight": "205",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Cicero, Ill.",
+    "lat": 41.8455398,
+    "lon": -87.7540199,
+    "is_illinois": true
+  }
+}

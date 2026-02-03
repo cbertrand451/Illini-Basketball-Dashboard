@@ -1,0 +1,28 @@
+{
+  "name": "Jon Ekey",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jon-ekey/3286",
+  "seasons": [
+    "2013-14"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Jon",
+    "Last Name": "Ekey",
+    "Full Name": "Jon Ekey",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/9286844.jpeg?width=300",
+    "Ht./Wt.": "6-7 / 225",
+    "Position": "F",
+    "Hometown": "Independence, Mo.",
+    "High School": "Chrisman",
+    "Height": "6-7",
+    "Weight": "225",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Independence, Mo.",
+    "lat": 39.0924792,
+    "lon": -94.4137923,
+    "is_illinois": false
+  }
+}

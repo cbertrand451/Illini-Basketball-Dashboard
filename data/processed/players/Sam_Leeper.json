@@ -1,0 +1,29 @@
+{
+  "name": "Sam Leeper",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/sam-leeper/5568",
+  "seasons": [
+    "1959-60",
+    "1960-61",
+    "1961-62"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Sam",
+    "Last Name": "Leeper",
+    "Full Name": "Sam Leeper",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Sidney, Ill.",
+    "High School": "Unity",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Sidney, Ill.",
+    "lat": 40.0250332,
+    "lon": -88.0733729,
+    "is_illinois": true
+  }
+}

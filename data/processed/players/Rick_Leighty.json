@@ -1,0 +1,29 @@
+{
+  "name": "Rick Leighty",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rick-leighty/5324",
+  "seasons": [
+    "1974-75",
+    "1975-76",
+    "1976-77"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Rick",
+    "Last Name": "Leighty",
+    "Full Name": "Rick Leighty",
+    "Ht./Wt.": "6-4 / 180",
+    "Position": "G/F",
+    "Hometown": "Lawrenceville, Ill.",
+    "High School": "Lawrenceville",
+    "Height": "6-4",
+    "Weight": "180",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lawrenceville, Ill.",
+    "lat": 38.7292138,
+    "lon": -87.6816927,
+    "is_illinois": true
+  }
+}

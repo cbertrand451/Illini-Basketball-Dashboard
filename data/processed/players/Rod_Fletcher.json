@@ -1,0 +1,29 @@
+{
+  "name": "Rod Fletcher",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rod-fletcher/5745",
+  "seasons": [
+    "1949-50",
+    "1950-51",
+    "1951-52"
+  ],
+  "header": {
+    "Jersey Number": "37",
+    "First Name": "Rod",
+    "Last Name": "Fletcher",
+    "Full Name": "Rod Fletcher",
+    "Ht./Wt.": "6-4 / 195",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Champaign",
+    "Height": "6-4",
+    "Weight": "195",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Robert Reitsch",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/robert-reitsch/5674",
+  "seasons": [
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Robert",
+    "Last Name": "Reitsch",
+    "Full Name": "Robert Reitsch",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F",
+    "Hometown": "Rockford, Ill.",
+    "High School": "West",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
+  }
+}

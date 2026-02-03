@@ -1,0 +1,28 @@
+{
+  "name": "Mike O'Brien",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-o-brien/5228",
+  "seasons": [
+    "1981-82",
+    "1982-83"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Mike",
+    "Last Name": "O'Brien",
+    "Full Name": "Mike O'Brien",
+    "Ht./Wt.": "6-2 / 165",
+    "Position": "G",
+    "Hometown": "Peoria, Ill.",
+    "High School": "Richwoods",
+    "Height": "6-2",
+    "Weight": "165",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Peoria, Ill.",
+    "lat": 40.6938609,
+    "lon": -89.5891008,
+    "is_illinois": true
+  }
+}

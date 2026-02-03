@@ -1,0 +1,27 @@
+{
+  "name": "Billy Bolk",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/billy-bolk/5628",
+  "seasons": [
+    "1956-57"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Billy",
+    "Last Name": "Bolk",
+    "Full Name": "Billy Bolk",
+    "Ht./Wt.": "5-11 / 175",
+    "Position": "G",
+    "Hometown": "Terre Haute, Ind.",
+    "High School": "Gerstmeyer",
+    "Height": "5-11",
+    "Weight": "175",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Terre Haute, Ind.",
+    "lat": 39.4667025,
+    "lon": -87.4139119,
+    "is_illinois": false
+  }
+}

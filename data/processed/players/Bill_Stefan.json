@@ -1,0 +1,27 @@
+{
+  "name": "Bill Stefan",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-stefan/5464",
+  "seasons": [
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Bill",
+    "Last Name": "Stefan",
+    "Full Name": "Bill Stefan",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "G",
+    "Hometown": "Westchest, Ill.",
+    "High School": "St. Joseph",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Westchest, Ill.",
+    "lat": null,
+    "lon": null,
+    "is_illinois": true
+  }
+}

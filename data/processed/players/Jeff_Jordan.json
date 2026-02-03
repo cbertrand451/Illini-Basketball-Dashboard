@@ -1,0 +1,29 @@
+{
+  "name": "Jeff Jordan",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jeff-jordan/3348",
+  "seasons": [
+    "2007-08",
+    "2008-09",
+    "2009-10"
+  ],
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "Jeff",
+    "Last Name": "Jordan",
+    "Full Name": "Jeff Jordan",
+    "Ht./Wt.": "6-1 / 185",
+    "Position": "G",
+    "Hometown": "Highland Park, Ill.",
+    "High School": "Loyola Academy",
+    "Height": "6-1",
+    "Weight": "185",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Highland Park, Ill.",
+    "lat": 42.1836719,
+    "lon": -87.7993245,
+    "is_illinois": true
+  }
+}

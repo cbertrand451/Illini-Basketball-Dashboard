@@ -1,0 +1,29 @@
+{
+  "name": "Jay Lovelace",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jay-lovelace/5549",
+  "seasons": [
+    "1960-61",
+    "1961-62",
+    "1962-63"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Jay",
+    "Last Name": "Lovelace",
+    "Full Name": "Jay Lovelace",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Carbondale, Ill.",
+    "High School": "Carbondale",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Carbondale, Ill.",
+    "lat": 37.7274692,
+    "lon": -89.216655,
+    "is_illinois": true
+  }
+}

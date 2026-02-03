@@ -1,0 +1,65 @@
+{
+  "name": "Ty Rodgers",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ty-rodgers/15206",
+  "seasons": [
+    "2022-23",
+    "2023-24",
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Ty",
+    "Last Name": "Rodgers",
+    "Full Name": "Ty Rodgers",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_1007.jpg?width=300",
+    "Twitter URL": "https://twitter.com/Ty_rodgers20",
+    "Instagram URL": "https://www.instagram.com/tyrodgers20",
+    "NIL URL": "https://opndr.se/ty-rodgers",
+    "Class": "Redshirt Junior",
+    "Height": "6-6",
+    "Weight": "210",
+    "Major": "Communication",
+    "Hometown": "Saginaw, Mich.",
+    "High School": "Thornton Township (Ill.)",
+    "Instagram": "tyrodgers20",
+    "Twitter": "Ty_rodgers20",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2024%2f1%2f30%2fDSC06982_16x9.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f20230131_DC_MBB_vs._NE_-33.JPG&type=webp",
+      "credit": "David Craan / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f20230124_DC_MBB_vs._Ohio_State-141.JPG&type=webp",
+      "credit": "David Craan / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230204_mbb_iowa_cb_119.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230128_mbb_wisconsin_cb_139.JPG&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230116_mbb_minnesota_cb_112.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2023%2f2%2f7%2f230110_mbb_nebraska_cb_081.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "Saginaw, Mich.",
+    "lat": 43.4200387,
+    "lon": -83.9490365,
+    "is_illinois": false
+  }
+}

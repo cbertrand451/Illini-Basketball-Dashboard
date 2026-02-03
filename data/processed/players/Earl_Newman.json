@@ -1,0 +1,27 @@
+{
+  "name": "Earl Newman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/earl-newman/5680",
+  "seasons": [
+    "1953-54"
+  ],
+  "header": {
+    "Jersey Number": "48",
+    "First Name": "Earl",
+    "Last Name": "Newman",
+    "Full Name": "Earl Newman",
+    "Ht./Wt.": "6-3 / 220",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Marshall",
+    "Height": "6-3",
+    "Weight": "220",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

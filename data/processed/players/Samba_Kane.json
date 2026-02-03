@@ -1,0 +1,28 @@
+{
+  "name": "Samba Kane",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/samba-kane/8090",
+  "seasons": [
+    "2018-19"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Samba",
+    "Last Name": "Kane",
+    "Full Name": "Samba Kane",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2018/9/5/Kane_Samba_082618_1MJ4934.JPG?width=300",
+    "Ht./Wt.": "7-0 / 220",
+    "Position": "C",
+    "Hometown": "Dakar, Senegal",
+    "High School": "Florida Prep Academy",
+    "Height": "7-0",
+    "Weight": "220",
+    "Height Inches": 84
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Dakar, Senegal",
+    "lat": 14.693425,
+    "lon": -17.447938,
+    "is_illinois": false
+  }
+}

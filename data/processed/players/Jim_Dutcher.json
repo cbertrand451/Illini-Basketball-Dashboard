@@ -1,0 +1,30 @@
+{
+  "name": "Jim Dutcher",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jim-dutcher/5695",
+  "seasons": [
+    "1951-52",
+    "1952-53",
+    "1953-54",
+    "1954-55"
+  ],
+  "header": {
+    "Jersey Number": "27",
+    "First Name": "Jim",
+    "Last Name": "Dutcher",
+    "Full Name": "Jim Dutcher",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F",
+    "Hometown": "Downers Grove, Ill.",
+    "High School": "Downers Grove",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Downers Grove, Ill.",
+    "lat": 41.7936822,
+    "lon": -88.0102281,
+    "is_illinois": true
+  }
+}

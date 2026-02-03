@@ -1,0 +1,65 @@
+{
+  "name": "Aaron Jordan",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/aaron-jordan/4741",
+  "seasons": [
+    "2015-16",
+    "2016-17",
+    "2017-18",
+    "2018-19"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Aaron",
+    "Last Name": "Jordan",
+    "Full Name": "Aaron Jordan",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2018/9/5/Jordan_Aaron_082618_1MJ4876.JPG?width=300",
+    "Ht./Wt.": "6-5 / 210",
+    "Position": "G",
+    "Hometown": "Plainfield, Ill.",
+    "High School": "East",
+    "Height": "6-5",
+    "Weight": "210",
+    "Height Inches": 77
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f3%2f14%2fMBB1819_AaronJordan_IllinoisvsIowa_BTT_031419.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f2%2f27%2f2000x980_IlliniMBB_0002_MBB1819_atPUR_022719_KG_0E9A6313_EDITED.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f2%2f10%2fJordan_020919_ILMBB_RUTGERS_MJG_57_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f1%2f29%2fJordan_MD_USATSI_12060570_web_44.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2019%2f1%2f16%2f2000x980__0003_011619_ILMBB_Minnesota_MJG_48.jpg&type=webp",
+      "credit": "Mark Jones / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f12%2f5%2fMBB1819__0000_120518_MBB_OSU_MJG_21.jpg&type=webp",
+      "credit": "Michael Glasgow / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f9%2f20%2fJordan_Aaron_RUT_CP5_5274_copy.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f2%2f22%2faaronjordan_illinois_purdue_022218.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f2%2f18%2fJordan_CP7_9329_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2018%2f1%2f30%2faaronjordan_illinois_rutgers_013018.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Plainfield, Ill.",
+    "lat": 41.6086711,
+    "lon": -88.2054345,
+    "is_illinois": true
+  }
+}

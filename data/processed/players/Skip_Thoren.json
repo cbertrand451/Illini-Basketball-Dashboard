@@ -1,0 +1,29 @@
+{
+  "name": "Skip Thoren",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/skip-thoren/5527",
+  "seasons": [
+    "1962-63",
+    "1963-64",
+    "1964-65"
+  ],
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Skip",
+    "Last Name": "Thoren",
+    "Full Name": "Skip Thoren",
+    "Ht./Wt.": "6-8 / 232",
+    "Position": "C",
+    "Hometown": "Rockford, Ill.",
+    "High School": "East",
+    "Height": "6-8",
+    "Weight": "232",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "George BonSalle",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/george-bonsalle/5657",
+  "seasons": [
+    "1954-55",
+    "1955-56",
+    "1956-57"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "George",
+    "Last Name": "BonSalle",
+    "Full Name": "George BonSalle",
+    "Ht./Wt.": "6-8 / 225",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Loyola",
+    "Height": "6-8",
+    "Weight": "225",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Bill Hoffman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-hoffman/5763",
+  "seasons": [
+    "1948-49"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Bill",
+    "Last Name": "Hoffman",
+    "Full Name": "Bill Hoffman",
+    "Ht./Wt.": "6-0 / 175",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Wells",
+    "Height": "6-0",
+    "Weight": "175",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

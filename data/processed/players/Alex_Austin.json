@@ -1,0 +1,57 @@
+{
+  "name": "Alex Austin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/alex-austin/3272",
+  "seasons": [
+    "2014-15",
+    "2015-16",
+    "2016-17"
+  ],
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Alex",
+    "Last Name": "Austin",
+    "Full Name": "Alex Austin",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2016/9/1/Austin_Alex_Headshot_082116_2MJ0857.JPG?width=300",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Mount Carmel",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f12%2f5%2falexaustin4_illinois_westerncarolina_2015_16.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f23%2fimg_8947802.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f18%2fimg_8934166.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f18%2fimg_8933955.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f15%2falexaustin-resize-illinois-ndsu-2015.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f15%2falexaustin2-resize-illinois-ndsu-2015.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f15%2fimg_8928467.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2015%2f11%2f15%2fimg_8928466.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Stan Fronczak",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/stan-fronczak/5804",
+  "seasons": [
+    "1946-47",
+    "1947-48"
+  ],
+  "header": {
+    "Jersey Number": "26",
+    "First Name": "Stan",
+    "Last Name": "Fronczak",
+    "Full Name": "Stan Fronczak",
+    "Ht./Wt.": "6-2 / 200",
+    "Position": "G",
+    "Hometown": "Brooklyn, N.Y.",
+    "Height": "6-2",
+    "Weight": "200",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Brooklyn, N.Y.",
+    "lat": 40.6526006,
+    "lon": -73.9497211,
+    "is_illinois": false
+  }
+}

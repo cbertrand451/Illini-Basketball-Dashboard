@@ -1,0 +1,28 @@
+{
+  "name": "Jay Daniels",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jay-daniels/5224",
+  "seasons": [
+    "1981-82",
+    "1982-83"
+  ],
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Jay",
+    "Last Name": "Daniels",
+    "Full Name": "Jay Daniels",
+    "Ht./Wt.": "6-7 / 185",
+    "Position": "F",
+    "Hometown": "West Palm Beach, Fla.",
+    "High School": "Leonard",
+    "Height": "6-7",
+    "Weight": "185",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "West Palm Beach, Fla.",
+    "lat": 26.715364,
+    "lon": -80.0532942,
+    "is_illinois": false
+  }
+}

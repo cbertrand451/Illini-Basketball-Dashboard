@@ -1,0 +1,28 @@
+{
+  "name": "Bubba Chisholm",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bubba-chisholm/3329",
+  "seasons": [
+    "2008-09",
+    "2009-10"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Bubba",
+    "Last Name": "Chisholm",
+    "Full Name": "Bubba Chisholm",
+    "Ht./Wt.": "5-11 / 180",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Central",
+    "Height": "5-11",
+    "Weight": "180",
+    "Height Inches": 71
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

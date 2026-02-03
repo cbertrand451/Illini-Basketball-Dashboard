@@ -1,0 +1,27 @@
+{
+  "name": "Tom Haller",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tom-haller/5635",
+  "seasons": [
+    "1956-57"
+  ],
+  "header": {
+    "Jersey Number": "52",
+    "First Name": "Tom",
+    "Last Name": "Haller",
+    "Full Name": "Tom Haller",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "G/F",
+    "Hometown": "Lockport, Ill.",
+    "High School": "Lockport",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lockport, Ill.",
+    "lat": 41.5894753,
+    "lon": -88.057837,
+    "is_illinois": true
+  }
+}

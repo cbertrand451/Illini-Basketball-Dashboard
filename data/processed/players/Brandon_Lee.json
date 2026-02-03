@@ -1,0 +1,53 @@
+{
+  "name": "Brandon Lee",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brandon-lee/15215",
+  "seasons": [
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "1",
+    "First Name": "Brandon",
+    "Last Name": "Lee",
+    "Full Name": "Brandon Lee",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_1919.jpg?width=300",
+    "Twitter URL": "https://twitter.com/brandonlee1415",
+    "Instagram URL": "https://www.instagram.com/brandonleee15",
+    "Class": "Freshman",
+    "Height": "6-4",
+    "Weight": "195",
+    "Major": "Undeclared",
+    "Hometown": "San Juan, Puerto Rico",
+    "High School": "The Patrick School (N.J.)",
+    "Instagram": "brandonleee15",
+    "Twitter": "brandonlee1415",
+    "Height Inches": 76
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20251128_MBB_VS_UCONN_CB_9494.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20251124_MBB_VS_UTRGV_CB_8247.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20251229_MBB_VS_SOUTHERN_CB_6298.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20260124_MBB_AT_PURDUE_CB_06764.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f2%2f2%2f20260121_MBB_VS_MARYLAND_CB_8885.jpg&type=webp",
+      "credit": "Courtney Bay / Illinois Athletics"
+    }
+  ],
+  "geocode": {
+    "hometown": "San Juan, Puerto Rico",
+    "lat": 18.465299,
+    "lon": -66.116666,
+    "is_illinois": false
+  }
+}

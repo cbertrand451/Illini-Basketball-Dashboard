@@ -1,0 +1,29 @@
+{
+  "name": "Jermaine Hamlin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jermaine-hamlin/8889",
+  "seasons": [
+    "2019-20",
+    "2020-21"
+  ],
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Jermaine",
+    "Last Name": "Hamlin",
+    "Full Name": "Jermaine Hamlin",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2020/10/19/MBB2021_Headshot_HamlinJermaine__1MJ4360.jpg?width=300",
+    "Ht./Wt.": "6-10 / 235",
+    "Position": "C",
+    "Hometown": "Lincoln, Ill.",
+    "High School": "Lincoln",
+    "Height": "6-10",
+    "Weight": "235",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lincoln, Ill.",
+    "lat": 40.1481349,
+    "lon": -89.3636569,
+    "is_illinois": true
+  }
+}

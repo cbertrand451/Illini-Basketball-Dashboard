@@ -1,0 +1,29 @@
+{
+  "name": "Dave Roberts",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dave-roberts/5350",
+  "seasons": [
+    "1972-73",
+    "1973-74",
+    "1974-75"
+  ],
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Dave",
+    "Last Name": "Roberts",
+    "Full Name": "Dave Roberts",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Broadview, Ill.",
+    "High School": "Proviso East",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Broadview, Ill.",
+    "lat": 41.863965,
+    "lon": -87.8533732,
+    "is_illinois": true
+  }
+}

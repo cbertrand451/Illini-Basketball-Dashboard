@@ -1,0 +1,29 @@
+{
+  "name": "Meyers Leonard",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/meyers-leonard/3313",
+  "seasons": [
+    "2010-11",
+    "2011-12"
+  ],
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Meyers",
+    "Last Name": "Leonard",
+    "Full Name": "Meyers Leonard",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/6911306.jpeg?width=300",
+    "Ht./Wt.": "7-1 / 245",
+    "Position": "C",
+    "Hometown": "Robinson, Ill.",
+    "High School": "Robinson",
+    "Height": "7-1",
+    "Weight": "245",
+    "Height Inches": 85
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Robinson, Ill.",
+    "lat": 39.0053201,
+    "lon": -87.7391936,
+    "is_illinois": true
+  }
+}

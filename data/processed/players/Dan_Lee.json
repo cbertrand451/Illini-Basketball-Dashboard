@@ -1,0 +1,29 @@
+{
+  "name": "Dan Lee",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dan-lee/5515",
+  "seasons": [
+    "1963-64",
+    "1964-65",
+    "1965-66"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Dan",
+    "Last Name": "Lee",
+    "Full Name": "Dan Lee",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "F",
+    "Hometown": "Attica, Ind.",
+    "High School": "Attica",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Attica, Ind.",
+    "lat": 40.2941565,
+    "lon": -87.2488113,
+    "is_illinois": false
+  }
+}

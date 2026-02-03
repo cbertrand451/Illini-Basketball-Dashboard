@@ -1,0 +1,30 @@
+{
+  "name": "Bill Rucks",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-rucks/5367",
+  "seasons": [
+    "1972-73",
+    "1973-74",
+    "1974-75",
+    "1975-76"
+  ],
+  "header": {
+    "Jersey Number": "53",
+    "First Name": "Bill",
+    "Last Name": "Rucks",
+    "Full Name": "Bill Rucks",
+    "Ht./Wt.": "7-0 / 250",
+    "Position": "C",
+    "Hometown": "Waukegan, Ill.",
+    "High School": "Waukegan",
+    "Height": "7-0",
+    "Weight": "250",
+    "Height Inches": 84
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Waukegan, Ill.",
+    "lat": 42.3602273,
+    "lon": -87.8318164,
+    "is_illinois": true
+  }
+}

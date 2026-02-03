@@ -1,0 +1,84 @@
+/* ================================
+   STABLE TEXT + IMAGE SPLIT
+   ================================ */
+
+.wm-feature {
+    display: flex;
+    gap: 2.5rem;
+    align-items: center;
+    margin-bottom: 3rem;
+}
+
+.wm-feature-text {
+    flex: 2;
+}
+
+.wm-feature-img {
+    flex: 1.5;
+    border-radius: 20px;
+    padding: 6px;
+    border: none;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-1), var(--shadow-2);
+}
+
+.wm-feature-img img {
+    width: 100%;
+    border-radius: 16px;
+    display: block;
+}
+
+.wm-feature-img .wm-img-top {
+    border-radius: 12px 12px 0 0;
+}
+
+.wm-feature-img .wm-img-bottom {
+    border-radius: 0 0 12px 12px;
+}
+
+/* Stack on small screens */
+@media (max-width: 900px) {
+    .wm-feature {
+        flex-direction: column;
+    }
+}
+
+
+/* ================================
+   CARDS + IMAGE SPLIT LAYOUT
+   ================================ */
+
+.wm-split {
+    display: grid;
+    grid-template-columns: 2fr 1.3fr;
+    gap: 3rem;
+    align-items: center;
+    margin: 3rem auto;
+    max-width: 1200px;
+}
+
+/* Right-side image */
+.wm-split-img img {
+    width: 100%;
+    border-radius: 18px;
+    object-fit: cover;
+}
+
+.wm-split-img {
+    border-radius: 20px;
+    padding: 6px;
+    border: none;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-1), var(--shadow-2);
+}
+
+/* Stack on smaller screens */
+@media (max-width: 900px) {
+    .wm-split {
+        grid-template-columns: 1fr;
+    }
+
+    .wm-split-img {
+        order: -1; 
+    }
+}

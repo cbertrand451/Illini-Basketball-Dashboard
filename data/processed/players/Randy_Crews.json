@@ -1,0 +1,29 @@
+{
+  "name": "Randy Crews",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/randy-crews/5441",
+  "seasons": [
+    "1967-68",
+    "1968-69",
+    "1969-70"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Randy",
+    "Last Name": "Crews",
+    "Full Name": "Randy Crews",
+    "Ht./Wt.": "6-5 / 240",
+    "Position": "F",
+    "Hometown": "Kankakee, Ill.",
+    "High School": "Bradley-Bourbonnais",
+    "Height": "6-5",
+    "Weight": "240",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Kankakee, Ill.",
+    "lat": 41.1253903,
+    "lon": -87.848682,
+    "is_illinois": true
+  }
+}

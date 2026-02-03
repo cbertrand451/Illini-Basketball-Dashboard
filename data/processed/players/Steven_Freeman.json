@@ -1,0 +1,26 @@
+{
+  "name": "Steven Freeman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/steven-freeman/5195",
+  "seasons": [
+    "1983-84"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Steven",
+    "Last Name": "Freeman",
+    "Full Name": "Steven Freeman",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

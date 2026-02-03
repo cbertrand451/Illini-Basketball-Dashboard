@@ -1,0 +1,48 @@
+{
+  "name": "Kylan Boswell",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/kylan-boswell/15198",
+  "seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Kylan",
+    "Last Name": "Boswell",
+    "Full Name": "Kylan Boswell",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_475.jpg?width=300",
+    "Twitter URL": "https://twitter.com/BamBam_Boz",
+    "Instagram URL": "https://www.instagram.com/kylanboswell",
+    "NIL URL": "https://opndr.se/kylan-boswell",
+    "Class": "Senior",
+    "Height": "6-2",
+    "Weight": "215",
+    "Major": "Communication",
+    "Hometown": "Champaign Ill.",
+    "High School": "AZ Compass Prep",
+    "Prev School": "Arizona",
+    "Instagram": "kylanboswell",
+    "Twitter": "BamBam_Boz",
+    "Height Inches": 74
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250126_MBB_vs_Northwestern_CB_3699.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250205_MBB_at_Rutgers_CB_3503.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250202_MBB_vs_OhioSt_CB_3968.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Champaign Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
+  }
+}

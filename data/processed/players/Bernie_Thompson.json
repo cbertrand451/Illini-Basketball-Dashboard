@@ -1,0 +1,25 @@
+{
+  "name": "Bernie Thompson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bernie-thompson/5636",
+  "seasons": [
+    "1956-57"
+  ],
+  "header": {
+    "First Name": "Bernie",
+    "Last Name": "Thompson",
+    "Full Name": "Bernie Thompson",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "F",
+    "Hometown": "Fairmont, W.Va.",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Fairmont, W.Va.",
+    "lat": 39.484898,
+    "lon": -80.1426539,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,75 @@
+/* ================================
+   CARD GRID (2x2)
+   ================================ */
+
+.wm-card-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    max-width: 900px;
+    margin: 2.5rem auto;
+}
+
+.wm-card {
+    padding: 1.5rem;
+    border-radius: 18px;
+    border: none;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-1), var(--shadow-2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.wm-card:hover {
+    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 16px 45px rgba(16, 24, 40, 0.16), 0 4px 12px rgba(16, 24, 40, 0.10);
+}
+
+/* Program at a glance metric cards */
+.wm-metric-card {
+    border-radius: 18px;
+    border: none;
+    background: var(--card-overlay), var(--card-bg);
+    box-shadow: var(--shadow-1), var(--shadow-2);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.wm-metric-card:hover {
+    transform: translateY(-4px) scale(1.01);
+    box-shadow: 0 16px 45px rgba(16, 24, 40, 0.16), 0 4px 12px rgba(16, 24, 40, 0.10);
+}
+
+.wm-metric-card .wm-metric-delta {
+    opacity: 0;
+    transform: translateY(4px);
+    max-height: 0;
+    overflow: hidden;
+    margin-top: 0;
+    transition: opacity 0.15s ease, transform 0.15s ease, max-height 0.15s ease, margin-top 0.15s ease;
+    justify-content: flex-start !important;
+    text-align: left !important;
+}
+
+.wm-metric-card:hover .wm-metric-delta,
+.wm-metric-card:active .wm-metric-delta {
+    opacity: 1;
+    transform: translateY(0);
+    max-height: 40px;
+    margin-top: 4px;
+}
+
+/* Card text */
+.wm-card h4 {
+    margin-bottom: 0.25rem;
+}
+
+.wm-card p {
+    font-size: 0.95rem;
+    color: var(--muted-gray);
+}
+
+/* Mobile fallback */
+@media (max-width: 700px) {
+    .wm-card-grid {
+        grid-template-columns: 1fr;
+    }
+}

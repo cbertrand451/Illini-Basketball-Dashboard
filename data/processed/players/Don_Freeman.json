@@ -1,0 +1,29 @@
+{
+  "name": "Don Freeman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/don-freeman/5501",
+  "seasons": [
+    "1963-64",
+    "1964-65",
+    "1965-66"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Don",
+    "Last Name": "Freeman",
+    "Full Name": "Don Freeman",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "F",
+    "Hometown": "Madison, Ill.",
+    "High School": "Madison",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Madison, Ill.",
+    "lat": 38.811063,
+    "lon": -89.9017112,
+    "is_illinois": true
+  }
+}

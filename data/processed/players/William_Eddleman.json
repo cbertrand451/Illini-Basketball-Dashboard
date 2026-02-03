@@ -1,0 +1,28 @@
+{
+  "name": "William Eddleman",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/william-eddleman/5850",
+  "seasons": [
+    "1944-45",
+    "1945-46"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "William",
+    "Last Name": "Eddleman",
+    "Full Name": "William Eddleman",
+    "Ht./Wt.": "6-0 / 170",
+    "Position": "G",
+    "Hometown": "Anna, Ill.",
+    "High School": "Anna-Jonesboro",
+    "Height": "6-0",
+    "Weight": "170",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Anna, Ill.",
+    "lat": 37.4603274,
+    "lon": -89.2470282,
+    "is_illinois": true
+  }
+}

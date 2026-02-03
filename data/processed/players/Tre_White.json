@@ -1,0 +1,46 @@
+{
+  "name": "Tre White",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tre-white/14524",
+  "seasons": [
+    "2024-25"
+  ],
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Tre",
+    "Last Name": "White",
+    "Full Name": "Tre White",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2024/9/19/White_Tre_WEB_20240916_MBB_Headshot_KS_1587.jpg?width=300",
+    "Twitter URL": "https://twitter.com/TreWhite19",
+    "Instagram URL": "https://www.instagram.com/thetrewhite_",
+    "Class": "Junior",
+    "Height": "6-7",
+    "Weight": "210",
+    "Major": "Recreation, Sport, & Tourism",
+    "Hometown": "Dallas, Texas",
+    "High School": "Prolific Prep (Calif.)",
+    "Prev School": "Louisville",
+    "Instagram": "thetrewhite_",
+    "Twitter": "TreWhite19",
+    "Height Inches": 79
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250126_MBB_vs_Northwestern_KS_0372.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250130_MBB_at_Nebraska_CB_3563.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250126_MBB_vs_Northwestern_CB_2269.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "Dallas, Texas",
+    "lat": 32.7762719,
+    "lon": -96.7968559,
+    "is_illinois": false
+  }
+}

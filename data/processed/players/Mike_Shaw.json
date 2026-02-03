@@ -1,0 +1,29 @@
+{
+  "name": "Mike Shaw",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-shaw/3698",
+  "seasons": [
+    "2011-12",
+    "2012-13"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Mike",
+    "Last Name": "Shaw",
+    "Full Name": "Mike Shaw",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/Mike_Shaw.jpeg?width=300",
+    "Ht./Wt.": "6-8 / 215",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "De La Salle",
+    "Height": "6-8",
+    "Weight": "215",
+    "Height Inches": 80
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}

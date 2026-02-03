@@ -1,0 +1,27 @@
+{
+  "name": "Rick Kirby",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rick-kirby/5284",
+  "seasons": [
+    "1976-77"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Rick",
+    "Last Name": "Kirby",
+    "Full Name": "Rick Kirby",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Urbana, Ill.",
+    "High School": "Urbana",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Urbana, Ill.",
+    "lat": 40.1117174,
+    "lon": -88.207301,
+    "is_illinois": true
+  }
+}

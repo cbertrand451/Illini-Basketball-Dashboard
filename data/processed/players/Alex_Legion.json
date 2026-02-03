@@ -1,0 +1,29 @@
+{
+  "name": "Alex Legion",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/alex-legion/3349",
+  "seasons": [
+    "2007-08",
+    "2008-09",
+    "2009-10"
+  ],
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Alex",
+    "Last Name": "Legion",
+    "Full Name": "Alex Legion",
+    "Ht./Wt.": "6-5 / 200",
+    "Position": "G",
+    "Hometown": "Detroit, Mich.",
+    "High School": "Oak Hill Academy",
+    "Height": "6-5",
+    "Weight": "200",
+    "Height Inches": 77
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Detroit, Mich.",
+    "lat": 42.3315509,
+    "lon": -83.0466403,
+    "is_illinois": false
+  }
+}

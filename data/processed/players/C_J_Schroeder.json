@@ -1,0 +1,29 @@
+{
+  "name": "C.J. Schroeder",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/c-j-schroeder/5371",
+  "seasons": [
+    "1971-72",
+    "1972-73",
+    "1973-74"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "C.J.",
+    "Last Name": "Schroeder",
+    "Full Name": "C.J. Schroeder",
+    "Ht./Wt.": "6-4 / 195",
+    "Position": "G",
+    "Hometown": "Davenport, Iowa",
+    "High School": "West",
+    "Height": "6-4",
+    "Weight": "195",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Davenport, Iowa",
+    "lat": 41.5235808,
+    "lon": -90.5770967,
+    "is_illinois": false
+  }
+}

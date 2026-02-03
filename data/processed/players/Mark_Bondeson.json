@@ -1,0 +1,28 @@
+{
+  "name": "Mark Bondeson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mark-bondeson/5359",
+  "seasons": [
+    "1972-73",
+    "1973-74"
+  ],
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Mark",
+    "Last Name": "Bondeson",
+    "Full Name": "Mark Bondeson",
+    "Ht./Wt.": "6-6 / 180",
+    "Position": "F",
+    "Hometown": "Des Plaines, Ill.",
+    "High School": "Maine East",
+    "Height": "6-6",
+    "Weight": "180",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Des Plaines, Ill.",
+    "lat": 42.0415823,
+    "lon": -87.8873916,
+    "is_illinois": true
+  }
+}

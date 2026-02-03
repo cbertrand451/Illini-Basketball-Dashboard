@@ -1,0 +1,31 @@
+{
+  "name": "Mike Tisdale",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mike-tisdale/3355",
+  "seasons": [
+    "2007-08",
+    "2008-09",
+    "2009-10",
+    "2010-11"
+  ],
+  "header": {
+    "Jersey Number": "54",
+    "First Name": "Mike",
+    "Last Name": "Tisdale",
+    "Full Name": "Mike Tisdale",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/5763984.jpeg?width=300",
+    "Ht./Wt.": "7-1 / 250",
+    "Position": "C",
+    "Hometown": "Riverton, Ill.",
+    "High School": "Riverton",
+    "Height": "7-1",
+    "Weight": "250",
+    "Height Inches": 85
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Riverton, Ill.",
+    "lat": 39.8442164,
+    "lon": -89.5395417,
+    "is_illinois": true
+  }
+}

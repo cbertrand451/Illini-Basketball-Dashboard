@@ -1,0 +1,28 @@
+{
+  "name": "John Prescott",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/john-prescott/5465",
+  "seasons": [
+    "1965-66",
+    "1966-67"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "John",
+    "Last Name": "Prescott",
+    "Full Name": "John Prescott",
+    "Ht./Wt.": "6-6 / 185",
+    "Position": "F",
+    "Hometown": "Lake Forest, Ill.",
+    "High School": "Lake Forest",
+    "Height": "6-6",
+    "Weight": "185",
+    "Height Inches": 78
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Lake Forest, Ill.",
+    "lat": 42.2586461,
+    "lon": -87.8407055,
+    "is_illinois": true
+  }
+}

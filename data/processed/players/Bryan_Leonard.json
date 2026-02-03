@@ -1,0 +1,31 @@
+{
+  "name": "Bryan Leonard",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bryan-leonard/5267",
+  "seasons": [
+    "1978-79",
+    "1979-80",
+    "1980-81",
+    "1981-82",
+    "1982-83"
+  ],
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Bryan",
+    "Last Name": "Leonard",
+    "Full Name": "Bryan Leonard",
+    "Ht./Wt.": "6-10 / 230",
+    "Position": "C",
+    "Hometown": "Belleville, Ill.",
+    "High School": "East",
+    "Height": "6-10",
+    "Weight": "230",
+    "Height Inches": 82
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
+  }
+}

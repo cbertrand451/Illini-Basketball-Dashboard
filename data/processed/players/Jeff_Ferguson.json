@@ -1,0 +1,30 @@
+{
+  "name": "Jeff Ferguson",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jeff-ferguson/5552",
+  "seasons": [
+    "1960-61",
+    "1961-62",
+    "1962-63",
+    "1963-64"
+  ],
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Jeff",
+    "Last Name": "Ferguson",
+    "Full Name": "Jeff Ferguson",
+    "Ht./Wt.": "6-3 / 195",
+    "Position": "F",
+    "Hometown": "Benton, Ill.",
+    "High School": "Benton",
+    "Height": "6-3",
+    "Weight": "195",
+    "Height Inches": 75
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Benton, Ill.",
+    "lat": 37.9967163,
+    "lon": -88.9200685,
+    "is_illinois": true
+  }
+}

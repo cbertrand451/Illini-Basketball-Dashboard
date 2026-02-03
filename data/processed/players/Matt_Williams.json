@@ -1,0 +1,27 @@
+{
+  "name": "Matt Williams",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/matt-williams/5031",
+  "seasons": [
+    "1991-92"
+  ],
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Matt",
+    "Last Name": "Williams",
+    "Full Name": "Matt Williams",
+    "Ht./Wt.": "6-4 / 175",
+    "Position": "G",
+    "Hometown": "Libertyville, Ill.",
+    "High School": "Libertyville",
+    "Height": "6-4",
+    "Weight": "175",
+    "Height Inches": 76
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Libertyville, Ill.",
+    "lat": 42.2830786,
+    "lon": -87.9531303,
+    "is_illinois": true
+  }
+}

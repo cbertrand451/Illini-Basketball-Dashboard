@@ -1,0 +1,30 @@
+{
+  "name": "Larry Lubin",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-lubin/5307",
+  "seasons": [
+    "1975-76",
+    "1976-77",
+    "1977-78",
+    "1978-79"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Larry",
+    "Last Name": "Lubin",
+    "Full Name": "Larry Lubin",
+    "Ht./Wt.": "6-0 / 175",
+    "Position": "G",
+    "Hometown": "Glencoe, Ill.",
+    "High School": "Evanston",
+    "Height": "6-0",
+    "Weight": "175",
+    "Height Inches": 72
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Glencoe, Ill.",
+    "lat": 42.1350268,
+    "lon": -87.7581188,
+    "is_illinois": true
+  }
+}

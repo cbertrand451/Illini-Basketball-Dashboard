@@ -1,0 +1,50 @@
+{
+  "name": "Jake Davis",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/jake-davis/15199",
+  "seasons": [
+    "2024-25",
+    "2025-26"
+  ],
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Jake",
+    "Last Name": "Davis",
+    "Full Name": "Jake Davis",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_830.jpg?width=300",
+    "Twitter URL": "https://twitter.com/Jake_6davis",
+    "Instagram URL": "https://www.instagram.com/jake6_davis",
+    "Class": "Junior",
+    "Height": "6-6",
+    "Weight": "215",
+    "Major": "Agricultural & Consumer Economics",
+    "Hometown": "McCordsville, Ind.",
+    "High School": "Cathedral",
+    "Prev School": "Mercer",
+    "Instagram": "jake6_davis",
+    "Twitter": "Jake_6davis",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2026%2f1%2f8%2fMBN00340.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250211_MBB_vs_UCLA_CB_1288.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20250205_MBB_at_Rutgers_CB_2731.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2025%2f2%2f13%2f20241104_MBB_vs_EIU_CB_3437.jpg&type=webp",
+      "credit": "Illinois Fighting Illini"
+    }
+  ],
+  "geocode": {
+    "hometown": "McCordsville, Ind.",
+    "lat": 39.8939648,
+    "lon": -85.9219417,
+    "is_illinois": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Malcolm Hill",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/malcolm-hill/3280",
+  "seasons": [
+    "2013-14",
+    "2014-15",
+    "2015-16",
+    "2016-17"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Malcolm",
+    "Last Name": "Hill",
+    "Full Name": "Malcolm Hill",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2016/9/1/Hill_Malcolm_Headshot_082116_2MJ0886.JPG?width=300",
+    "Ht./Wt.": "6-6 / 225",
+    "Position": "G",
+    "Hometown": "Fairview Heights, Ill.",
+    "High School": "Belleville East",
+    "Height": "6-6",
+    "Weight": "225",
+    "Height Inches": 78
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f3%2f4%2fimg_9915335.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f3%2f4%2fimg_9915296.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f3%2f1%2fHill_CP4_9747_web.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f18%2fimg_9884610.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f18%2fimg_9732468.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fmalcolmhill3_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fmalcolmhill2_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f2%2f11%2fmalcolmhill_illinoisvspennstate_021117.jpg&type=webp"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f21%2fHill_USAToday_9827790_edit_33.jpg&type=webp",
+      "credit": "USA Today Sports Images"
+    },
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2017%2f1%2f14%2fmalcolmhill_illinoismaryland_011417.jpg&type=webp"
+    }
+  ],
+  "geocode": {
+    "hometown": "Fairview Heights, Ill.",
+    "lat": 38.5889386,
+    "lon": -89.990382,
+    "is_illinois": true
+  }
+}

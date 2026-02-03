@@ -1,0 +1,31 @@
+{
+  "name": "Nick Smith",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/nick-smith/4878",
+  "seasons": [
+    "2000-01",
+    "2001-02",
+    "2002-03",
+    "2003-04",
+    "2004-05"
+  ],
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Nick",
+    "Last Name": "Smith",
+    "Full Name": "Nick Smith",
+    "Ht./Wt.": "7-2 / 250",
+    "Position": "C",
+    "Hometown": "Valrico, Fla.",
+    "High School": "Bloomingdale",
+    "Height": "7-2",
+    "Weight": "250",
+    "Height Inches": 86
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Valrico, Fla.",
+    "lat": 27.9484265,
+    "lon": -82.2362155,
+    "is_illinois": false
+  }
+}

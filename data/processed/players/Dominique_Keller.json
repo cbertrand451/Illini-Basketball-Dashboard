@@ -1,0 +1,28 @@
+{
+  "name": "Dominique Keller",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/dominique-keller/3335",
+  "seasons": [
+    "2008-09",
+    "2009-10"
+  ],
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "Dominique",
+    "Last Name": "Keller",
+    "Full Name": "Dominique Keller",
+    "Ht./Wt.": "6-7 / 230",
+    "Position": "F",
+    "Hometown": "Port Arthur, Texas",
+    "High School": "Memorial",
+    "Height": "6-7",
+    "Weight": "230",
+    "Height Inches": 79
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Port Arthur, Texas",
+    "lat": 29.8716577,
+    "lon": -93.9332302,
+    "is_illinois": false
+  }
+}

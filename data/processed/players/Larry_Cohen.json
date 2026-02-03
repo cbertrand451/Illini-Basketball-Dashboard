@@ -1,0 +1,29 @@
+{
+  "name": "Larry Cohen",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/larry-cohen/5386",
+  "seasons": [
+    "1970-71",
+    "1971-72",
+    "1972-73"
+  ],
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Larry",
+    "Last Name": "Cohen",
+    "Full Name": "Larry Cohen",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Wilmette, Ill.",
+    "High School": "New Trier",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Wilmette, Ill.",
+    "lat": 42.076066,
+    "lon": -87.7115555,
+    "is_illinois": true
+  }
+}

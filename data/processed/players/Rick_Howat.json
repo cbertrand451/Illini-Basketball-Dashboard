@@ -1,0 +1,29 @@
+{
+  "name": "Rick Howat",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/rick-howat/5423",
+  "seasons": [
+    "1968-69",
+    "1969-70",
+    "1970-71"
+  ],
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Rick",
+    "Last Name": "Howat",
+    "Full Name": "Rick Howat",
+    "Ht./Wt.": "6-2 / 160",
+    "Position": "G",
+    "Hometown": "Downers Grove, Ill.",
+    "High School": "North",
+    "Height": "6-2",
+    "Weight": "160",
+    "Height Inches": 74
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Downers Grove, Ill.",
+    "lat": 41.7936822,
+    "lon": -88.0102281,
+    "is_illinois": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Joe Rodriguez",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/joe-rodriguez/5821",
+  "seasons": [
+    "1945-46",
+    "1947-48"
+  ],
+  "header": {
+    "First Name": "Joe",
+    "Last Name": "Rodriguez",
+    "Full Name": "Joe Rodriguez",
+    "Ht./Wt.": "5-10 / 165",
+    "Position": "G",
+    "Hometown": "Niagara Falls, N.Y.",
+    "Height": "5-10",
+    "Weight": "165",
+    "Height Inches": 70
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Niagara Falls, N.Y.",
+    "lat": 43.084841,
+    "lon": -79.0701786,
+    "is_illinois": false
+  }
+}

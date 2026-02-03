@@ -1,0 +1,28 @@
+{
+  "name": "Aaron Spears",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/aaron-spears/4836",
+  "seasons": [
+    "2002-03",
+    "2003-04"
+  ],
+  "header": {
+    "Jersey Number": "1",
+    "First Name": "Aaron",
+    "Last Name": "Spears",
+    "Full Name": "Aaron Spears",
+    "Ht./Wt.": "6-9 / 250",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Dunbar",
+    "Height": "6-9",
+    "Weight": "250",
+    "Height Inches": 81
+  },
+  "action photos": [],
+  "geocode": {
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
+  }
+}
