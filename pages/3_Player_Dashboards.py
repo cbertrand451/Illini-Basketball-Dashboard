@@ -394,10 +394,10 @@ with col_image:
         )
         st.markdown('<div class="player-text-marker"></div>', unsafe_allow_html=True)
     # Player image.
-    if 'Image URL' in player_header:
+    if player_header.get('Image URL'):
         image_src = player_header['Image URL']
     else:
-        image_src = image_to_data_uri("data\images\illini_no_image.webp")
+        image_src = image_to_data_uri(Path("data") / "images" / "illini_no_image.webp")
 
     icon_map = {
         "Instagram URL": "data/images/instagram.png",
