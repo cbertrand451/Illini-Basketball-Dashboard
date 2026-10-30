@@ -4,7 +4,13 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Tom",
+    "Last Name": "Barich",
+    "Full Name": "Tom Barich",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

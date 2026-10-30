@@ -5,12 +5,22 @@
     "1945-46",
     "1947-48"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Joe",
+    "Last Name": "Rodriguez",
+    "Full Name": "Joe Rodriguez",
+    "Ht./Wt.": "5-10 / 165",
+    "Position": "G",
+    "Hometown": "Niagara Falls, N.Y.",
+    "Height": "5-10",
+    "Weight": "165",
+    "Height Inches": 70
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Niagara Falls, N.Y.",
+    "lat": 43.084841,
+    "lon": -79.0701786,
     "is_illinois": false
   }
 }

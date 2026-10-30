@@ -6,12 +6,24 @@
     "1970-71",
     "1971-72"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Jim",
+    "Last Name": "Krelle",
+    "Full Name": "Jim Krelle",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "G",
+    "Hometown": "Aurora, Ill.",
+    "High School": "West",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Aurora, Ill.",
+    "lat": 41.7571701,
+    "lon": -88.3147539,
+    "is_illinois": true
   }
 }

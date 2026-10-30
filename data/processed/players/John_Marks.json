@@ -5,12 +5,20 @@
     "1949-50",
     "1950-51"
   ],
-  "header": {},
+  "header": {
+    "First Name": "John",
+    "Last Name": "Marks",
+    "Full Name": "John Marks",
+    "Ht./Wt.": "- /",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
   }
 }

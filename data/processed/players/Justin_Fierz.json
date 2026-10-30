@@ -4,7 +4,13 @@
   "seasons": [
     "1993-94"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Justin",
+    "Last Name": "Fierz",
+    "Full Name": "Justin Fierz",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

@@ -7,12 +7,24 @@
     "1946-47",
     "1947-48"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Jack",
+    "Last Name": "Burmaster",
+    "Full Name": "Jack Burmaster",
+    "Ht./Wt.": "6-2 / 190",
+    "Position": "G",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-2",
+    "Weight": "190",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
   }
 }

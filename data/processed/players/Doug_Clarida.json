@@ -4,12 +4,24 @@
   "seasons": [
     "1991-92"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "Doug",
+    "Last Name": "Clarida",
+    "Full Name": "Doug Clarida",
+    "Ht./Wt.": "6-0 / 175",
+    "Position": "G",
+    "Hometown": "Marion, Ill.",
+    "High School": "Marion",
+    "Height": "6-0",
+    "Weight": "175",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Marion, Ill.",
+    "lat": 38.6477381,
+    "lon": -88.9232112,
+    "is_illinois": true
   }
 }

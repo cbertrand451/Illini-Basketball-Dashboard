@@ -5,12 +5,24 @@
     "1958-59",
     "1959-60"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "52",
+    "First Name": "Vern",
+    "Last Name": "Altemeyer",
+    "Full Name": "Vern Altemeyer",
+    "Ht./Wt.": "6-8 / 210",
+    "Position": "C",
+    "Hometown": "Scottsburg, Ind.",
+    "High School": "Scottsburg",
+    "Height": "6-8",
+    "Weight": "210",
+    "Height Inches": 80
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Scottsburg, Ind.",
+    "lat": 38.685614,
+    "lon": -85.7702451,
     "is_illinois": false
   }
 }

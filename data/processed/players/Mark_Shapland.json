@@ -5,12 +5,24 @@
     "1987-88",
     "1988-89"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Mark",
+    "Last Name": "Shapland",
+    "Full Name": "Mark Shapland",
+    "Ht./Wt.": "6-1 / 190",
+    "Position": "G",
+    "Hometown": "Monticello, Ill.",
+    "High School": "Monticello",
+    "Height": "6-1",
+    "Weight": "190",
+    "Height Inches": 73
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Monticello, Ill.",
+    "lat": 40.026295,
+    "lon": -88.567956,
+    "is_illinois": true
   }
 }

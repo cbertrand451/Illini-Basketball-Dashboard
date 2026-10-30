@@ -8,12 +8,24 @@
     "1992-93",
     "1993-94"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Deon",
+    "Last Name": "Thomas",
+    "Full Name": "Deon Thomas",
+    "Ht./Wt.": "6-9 / 240",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Simeon",
+    "Height": "6-9",
+    "Weight": "240",
+    "Height Inches": 81
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

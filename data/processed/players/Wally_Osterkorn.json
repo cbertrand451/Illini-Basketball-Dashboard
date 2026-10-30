@@ -7,12 +7,24 @@
     "1948-49",
     "1949-50"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "Wally",
+    "Last Name": "Osterkorn",
+    "Full Name": "Wally Osterkorn",
+    "Ht./Wt.": "6-5 / 210",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Amundsen",
+    "Height": "6-5",
+    "Weight": "210",
+    "Height Inches": 77
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

@@ -7,12 +7,24 @@
     "1974-75",
     "1975-76"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Otho",
+    "Last Name": "Tucker",
+    "Full Name": "Otho Tucker",
+    "Ht./Wt.": "6-6 / 190",
+    "Position": "G",
+    "Hometown": "Paris, Ill.",
+    "High School": "Paris",
+    "Height": "6-6",
+    "Weight": "190",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Paris, Ill.",
+    "lat": 39.611146,
+    "lon": -87.6961374,
+    "is_illinois": true
   }
 }

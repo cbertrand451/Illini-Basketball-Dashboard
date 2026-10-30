@@ -4,7 +4,13 @@
   "seasons": [
     "1950-51"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Andy",
+    "Last Name": "Toth",
+    "Full Name": "Andy Toth",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

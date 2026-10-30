@@ -5,12 +5,24 @@
     "1981-82",
     "1982-83"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Jay",
+    "Last Name": "Daniels",
+    "Full Name": "Jay Daniels",
+    "Ht./Wt.": "6-7 / 185",
+    "Position": "F",
+    "Hometown": "West Palm Beach, Fla.",
+    "High School": "Leonard",
+    "Height": "6-7",
+    "Weight": "185",
+    "Height Inches": 79
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "West Palm Beach, Fla.",
+    "lat": 26.715364,
+    "lon": -80.0532942,
     "is_illinois": false
   }
 }

@@ -5,12 +5,24 @@
     "1963-64",
     "1964-65"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Jim",
+    "Last Name": "Vopicka",
+    "Full Name": "Jim Vopicka",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Brookfield, Ill.",
+    "High School": "Morton West",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Brookfield, Ill.",
+    "lat": 41.8228378,
+    "lon": -87.848085,
+    "is_illinois": true
   }
 }

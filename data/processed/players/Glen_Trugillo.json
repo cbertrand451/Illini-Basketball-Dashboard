@@ -5,12 +5,24 @@
     "1948-49",
     "1949-50"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Glen",
+    "Last Name": "Trugillo",
+    "Full Name": "Glen Trugillo",
+    "Ht./Wt.": "5-11 / 160",
+    "Position": "F",
+    "Hometown": "Rockford, Ill.",
+    "High School": "East",
+    "Height": "5-11",
+    "Weight": "160",
+    "Height Inches": 71
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
   }
 }

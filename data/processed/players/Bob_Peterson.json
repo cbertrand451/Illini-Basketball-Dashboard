@@ -6,12 +6,24 @@
     "1951-52",
     "1952-53"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Bob",
+    "Last Name": "Peterson",
+    "Full Name": "Bob Peterson",
+    "Ht./Wt.": "6-8 / 250",
+    "Position": "F/C",
+    "Hometown": "Wayne, Ill.",
+    "High School": "Elgin",
+    "Height": "6-8",
+    "Weight": "250",
+    "Height Inches": 80
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Wayne, Ill.",
+    "lat": 38.4251958,
+    "lon": -88.4197678,
+    "is_illinois": true
   }
 }

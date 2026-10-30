@@ -6,12 +6,24 @@
     "1950-51",
     "1951-52"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "27",
+    "First Name": "Mack",
+    "Last Name": "Follmer",
+    "Full Name": "Mack Follmer",
+    "Ht./Wt.": "6-4 / 200",
+    "Position": "F/C",
+    "Hometown": "Forrest, Ill.",
+    "High School": "Forrest",
+    "Height": "6-4",
+    "Weight": "200",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Forrest, Ill.",
+    "lat": 40.7519792,
+    "lon": -88.4111647,
+    "is_illinois": true
   }
 }

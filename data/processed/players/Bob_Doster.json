@@ -6,12 +6,24 @@
     "1946-47",
     "1947-48"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "16",
+    "First Name": "Bob",
+    "Last Name": "Doster",
+    "Full Name": "Bob Doster",
+    "Ht./Wt.": "6-1 / 170",
+    "Position": "F",
+    "Hometown": "Decatur, Ill.",
+    "High School": "Decatur",
+    "Height": "6-1",
+    "Weight": "170",
+    "Height Inches": 73
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Decatur, Ill.",
+    "lat": 39.8454163,
+    "lon": -88.9524151,
+    "is_illinois": true
   }
 }

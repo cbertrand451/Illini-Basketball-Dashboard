@@ -6,12 +6,24 @@
     "1977-78",
     "1978-79"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Matt",
+    "Last Name": "Meyer",
+    "Full Name": "Matt Meyer",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Manito, Ill.",
+    "High School": "Foreman",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Manito, Ill.",
+    "lat": 40.4258736,
+    "lon": -89.7792762,
+    "is_illinois": true
   }
 }

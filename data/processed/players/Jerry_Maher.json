@@ -6,7 +6,13 @@
     "1990-91",
     "1991-92"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Jerry",
+    "Last Name": "Maher",
+    "Full Name": "Jerry Maher",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

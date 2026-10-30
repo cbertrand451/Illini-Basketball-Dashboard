@@ -4,12 +4,24 @@
   "seasons": [
     "1984-85"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "4",
+    "First Name": "Scott",
+    "Last Name": "Haffner",
+    "Full Name": "Scott Haffner",
+    "Ht./Wt.": "6-4 / 165",
+    "Position": "G",
+    "Hometown": "Noblesville, Ind.",
+    "High School": "Noblesville",
+    "Height": "6-4",
+    "Weight": "165",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Noblesville, Ind.",
+    "lat": 40.0460881,
+    "lon": -86.0139854,
     "is_illinois": false
   }
 }

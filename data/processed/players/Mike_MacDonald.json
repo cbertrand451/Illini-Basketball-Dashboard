@@ -5,12 +5,24 @@
     "1987-88",
     "1988-89"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Mike",
+    "Last Name": "MacDonald",
+    "Full Name": "Mike MacDonald",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Streamwood, Ill.",
+    "High School": "Streamwood",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Streamwood, Ill.",
+    "lat": 42.0255827,
+    "lon": -88.1784085,
+    "is_illinois": true
   }
 }

@@ -6,12 +6,24 @@
     "1956-57",
     "1957-58"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Don",
+    "Last Name": "Ohl",
+    "Full Name": "Don Ohl",
+    "Ht./Wt.": "6-3 / 190",
+    "Position": "G",
+    "Hometown": "Edwardsville, Ill.",
+    "High School": "Edwardsville",
+    "Height": "6-3",
+    "Weight": "190",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Edwardsville, Ill.",
+    "lat": 38.8114364,
+    "lon": -89.953157,
+    "is_illinois": true
   }
 }

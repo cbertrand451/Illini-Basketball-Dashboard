@@ -4,12 +4,24 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Robert",
+    "Last Name": "Jones",
+    "Full Name": "Robert Jones",
+    "Ht./Wt.": "6-3 / 200",
+    "Position": "C",
+    "Hometown": "West Frankfort, Ill.",
+    "High School": "West Frankfort",
+    "Height": "6-3",
+    "Weight": "200",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "West Frankfort, Ill.",
+    "lat": 37.8978275,
+    "lon": -88.9314583,
+    "is_illinois": true
   }
 }

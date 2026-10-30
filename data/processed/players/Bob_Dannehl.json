@@ -4,7 +4,13 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Bob",
+    "Last Name": "Dannehl",
+    "Full Name": "Bob Dannehl",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

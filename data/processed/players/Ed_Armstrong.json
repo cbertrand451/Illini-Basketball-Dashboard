@@ -4,7 +4,13 @@
   "seasons": [
     "1989-90"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Ed",
+    "Last Name": "Armstrong",
+    "Full Name": "Ed Armstrong",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

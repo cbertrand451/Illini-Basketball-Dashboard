@@ -4,7 +4,13 @@
   "seasons": [
     "1950-51"
   ],
-  "header": {},
+  "header": {
+    "First Name": "James",
+    "Last Name": "Hoffman",
+    "Full Name": "James Hoffman",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

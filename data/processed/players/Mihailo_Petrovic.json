@@ -4,12 +4,27 @@
   "seasons": [
     "2025-26"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "77",
+    "First Name": "Mihailo",
+    "Last Name": "Petrovic",
+    "Full Name": "Mihailo Petrovic",
+    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2025/10/15/20250930_MB_ProductionDay__ACR_1251.jpg?width=300",
+    "Instagram URL": "https://www.instagram.com/mihailopetrovic77",
+    "Class": "Sophomore",
+    "Height": "6-2",
+    "Weight": "180",
+    "Major": "Recreation, Sport, & Tourism",
+    "Hometown": "Prokuplje, Serbia",
+    "Prev School": "Mega Superbet",
+    "Instagram": "mihailopetrovic77",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Prokuplje, Serbia",
+    "lat": 43.2343484,
+    "lon": 21.5884422,
     "is_illinois": false
   }
 }

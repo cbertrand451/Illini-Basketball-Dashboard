@@ -5,12 +5,24 @@
     "1957-58",
     "1958-59"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "John",
+    "Last Name": "Homeier",
+    "Full Name": "John Homeier",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "C",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Feitshans",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
   }
 }

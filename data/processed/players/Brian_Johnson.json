@@ -8,12 +8,24 @@
     "1996-97",
     "1997-98"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Brian",
+    "Last Name": "Johnson",
+    "Full Name": "Brian Johnson",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Des Plaines, Ill.",
+    "High School": "Maine West",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Des Plaines, Ill.",
+    "lat": 42.0415823,
+    "lon": -87.8873916,
+    "is_illinois": true
   }
 }

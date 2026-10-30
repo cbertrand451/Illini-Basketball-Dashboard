@@ -4,7 +4,13 @@
   "seasons": [
     "1989-90"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Todd",
+    "Last Name": "Russell",
+    "Full Name": "Todd Russell",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

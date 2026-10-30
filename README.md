@@ -120,6 +120,16 @@ update the parser before retrying; rerunning unchanged commands will not repair
 a changed website layout. If the existing index is already corrupt, restore its
 last valid version from Git first.
 
+Player profile downloads also check HTTP status and require a recognizable
+player name. The full build and standalone bio builder download and validate the
+entire profile batch before writing any profiles or gallery index. A failed
+request or unrecognized page raises an error identifying the player and URL;
+previous profiles are left intact. Partial updates retain saved photo URLs,
+optional bio fields, and valid coordinates for the same hometown, including when
+geocoding is disabled. Successful replacements save local `.json.bak` backups,
+which Git ignores. These checks preserve downloaded data; a changed source layout
+still requires updating the parser before refreshing it.
+
 Run the roster safety tests without contacting the source website:
 
 ```bash

@@ -4,7 +4,13 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Lee",
+    "Last Name": "Stickler",
+    "Full Name": "Lee Stickler",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

@@ -7,12 +7,24 @@
     "2001-02",
     "2002-03"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Brian",
+    "Last Name": "Cook",
+    "Full Name": "Brian Cook",
+    "Ht./Wt.": "6-10 / 240",
+    "Position": "F",
+    "Hometown": "Lincoln, Ill.",
+    "High School": "Lincoln",
+    "Height": "6-10",
+    "Weight": "240",
+    "Height Inches": 82
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Lincoln, Ill.",
+    "lat": 40.1481349,
+    "lon": -89.3636569,
+    "is_illinois": true
   }
 }

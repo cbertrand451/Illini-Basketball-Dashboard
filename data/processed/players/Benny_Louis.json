@@ -6,12 +6,24 @@
     "1966-67",
     "1967-68"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Benny",
+    "Last Name": "Louis",
+    "Full Name": "Benny Louis",
+    "Ht./Wt.": "6-3 / 180",
+    "Position": "F",
+    "Hometown": "Pinckneyville, Ill.",
+    "High School": "Pinckneyville",
+    "Height": "6-3",
+    "Weight": "180",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Pinckneyville, Ill.",
+    "lat": 38.0803286,
+    "lon": -89.3820321,
+    "is_illinois": true
   }
 }

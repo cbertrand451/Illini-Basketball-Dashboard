@@ -4,7 +4,13 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Larry",
+    "Last Name": "Christian",
+    "Full Name": "Larry Christian",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

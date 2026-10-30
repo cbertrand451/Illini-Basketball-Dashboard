@@ -6,12 +6,24 @@
     "1967-68",
     "1968-69"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Dave",
+    "Last Name": "Scholz",
+    "Full Name": "Dave Scholz",
+    "Ht./Wt.": "6-8 / 220",
+    "Position": "F/C",
+    "Hometown": "Decatur, Ill.",
+    "High School": "Stephen Decatur",
+    "Height": "6-8",
+    "Weight": "220",
+    "Height Inches": 80
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Decatur, Ill.",
+    "lat": 39.8454163,
+    "lon": -88.9524151,
+    "is_illinois": true
   }
 }

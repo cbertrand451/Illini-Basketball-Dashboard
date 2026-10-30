@@ -4,12 +4,24 @@
   "seasons": [
     "2002-03"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Kyle",
+    "Last Name": "Wilson",
+    "Full Name": "Kyle Wilson",
+    "Ht./Wt.": "6-8 / 230",
+    "Position": "F",
+    "Hometown": "Plano, Texas",
+    "High School": "Dallas Jesuit",
+    "Height": "6-8",
+    "Weight": "230",
+    "Height Inches": 80
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Plano, Texas",
+    "lat": 33.0136764,
+    "lon": -96.6925096,
     "is_illinois": false
   }
 }

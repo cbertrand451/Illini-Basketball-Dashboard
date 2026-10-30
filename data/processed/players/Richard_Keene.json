@@ -7,12 +7,24 @@
     "1994-95",
     "1995-96"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Richard",
+    "Last Name": "Keene",
+    "Full Name": "Richard Keene",
+    "Ht./Wt.": "6-6 / 205",
+    "Position": "G",
+    "Hometown": "Collinsville, Ill.",
+    "High School": "Collinsville",
+    "Height": "6-6",
+    "Weight": "205",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Collinsville, Ill.",
+    "lat": 38.6703267,
+    "lon": -89.9845476,
+    "is_illinois": true
   }
 }

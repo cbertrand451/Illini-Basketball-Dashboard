@@ -4,7 +4,19 @@
   "seasons": [
     "1971-72"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Kim",
+    "Last Name": "Jolley",
+    "Full Name": "Kim Jolley",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Indiaola, Ill.",
+    "High School": "Jamaica",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

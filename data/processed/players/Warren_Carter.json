@@ -7,12 +7,24 @@
     "2005-06",
     "2006-07"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "41",
+    "First Name": "Warren",
+    "Last Name": "Carter",
+    "Full Name": "Warren Carter",
+    "Ht./Wt.": "6-9 / 220",
+    "Position": "F",
+    "Hometown": "Dallas, Texas",
+    "High School": "Lake Highlands",
+    "Height": "6-9",
+    "Weight": "220",
+    "Height Inches": 81
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Dallas, Texas",
+    "lat": 32.7762719,
+    "lon": -96.7968559,
     "is_illinois": false
   }
 }

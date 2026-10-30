@@ -4,7 +4,13 @@
   "seasons": [
     "1985-86"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Brian",
+    "Last Name": "Sterrett",
+    "Full Name": "Brian Sterrett",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

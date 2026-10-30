@@ -7,12 +7,24 @@
     "1993-94",
     "1994-95"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "52",
+    "First Name": "Steve",
+    "Last Name": "Roth",
+    "Full Name": "Steve Roth",
+    "Ht./Wt.": "6-10 / 250",
+    "Position": "C",
+    "Hometown": "Belleville, Ill.",
+    "High School": "East",
+    "Height": "6-10",
+    "Weight": "250",
+    "Height Inches": 82
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
   }
 }

@@ -5,12 +5,24 @@
     "1993-94",
     "1994-95"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Shelly",
+    "Last Name": "Clark",
+    "Full Name": "Shelly Clark",
+    "Ht./Wt.": "6-9 / 260",
+    "Position": "F/C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "South Shore",
+    "Height": "6-9",
+    "Weight": "260",
+    "Height Inches": 81
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

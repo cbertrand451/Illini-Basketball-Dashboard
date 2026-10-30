@@ -7,12 +7,24 @@
     "1947-48",
     "1948-49"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "48",
+    "First Name": "Fred",
+    "Last Name": "Green",
+    "Full Name": "Fred Green",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "C",
+    "Hometown": "Urbana, Ill.",
+    "High School": "Urbana",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Urbana, Ill.",
+    "lat": 40.1117174,
+    "lon": -88.207301,
+    "is_illinois": true
   }
 }

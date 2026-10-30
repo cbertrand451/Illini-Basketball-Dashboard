@@ -6,12 +6,24 @@
     "1958-59",
     "1959-60"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "15",
+    "First Name": "Bob",
+    "Last Name": "Schmidt",
+    "Full Name": "Bob Schmidt",
+    "Ht./Wt.": "6-5 / 180",
+    "Position": "F",
+    "Hometown": "Kankakee, Ill.",
+    "High School": "Kankakee",
+    "Height": "6-5",
+    "Weight": "180",
+    "Height Inches": 77
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Kankakee, Ill.",
+    "lat": 41.1253903,
+    "lon": -87.848682,
+    "is_illinois": true
   }
 }

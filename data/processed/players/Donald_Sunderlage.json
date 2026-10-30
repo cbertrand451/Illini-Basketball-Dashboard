@@ -6,12 +6,24 @@
     "1949-50",
     "1950-51"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Donald",
+    "Last Name": "Sunderlage",
+    "Full Name": "Donald Sunderlage",
+    "Ht./Wt.": "6-0 / 185",
+    "Position": "F",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-0",
+    "Weight": "185",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
   }
 }

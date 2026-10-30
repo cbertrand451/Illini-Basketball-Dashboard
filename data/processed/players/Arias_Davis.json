@@ -5,12 +5,24 @@
     "1997-98",
     "1998-99"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "3",
+    "First Name": "Arias",
+    "Last Name": "Davis",
+    "Full Name": "Arias Davis",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Waycross, Ga.",
+    "High School": "Ware County",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Waycross, Ga.",
+    "lat": 31.2135511,
+    "lon": -82.3540178,
     "is_illinois": false
   }
 }

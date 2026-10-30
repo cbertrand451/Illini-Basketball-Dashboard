@@ -7,12 +7,24 @@
     "1981-82",
     "1982-83"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Kevin",
+    "Last Name": "Bontemps",
+    "Full Name": "Kevin Bontemps",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Morton, Ill.",
+    "High School": "Morton",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Morton, Ill.",
+    "lat": 40.6127349,
+    "lon": -89.459323,
+    "is_illinois": true
   }
 }

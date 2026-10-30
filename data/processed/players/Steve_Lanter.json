@@ -6,12 +6,24 @@
     "1977-78",
     "1978-79"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Steve",
+    "Last Name": "Lanter",
+    "Full Name": "Steve Lanter",
+    "Ht./Wt.": "6-4 / 190",
+    "Position": "G",
+    "Hometown": "Belleville, Ill.",
+    "High School": "Mascoutah",
+    "Height": "6-4",
+    "Weight": "190",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
   }
 }

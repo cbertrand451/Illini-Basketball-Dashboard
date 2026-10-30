@@ -6,12 +6,28 @@
     "2003-04",
     "2004-05"
   ],
-  "header": {},
-  "action photos": [],
+  "header": {
+    "Jersey Number": "5",
+    "First Name": "Deron",
+    "Last Name": "Williams",
+    "Full Name": "Deron Williams",
+    "Ht./Wt.": "6-3 / 210",
+    "Position": "G",
+    "Hometown": "The Colony, Texas",
+    "High School": "The Colony",
+    "Height": "6-3",
+    "Weight": "210",
+    "Height Inches": 75
+  },
+  "action photos": [
+    {
+      "url": "https://images.sidearmdev.com/convert?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2ffightingillini.com%2fimages%2f2016%2f3%2f27%2fDeron_Williams_Arizona_Shot_web.jpg&type=webp"
+    }
+  ],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "The Colony, Texas",
+    "lat": 33.0890094,
+    "lon": -96.8863922,
     "is_illinois": false
   }
 }

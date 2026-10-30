@@ -6,12 +6,24 @@
     "1952-53",
     "1953-54"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "16",
+    "First Name": "Jim",
+    "Last Name": "Wright",
+    "Full Name": "Jim Wright",
+    "Ht./Wt.": "6-0 / 165",
+    "Position": "G",
+    "Hometown": "Lawrenceville, Ill.",
+    "High School": "Lawrenceville",
+    "Height": "6-0",
+    "Weight": "165",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Lawrenceville, Ill.",
+    "lat": 38.7292138,
+    "lon": -87.6816927,
+    "is_illinois": true
   }
 }

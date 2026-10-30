@@ -6,12 +6,24 @@
     "1956-57",
     "1957-58"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "John",
+    "Last Name": "Paul",
+    "Full Name": "John Paul",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
   }
 }

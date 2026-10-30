@@ -7,12 +7,24 @@
     "1948-49",
     "1949-50"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Van",
+    "Last Name": "Anderson",
+    "Full Name": "Van Anderson",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "G/F",
+    "Hometown": "Sullivan, Ill.",
+    "High School": "Sullivan",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Sullivan, Ill.",
+    "lat": 39.599479,
+    "lon": -88.6078392,
+    "is_illinois": true
   }
 }

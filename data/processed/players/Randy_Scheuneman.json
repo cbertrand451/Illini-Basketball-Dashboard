@@ -4,7 +4,13 @@
   "seasons": [
     "1987-88"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Randy",
+    "Last Name": "Scheuneman",
+    "Full Name": "Randy Scheuneman",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

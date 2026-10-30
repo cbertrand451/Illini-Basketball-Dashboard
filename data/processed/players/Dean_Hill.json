@@ -4,7 +4,13 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Dean",
+    "Last Name": "Hill",
+    "Full Name": "Dean Hill",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

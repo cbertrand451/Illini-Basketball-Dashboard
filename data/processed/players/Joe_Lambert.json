@@ -4,7 +4,13 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Joe",
+    "Last Name": "Lambert",
+    "Full Name": "Joe Lambert",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

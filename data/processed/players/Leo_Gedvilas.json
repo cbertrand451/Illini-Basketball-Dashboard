@@ -5,12 +5,24 @@
     "1944-45",
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Leo",
+    "Last Name": "Gedvilas",
+    "Full Name": "Leo Gedvilas",
+    "Ht./Wt.": "6-0 / 175",
+    "Position": "G",
+    "Hometown": "Spring Valley, Ill.",
+    "High School": "Hall",
+    "Height": "6-0",
+    "Weight": "175",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Spring Valley, Ill.",
+    "lat": 41.3275353,
+    "lon": -89.1998078,
+    "is_illinois": true
   }
 }

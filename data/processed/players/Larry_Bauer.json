@@ -5,7 +5,19 @@
     "1962-63",
     "1963-64"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "Larry",
+    "Last Name": "Bauer",
+    "Full Name": "Larry Bauer",
+    "Ht./Wt.": "6-7 / 205",
+    "Position": "F/C",
+    "Hometown": "Sprinfield, Ill.",
+    "High School": "Springfield",
+    "Height": "6-7",
+    "Weight": "205",
+    "Height Inches": 79
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

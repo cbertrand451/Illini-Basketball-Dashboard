@@ -4,7 +4,13 @@
   "seasons": [
     "1990-91"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Craig",
+    "Last Name": "Davis",
+    "Full Name": "Craig Davis",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

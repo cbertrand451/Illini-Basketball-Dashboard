@@ -6,12 +6,24 @@
     "1971-72",
     "1972-73"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Nick",
+    "Last Name": "Conner",
+    "Full Name": "Nick Conner",
+    "Ht./Wt.": "6-6 / 195",
+    "Position": "F/C",
+    "Hometown": "Columbus, Ohio",
+    "High School": "East",
+    "Height": "6-6",
+    "Weight": "195",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Columbus, Ohio",
+    "lat": 39.9622601,
+    "lon": -83.0007065,
     "is_illinois": false
   }
 }

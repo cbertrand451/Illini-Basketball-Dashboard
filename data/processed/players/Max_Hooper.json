@@ -6,12 +6,24 @@
     "1952-53",
     "1953-54"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "47",
+    "First Name": "Max",
+    "Last Name": "Hooper",
+    "Full Name": "Max Hooper",
+    "Ht./Wt.": "6-5 / 195",
+    "Position": "F/C",
+    "Hometown": "Mt. Vernon, Ill.",
+    "High School": "Mt. Vernon",
+    "Height": "6-5",
+    "Weight": "195",
+    "Height Inches": 77
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Mt. Vernon, Ill.",
+    "lat": 38.3172715,
+    "lon": -88.9031201,
+    "is_illinois": true
   }
 }

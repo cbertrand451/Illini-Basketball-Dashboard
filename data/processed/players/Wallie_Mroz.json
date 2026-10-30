@@ -5,12 +5,24 @@
     "1944-45",
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "20",
+    "First Name": "Wallie",
+    "Last Name": "Mroz",
+    "Full Name": "Wallie Mroz",
+    "Ht./Wt.": "5-9 / 145",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Wells",
+    "Height": "5-9",
+    "Weight": "145",
+    "Height Inches": 69
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

@@ -5,12 +5,24 @@
     "1965-66",
     "1967-68"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Rich",
+    "Last Name": "Crusius",
+    "Full Name": "Rich Crusius",
+    "Ht./Wt.": "6-6 / 190",
+    "Position": "F",
+    "Hometown": "Bloomington, Ill.",
+    "High School": "Bloomington",
+    "Height": "6-6",
+    "Weight": "190",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Bloomington, Ill.",
+    "lat": 40.4797828,
+    "lon": -88.9939147,
+    "is_illinois": true
   }
 }

@@ -7,12 +7,24 @@
     "1980-81",
     "1981-82"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Perry",
+    "Last Name": "Range",
+    "Full Name": "Perry Range",
+    "Ht./Wt.": "6-4 / 180",
+    "Position": "G",
+    "Hometown": "South Beloit, Ill.",
+    "High School": "South Beloit",
+    "Height": "6-4",
+    "Weight": "180",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "South Beloit, Ill.",
+    "lat": 42.4930708,
+    "lon": -89.0367764,
+    "is_illinois": true
   }
 }

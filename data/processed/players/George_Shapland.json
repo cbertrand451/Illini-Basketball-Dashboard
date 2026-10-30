@@ -4,7 +4,13 @@
   "seasons": [
     "1950-51"
   ],
-  "header": {},
+  "header": {
+    "First Name": "George",
+    "Last Name": "Shapland",
+    "Full Name": "George Shapland",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

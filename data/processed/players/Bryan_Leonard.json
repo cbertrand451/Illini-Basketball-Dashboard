@@ -8,12 +8,24 @@
     "1981-82",
     "1982-83"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Bryan",
+    "Last Name": "Leonard",
+    "Full Name": "Bryan Leonard",
+    "Ht./Wt.": "6-10 / 230",
+    "Position": "C",
+    "Hometown": "Belleville, Ill.",
+    "High School": "East",
+    "Height": "6-10",
+    "Weight": "230",
+    "Height Inches": 82
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Belleville, Ill.",
+    "lat": 38.5135805,
+    "lon": -89.9841627,
+    "is_illinois": true
   }
 }

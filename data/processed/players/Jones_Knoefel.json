@@ -4,12 +4,24 @@
   "seasons": [
     "1960-61"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Jones",
+    "Last Name": "Knoefel",
+    "Full Name": "Jones Knoefel",
+    "Ht./Wt.": "6-4 / 180",
+    "Position": "F",
+    "Hometown": "Valparaiso, Ind.",
+    "High School": "Valparaiso",
+    "Height": "6-4",
+    "Weight": "180",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Valparaiso, Ind.",
+    "lat": 41.4672552,
+    "lon": -87.0604487,
     "is_illinois": false
   }
 }

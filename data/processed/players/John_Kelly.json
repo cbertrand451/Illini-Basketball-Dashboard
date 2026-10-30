@@ -4,7 +4,13 @@
   "seasons": [
     "1986-87"
   ],
-  "header": {},
+  "header": {
+    "First Name": "John",
+    "Last Name": "Kelly",
+    "Full Name": "John Kelly",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

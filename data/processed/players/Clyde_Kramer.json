@@ -4,12 +4,24 @@
   "seasons": [
     "1961-62"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Clyde",
+    "Last Name": "Kramer",
+    "Full Name": "Clyde Kramer",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "F",
+    "Hometown": "Erie, Ill.",
+    "High School": "Erie",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Erie, Ill.",
+    "lat": 41.6563287,
+    "lon": -90.0790166,
+    "is_illinois": true
   }
 }

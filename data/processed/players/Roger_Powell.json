@@ -7,12 +7,24 @@
     "2003-04",
     "2004-05"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "43",
+    "First Name": "Roger",
+    "Last Name": "Powell",
+    "Full Name": "Roger Powell",
+    "Ht./Wt.": "6-5 / 235",
+    "Position": "F",
+    "Hometown": "Joliet, Ill.",
+    "High School": "Joliet",
+    "Height": "6-5",
+    "Weight": "235",
+    "Height Inches": 77
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Joliet, Ill.",
+    "lat": 41.5263603,
+    "lon": -88.0840212,
+    "is_illinois": true
   }
 }

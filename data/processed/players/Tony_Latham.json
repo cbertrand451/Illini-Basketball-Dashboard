@@ -5,12 +5,24 @@
     "1962-63",
     "1963-64"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "31",
+    "First Name": "Tony",
+    "Last Name": "Latham",
+    "Full Name": "Tony Latham",
+    "Ht./Wt.": "5-11 / 165",
+    "Position": "G",
+    "Hometown": "Waukegan, Ill.",
+    "High School": "Waukegan",
+    "Height": "5-11",
+    "Weight": "165",
+    "Height Inches": 71
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Waukegan, Ill.",
+    "lat": 42.3602273,
+    "lon": -87.8318164,
+    "is_illinois": true
   }
 }

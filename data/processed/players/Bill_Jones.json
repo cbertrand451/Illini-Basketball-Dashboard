@@ -4,12 +4,24 @@
   "seasons": [
     "1967-68"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "45",
+    "First Name": "Bill",
+    "Last Name": "Jones",
+    "Full Name": "Bill Jones",
+    "Ht./Wt.": "6-1 / 190",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Waller",
+    "Height": "6-1",
+    "Weight": "190",
+    "Height Inches": 73
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

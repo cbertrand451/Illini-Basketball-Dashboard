@@ -4,7 +4,14 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Jack",
+    "Last Name": "Larson",
+    "Full Name": "Jack Larson",
+    "Ht./Wt.": "- /",
+    "Position": "C",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

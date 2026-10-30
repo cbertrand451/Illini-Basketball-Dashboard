@@ -6,12 +6,24 @@
     "1961-62",
     "1962-63"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "53",
+    "First Name": "Bill",
+    "Last Name": "Small",
+    "Full Name": "Bill Small",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "G",
+    "Hometown": "Aurora, Ill.",
+    "High School": "West",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Aurora, Ill.",
+    "lat": 41.7571701,
+    "lon": -88.3147539,
+    "is_illinois": true
   }
 }

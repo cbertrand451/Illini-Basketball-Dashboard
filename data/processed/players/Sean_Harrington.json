@@ -7,12 +7,24 @@
     "2001-02",
     "2002-03"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Sean",
+    "Last Name": "Harrington",
+    "Full Name": "Sean Harrington",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "G",
+    "Hometown": "Bartlett, Ill.",
+    "High School": "Elgin",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Bartlett, Ill.",
+    "lat": 41.9908485,
+    "lon": -88.1850028,
+    "is_illinois": true
   }
 }

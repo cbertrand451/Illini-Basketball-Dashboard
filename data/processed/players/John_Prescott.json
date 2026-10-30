@@ -5,12 +5,24 @@
     "1965-66",
     "1966-67"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "John",
+    "Last Name": "Prescott",
+    "Full Name": "John Prescott",
+    "Ht./Wt.": "6-6 / 185",
+    "Position": "F",
+    "Hometown": "Lake Forest, Ill.",
+    "High School": "Lake Forest",
+    "Height": "6-6",
+    "Weight": "185",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Lake Forest, Ill.",
+    "lat": 42.2586461,
+    "lon": -87.8407055,
+    "is_illinois": true
   }
 }

@@ -5,12 +5,24 @@
     "1968-69",
     "1969-70"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Bob",
+    "Last Name": "Windmiller",
+    "Full Name": "Bob Windmiller",
+    "Ht./Wt.": "6-0 / 180",
+    "Position": "G",
+    "Hometown": "Ossian, Ind.",
+    "High School": "Ossian",
+    "Height": "6-0",
+    "Weight": "180",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Ossian, Ind.",
+    "lat": 40.880603,
+    "lon": -85.1663593,
     "is_illinois": false
   }
 }

@@ -4,7 +4,14 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Maurice",
+    "Last Name": "Dolan",
+    "Full Name": "Maurice Dolan",
+    "Ht./Wt.": "- /",
+    "Position": "F",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

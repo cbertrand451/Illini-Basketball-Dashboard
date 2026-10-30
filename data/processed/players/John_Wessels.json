@@ -6,12 +6,24 @@
     "1959-60",
     "1960-61"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "John",
+    "Last Name": "Wessels",
+    "Full Name": "John Wessels",
+    "Ht./Wt.": "6-7 / 210",
+    "Position": "C",
+    "Hometown": "Rockford, Ill.",
+    "High School": "West",
+    "Height": "6-7",
+    "Weight": "210",
+    "Height Inches": 79
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Rockford, Ill.",
+    "lat": 42.2713945,
+    "lon": -89.093966,
+    "is_illinois": true
   }
 }

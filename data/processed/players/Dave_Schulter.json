@@ -4,7 +4,13 @@
   "seasons": [
     "1978-79"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Dave",
+    "Last Name": "Schulter",
+    "Full Name": "Dave Schulter",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

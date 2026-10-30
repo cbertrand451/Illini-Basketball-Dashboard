@@ -4,12 +4,24 @@
   "seasons": [
     "1997-98"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Luke",
+    "Last Name": "Williams",
+    "Full Name": "Luke Williams",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "G",
+    "Hometown": "Mattoon, Ill.",
+    "High School": "Shiloh",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Mattoon, Ill.",
+    "lat": 39.4842821,
+    "lon": -88.3773279,
+    "is_illinois": true
   }
 }

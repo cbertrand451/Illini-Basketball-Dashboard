@@ -6,12 +6,24 @@
     "1954-55",
     "1955-56"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Phil",
+    "Last Name": "Judson",
+    "Full Name": "Phil Judson",
+    "Ht./Wt.": "6-2 / 165",
+    "Position": "F",
+    "Hometown": "Hebron, Ill.",
+    "High School": "Hebron",
+    "Height": "6-2",
+    "Weight": "165",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Hebron, Ill.",
+    "lat": 42.4716853,
+    "lon": -88.432318,
+    "is_illinois": true
   }
 }

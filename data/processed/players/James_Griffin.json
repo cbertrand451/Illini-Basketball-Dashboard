@@ -7,12 +7,24 @@
     "1980-81",
     "1981-82"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "13",
+    "First Name": "James",
+    "Last Name": "Griffin",
+    "Full Name": "James Griffin",
+    "Ht./Wt.": "6-10 / 205",
+    "Position": "C",
+    "Hometown": "Grandview, Texas",
+    "High School": "Dunbar",
+    "Height": "6-10",
+    "Weight": "205",
+    "Height Inches": 82
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Grandview, Texas",
+    "lat": 32.2666506,
+    "lon": -97.1785429,
     "is_illinois": false
   }
 }

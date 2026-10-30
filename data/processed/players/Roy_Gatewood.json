@@ -6,12 +6,24 @@
     "1948-49",
     "1949-50"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "8",
+    "First Name": "Roy",
+    "Last Name": "Gatewood",
+    "Full Name": "Roy Gatewood",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "F",
+    "Hometown": "Salem, Ill.",
+    "High School": "Salem",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Salem, Ill.",
+    "lat": 38.6269929,
+    "lon": -88.9456158,
+    "is_illinois": true
   }
 }

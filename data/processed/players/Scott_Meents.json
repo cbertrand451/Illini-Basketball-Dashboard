@@ -7,12 +7,24 @@
     "1984-85",
     "1985-86"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Scott",
+    "Last Name": "Meents",
+    "Full Name": "Scott Meents",
+    "Ht./Wt.": "6-10 / 230",
+    "Position": "F",
+    "Hometown": "Kankakee, Ill.",
+    "High School": "Herscher",
+    "Height": "6-10",
+    "Weight": "230",
+    "Height Inches": 82
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Kankakee, Ill.",
+    "lat": 41.1253903,
+    "lon": -87.848682,
+    "is_illinois": true
   }
 }

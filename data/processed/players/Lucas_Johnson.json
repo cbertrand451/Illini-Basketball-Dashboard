@@ -7,12 +7,24 @@
     "2000-01",
     "2001-02"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Lucas",
+    "Last Name": "Johnson",
+    "Full Name": "Lucas Johnson",
+    "Ht./Wt.": "6-8 / 230",
+    "Position": "F",
+    "Hometown": "Des Plaines, Ill.",
+    "High School": "Maine West",
+    "Height": "6-8",
+    "Weight": "230",
+    "Height Inches": 80
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Des Plaines, Ill.",
+    "lat": 42.0415823,
+    "lon": -87.8873916,
+    "is_illinois": true
   }
 }

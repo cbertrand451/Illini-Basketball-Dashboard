@@ -5,7 +5,13 @@
     "1947-48",
     "1949-50"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Cliff",
+    "Last Name": "Fulton",
+    "Full Name": "Cliff Fulton",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

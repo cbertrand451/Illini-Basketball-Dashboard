@@ -7,12 +7,24 @@
     "2001-02",
     "2002-03"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "42",
+    "First Name": "Clayton",
+    "Last Name": "Thomas",
+    "Full Name": "Clayton Thomas",
+    "Ht./Wt.": "6-6 / 210",
+    "Position": "F",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Larkin",
+    "Height": "6-6",
+    "Weight": "210",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
   }
 }

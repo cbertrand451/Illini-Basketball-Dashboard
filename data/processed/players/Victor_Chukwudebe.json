@@ -7,12 +7,24 @@
     "1998-99",
     "1999-00"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "00",
+    "First Name": "Victor",
+    "Last Name": "Chukwudebe",
+    "Full Name": "Victor Chukwudebe",
+    "Ht./Wt.": "6-7 / 230",
+    "Position": "F",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Lanphier",
+    "Height": "6-7",
+    "Weight": "230",
+    "Height Inches": 79
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
   }
 }

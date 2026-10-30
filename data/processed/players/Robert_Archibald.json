@@ -7,12 +7,24 @@
     "2000-01",
     "2001-02"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Robert",
+    "Last Name": "Archibald",
+    "Full Name": "Robert Archibald",
+    "Ht./Wt.": "6-11 / 250",
+    "Position": "F",
+    "Hometown": "Ballwin, Mo.",
+    "High School": "Lafayette",
+    "Height": "6-11",
+    "Weight": "250",
+    "Height Inches": 83
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Ballwin, Mo.",
+    "lat": 38.5961694,
+    "lon": -90.5387318,
     "is_illinois": false
   }
 }

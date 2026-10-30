@@ -4,12 +4,24 @@
   "seasons": [
     "1980-81"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Sherrod",
+    "Last Name": "Arnold",
+    "Full Name": "Sherrod Arnold",
+    "Ht./Wt.": "5-11 / 150",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Phillips",
+    "Height": "5-11",
+    "Weight": "150",
+    "Height Inches": 71
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

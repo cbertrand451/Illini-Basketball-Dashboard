@@ -6,12 +6,24 @@
     "1950-51",
     "1951-52"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "35",
+    "First Name": "Ren",
+    "Last Name": "Alde",
+    "Full Name": "Ren Alde",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Pana, Ill.",
+    "High School": "Pana",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Pana, Ill.",
+    "lat": 39.3889311,
+    "lon": -89.0800809,
+    "is_illinois": true
   }
 }

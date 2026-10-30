@@ -4,12 +4,23 @@
   "seasons": [
     "1976-77"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Jeff",
+    "Last Name": "Carter",
+    "Full Name": "Jeff Carter",
+    "Ht./Wt.": "6-4 / 175",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "St. Ignatius",
+    "Height": "6-4",
+    "Weight": "175",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

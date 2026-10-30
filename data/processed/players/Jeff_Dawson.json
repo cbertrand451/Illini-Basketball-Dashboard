@@ -5,12 +5,24 @@
     "1972-73",
     "1973-74"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Jeff",
+    "Last Name": "Dawson",
+    "Full Name": "Jeff Dawson",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "G",
+    "Hometown": "Oak Park, Ill.",
+    "High School": "Downers Grove North",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Oak Park, Ill.",
+    "lat": 41.8878145,
+    "lon": -87.7887615,
+    "is_illinois": true
   }
 }

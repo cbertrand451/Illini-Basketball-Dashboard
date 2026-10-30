@@ -4,12 +4,24 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Dean",
+    "Last Name": "Meador",
+    "Full Name": "Dean Meador",
+    "Ht./Wt.": "5-8 / 140",
+    "Position": "F",
+    "Hometown": "Patoka, Ill.",
+    "High School": "Centralia",
+    "Height": "5-8",
+    "Weight": "140",
+    "Height Inches": 68
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Patoka, Ill.",
+    "lat": 38.7553259,
+    "lon": -89.0953417,
+    "is_illinois": true
   }
 }

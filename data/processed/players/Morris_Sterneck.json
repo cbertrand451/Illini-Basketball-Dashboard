@@ -6,12 +6,24 @@
     "1953-54",
     "1954-55"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "7",
+    "First Name": "Morris",
+    "Last Name": "Sterneck",
+    "Full Name": "Morris Sterneck",
+    "Ht./Wt.": "6-1 / 175",
+    "Position": "G",
+    "Hometown": "Salem, Ill.",
+    "High School": "Salem",
+    "Height": "6-1",
+    "Weight": "175",
+    "Height Inches": 73
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Salem, Ill.",
+    "lat": 38.6269929,
+    "lon": -88.9456158,
+    "is_illinois": true
   }
 }

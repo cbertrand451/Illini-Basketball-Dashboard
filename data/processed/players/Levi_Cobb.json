@@ -7,12 +7,24 @@
     "1978-79",
     "1979-80"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "32",
+    "First Name": "Levi",
+    "Last Name": "Cobb",
+    "Full Name": "Levi Cobb",
+    "Ht./Wt.": "6-6 / 205",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Morgan Park",
+    "Height": "6-6",
+    "Weight": "205",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

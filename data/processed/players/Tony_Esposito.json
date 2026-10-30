@@ -4,7 +4,13 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Tony",
+    "Last Name": "Esposito",
+    "Full Name": "Tony Esposito",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

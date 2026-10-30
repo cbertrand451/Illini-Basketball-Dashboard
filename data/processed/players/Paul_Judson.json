@@ -6,12 +6,24 @@
     "1954-55",
     "1955-56"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "34",
+    "First Name": "Paul",
+    "Last Name": "Judson",
+    "Full Name": "Paul Judson",
+    "Ht./Wt.": "6-3 / 170",
+    "Position": "G",
+    "Hometown": "Hebron, Ill.",
+    "High School": "Hebron",
+    "Height": "6-3",
+    "Weight": "170",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Hebron, Ill.",
+    "lat": 42.4716853,
+    "lon": -88.432318,
+    "is_illinois": true
   }
 }

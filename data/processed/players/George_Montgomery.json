@@ -7,12 +7,24 @@
     "1983-84",
     "1984-85"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "23",
+    "First Name": "George",
+    "Last Name": "Montgomery",
+    "Full Name": "George Montgomery",
+    "Ht./Wt.": "6-9 / 235",
+    "Position": "C",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Corliss",
+    "Height": "6-9",
+    "Weight": "235",
+    "Height Inches": 81
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

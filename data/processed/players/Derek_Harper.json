@@ -6,12 +6,24 @@
     "1981-82",
     "1982-83"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "12",
+    "First Name": "Derek",
+    "Last Name": "Harper",
+    "Full Name": "Derek Harper",
+    "Ht./Wt.": "6-4 / 185",
+    "Position": "G",
+    "Hometown": "West Palm Beach, Fla.",
+    "High School": "North Shore",
+    "Height": "6-4",
+    "Weight": "185",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "West Palm Beach, Fla.",
+    "lat": 26.715364,
+    "lon": -80.0532942,
     "is_illinois": false
   }
 }

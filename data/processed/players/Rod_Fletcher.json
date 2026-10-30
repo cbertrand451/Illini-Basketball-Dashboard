@@ -6,12 +6,24 @@
     "1950-51",
     "1951-52"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "37",
+    "First Name": "Rod",
+    "Last Name": "Fletcher",
+    "Full Name": "Rod Fletcher",
+    "Ht./Wt.": "6-4 / 195",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Champaign",
+    "Height": "6-4",
+    "Weight": "195",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
   }
 }

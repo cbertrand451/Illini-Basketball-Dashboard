@@ -7,12 +7,24 @@
     "1995-96",
     "1996-97"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "22",
+    "First Name": "Kiwane",
+    "Last Name": "Garris",
+    "Full Name": "Kiwane Garris",
+    "Ht./Wt.": "6-2 / 185",
+    "Position": "G",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Westinghouse",
+    "Height": "6-2",
+    "Weight": "185",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

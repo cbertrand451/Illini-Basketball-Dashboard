@@ -4,12 +4,24 @@
   "seasons": [
     "1963-64"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "53",
+    "First Name": "George",
+    "Last Name": "Johnson",
+    "Full Name": "George Johnson",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F",
+    "Hometown": "Elmhurst, Ill.",
+    "High School": "York",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Elmhurst, Ill.",
+    "lat": 41.8994745,
+    "lon": -87.9403418,
+    "is_illinois": true
   }
 }

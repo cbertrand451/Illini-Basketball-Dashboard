@@ -7,12 +7,24 @@
     "1978-79",
     "1979-80"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Rob",
+    "Last Name": "Judson",
+    "Full Name": "Rob Judson",
+    "Ht./Wt.": "6-2 / 175",
+    "Position": "G",
+    "Hometown": "Zion, Ill.",
+    "High School": "Zion-Benton",
+    "Height": "6-2",
+    "Weight": "175",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Zion, Ill.",
+    "lat": 42.4501169,
+    "lon": -87.8337753,
+    "is_illinois": true
   }
 }

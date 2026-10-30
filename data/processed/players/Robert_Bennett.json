@@ -7,12 +7,24 @@
     "1993-94",
     "1994-95"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "30",
+    "First Name": "Robert",
+    "Last Name": "Bennett",
+    "Full Name": "Robert Bennett",
+    "Ht./Wt.": "6-6 / 200",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "Julian",
+    "Height": "6-6",
+    "Weight": "200",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

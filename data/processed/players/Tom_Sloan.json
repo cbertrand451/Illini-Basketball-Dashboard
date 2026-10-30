@@ -5,7 +5,13 @@
     "1988-89",
     "1991-92"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Tom",
+    "Last Name": "Sloan",
+    "Full Name": "Tom Sloan",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

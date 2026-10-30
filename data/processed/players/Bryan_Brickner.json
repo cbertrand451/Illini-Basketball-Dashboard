@@ -5,7 +5,13 @@
     "1986-87",
     "1987-88"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Bryan",
+    "Last Name": "Brickner",
+    "Full Name": "Bryan Brickner",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

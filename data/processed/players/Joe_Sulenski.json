@@ -4,7 +4,14 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Joe",
+    "Last Name": "Sulenski",
+    "Full Name": "Joe Sulenski",
+    "Ht./Wt.": "- /",
+    "Position": "F",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

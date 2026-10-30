@@ -7,12 +7,24 @@
     "1948-49",
     "1949-50"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "14",
+    "First Name": "Burdette",
+    "Last Name": "Thurlby",
+    "Full Name": "Burdette Thurlby",
+    "Ht./Wt.": "6-2 / 180",
+    "Position": "G",
+    "Hometown": "Kirkland, Ill.",
+    "High School": "Kirkland",
+    "Height": "6-2",
+    "Weight": "180",
+    "Height Inches": 74
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Kirkland, Ill.",
+    "lat": 42.0925258,
+    "lon": -88.8512063,
+    "is_illinois": true
   }
 }

@@ -4,12 +4,24 @@
   "seasons": [
     "1946-47"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "25",
+    "First Name": "Gene",
+    "Last Name": "Vance",
+    "Full Name": "Gene Vance",
+    "Ht./Wt.": "6-3 / 195",
+    "Position": "G",
+    "Hometown": "Clinton, Ill.",
+    "High School": "Clinton",
+    "Height": "6-3",
+    "Weight": "195",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Clinton, Ill.",
+    "lat": 38.5896187,
+    "lon": -89.420064,
+    "is_illinois": true
   }
 }

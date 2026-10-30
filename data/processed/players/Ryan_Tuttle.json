@@ -5,7 +5,13 @@
     "1989-90",
     "1990-91"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Ryan",
+    "Last Name": "Tuttle",
+    "Full Name": "Ryan Tuttle",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

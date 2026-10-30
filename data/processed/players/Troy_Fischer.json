@@ -6,7 +6,13 @@
     "1990-91",
     "1991-92"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Troy",
+    "Last Name": "Fischer",
+    "Full Name": "Troy Fischer",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

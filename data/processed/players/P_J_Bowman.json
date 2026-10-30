@@ -5,12 +5,24 @@
     "1988-89",
     "1989-90"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "10",
+    "First Name": "P.J.",
+    "Last Name": "Bowman",
+    "Full Name": "P.J. Bowman",
+    "Ht./Wt.": "5-10 / 175",
+    "Position": "G",
+    "Hometown": "Champaign, Ill.",
+    "High School": "Centennial",
+    "Height": "5-10",
+    "Weight": "175",
+    "Height Inches": 70
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Champaign, Ill.",
+    "lat": 40.1164841,
+    "lon": -88.2430932,
+    "is_illinois": true
   }
 }

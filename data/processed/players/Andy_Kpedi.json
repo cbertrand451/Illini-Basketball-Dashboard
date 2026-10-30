@@ -5,12 +5,24 @@
     "1989-90",
     "1990-91"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "50",
+    "First Name": "Andy",
+    "Last Name": "Kpedi",
+    "Full Name": "Andy Kpedi",
+    "Ht./Wt.": "6-7 / 215",
+    "Position": "C",
+    "Hometown": "Warri, Nigeria",
+    "High School": "Kankakee JC",
+    "Height": "6-7",
+    "Weight": "215",
+    "Height Inches": 79
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Warri, Nigeria",
+    "lat": 5.5186186,
+    "lon": 5.7480196,
     "is_illinois": false
   }
 }

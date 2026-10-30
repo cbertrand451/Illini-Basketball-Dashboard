@@ -5,12 +5,24 @@
     "1991-92",
     "1992-93"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Marc",
+    "Last Name": "Davidson",
+    "Full Name": "Marc Davidson",
+    "Ht./Wt.": "6-6 / 220",
+    "Position": "F",
+    "Hometown": "Minooka, Ill.",
+    "High School": "Aurora Christian",
+    "Height": "6-6",
+    "Weight": "220",
+    "Height Inches": 78
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Minooka, Ill.",
+    "lat": 41.4553084,
+    "lon": -88.2617305,
+    "is_illinois": true
   }
 }

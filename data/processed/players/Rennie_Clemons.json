@@ -6,12 +6,24 @@
     "1991-92",
     "1992-93"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "11",
+    "First Name": "Rennie",
+    "Last Name": "Clemons",
+    "Full Name": "Rennie Clemons",
+    "Ht./Wt.": "6-0 / 185",
+    "Position": "G",
+    "Hometown": "Springfield, Ill.",
+    "High School": "Calvary",
+    "Height": "6-0",
+    "Weight": "185",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Springfield, Ill.",
+    "lat": 39.7990175,
+    "lon": -89.6439575,
+    "is_illinois": true
   }
 }

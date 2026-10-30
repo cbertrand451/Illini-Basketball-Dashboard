@@ -5,12 +5,23 @@
     "1986-87",
     "1987-88"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "44",
+    "First Name": "Phil",
+    "Last Name": "Kunz",
+    "Full Name": "Phil Kunz",
+    "Ht./Wt.": "6- / 230",
+    "Position": "F",
+    "Hometown": "Carlyle, Ill.",
+    "High School": "Carlyle",
+    "Height": "6-",
+    "Weight": "230"
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Carlyle, Ill.",
+    "lat": 38.6103264,
+    "lon": -89.3725796,
+    "is_illinois": true
   }
 }

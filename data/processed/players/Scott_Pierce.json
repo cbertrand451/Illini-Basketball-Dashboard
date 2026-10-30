@@ -5,12 +5,24 @@
     "1990-91",
     "1991-92"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Scott",
+    "Last Name": "Pierce",
+    "Full Name": "Scott Pierce",
+    "Ht./Wt.": "6-8 / 200",
+    "Position": "F",
+    "Hometown": "Euless, Texas",
+    "High School": "Trinity",
+    "Height": "6-8",
+    "Weight": "200",
+    "Height Inches": 80
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Euless, Texas",
+    "lat": 32.8370727,
+    "lon": -97.0819541,
     "is_illinois": false
   }
 }

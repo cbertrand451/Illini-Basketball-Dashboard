@@ -7,12 +7,24 @@
     "1984-85",
     "1985-86"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "24",
+    "First Name": "Efrem",
+    "Last Name": "Winters",
+    "Full Name": "Efrem Winters",
+    "Ht./Wt.": "6-9 / 235",
+    "Position": "F",
+    "Hometown": "Chicago, Ill.",
+    "High School": "King",
+    "Height": "6-9",
+    "Weight": "235",
+    "Height Inches": 81
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Chicago, Ill.",
+    "lat": 41.8755616,
+    "lon": -87.6244212,
+    "is_illinois": true
   }
 }

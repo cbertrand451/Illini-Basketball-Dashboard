@@ -4,7 +4,13 @@
   "seasons": [
     "1992-93"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Bryan",
+    "Last Name": "Rice",
+    "Full Name": "Bryan Rice",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

@@ -4,12 +4,24 @@
   "seasons": [
     "1956-57"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "40",
+    "First Name": "Lloyd",
+    "Last Name": "Eggers",
+    "Full Name": "Lloyd Eggers",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F",
+    "Hometown": "Toledo, Ill.",
+    "High School": "Cumberland",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Toledo, Ill.",
+    "lat": 39.2736491,
+    "lon": -88.2436523,
+    "is_illinois": true
   }
 }

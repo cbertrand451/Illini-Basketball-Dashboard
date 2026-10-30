@@ -6,12 +6,23 @@
     "1946-47",
     "1947-48"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Bob",
+    "Last Name": "Menke",
+    "Full Name": "Bob Menke",
+    "Ht./Wt.": "6-3 / 185",
+    "Position": "F/C",
+    "Hometown": "Elgin, Ill.",
+    "High School": "Elgin",
+    "Height": "6-3",
+    "Weight": "185",
+    "Height Inches": 75
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "Elgin, Ill.",
+    "lat": 42.03726,
+    "lon": -88.2810994,
+    "is_illinois": true
   }
 }

@@ -7,12 +7,24 @@
     "1986-87",
     "1987-88"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "21",
+    "First Name": "Glynn",
+    "Last Name": "Blackwell",
+    "Full Name": "Glynn Blackwell",
+    "Ht./Wt.": "6-4 / 180",
+    "Position": "G",
+    "Hometown": "Highland Park, Mich.",
+    "High School": "Highland Park",
+    "Height": "6-4",
+    "Weight": "180",
+    "Height Inches": 76
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
+    "hometown": "Highland Park, Mich.",
+    "lat": 42.4055981,
+    "lon": -83.0965829,
     "is_illinois": false
   }
 }

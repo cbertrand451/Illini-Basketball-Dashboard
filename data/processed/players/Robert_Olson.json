@@ -4,12 +4,24 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {},
+  "header": {
+    "Jersey Number": "33",
+    "First Name": "Robert",
+    "Last Name": "Olson",
+    "Full Name": "Robert Olson",
+    "Ht./Wt.": "6-0 / 180",
+    "Position": "G",
+    "Hometown": "St. Elmo, Ill.",
+    "High School": "St. Elmo",
+    "Height": "6-0",
+    "Weight": "180",
+    "Height Inches": 72
+  },
   "action photos": [],
   "geocode": {
-    "hometown": null,
-    "lat": null,
-    "lon": null,
-    "is_illinois": false
+    "hometown": "St. Elmo, Ill.",
+    "lat": 39.0272663,
+    "lon": -88.8481139,
+    "is_illinois": true
   }
 }

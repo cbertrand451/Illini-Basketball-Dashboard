@@ -6,7 +6,13 @@
     "1989-90",
     "1990-91"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Pat",
+    "Last Name": "Kennedy",
+    "Full Name": "Pat Kennedy",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,

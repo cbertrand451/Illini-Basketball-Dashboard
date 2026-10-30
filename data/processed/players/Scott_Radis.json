@@ -5,7 +5,13 @@
     "1989-90",
     "1990-91"
   ],
-  "header": {},
+  "header": {
+    "First Name": "Scott",
+    "Last Name": "Radis",
+    "Full Name": "Scott Radis",
+    "Ht./Wt.": "- /",
+    "Height": "-"
+  },
   "action photos": [],
   "geocode": {
     "hometown": null,
