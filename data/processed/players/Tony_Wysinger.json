@@ -1,30 +1,18 @@
 {
   "name": "Tony Wysinger",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/tony-wysinger/5184",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/tony-wysinger/5136",
   "seasons": [
     "1983-84",
     "1984-85",
     "1985-86",
     "1986-87"
   ],
-  "header": {
-    "Jersey Number": "10",
-    "First Name": "Tony",
-    "Last Name": "Wysinger",
-    "Full Name": "Tony Wysinger",
-    "Ht./Wt.": "5-10 / 155",
-    "Position": "G",
-    "Hometown": "Peoria, Ill.",
-    "High School": "Central",
-    "Height": "5-10",
-    "Weight": "155",
-    "Height Inches": 70
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Peoria, Ill.",
-    "lat": 40.6938609,
-    "lon": -89.5891008,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

@@ -4,13 +4,7 @@
   "seasons": [
     "1947-48"
   ],
-  "header": {
-    "First Name": "Tom",
-    "Last Name": "Gallagher",
-    "Full Name": "Tom Gallagher",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

@@ -1,29 +1,17 @@
 {
   "name": "Bill Mohlenbrock",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-mohlenbrock/5600",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-mohlenbrock/5560",
   "seasons": [
     "1958-59",
     "1959-60",
     "1960-61"
   ],
-  "header": {
-    "Jersey Number": "51",
-    "First Name": "Bill",
-    "Last Name": "Mohlenbrock",
-    "Full Name": "Bill Mohlenbrock",
-    "Ht./Wt.": "6-3 / 180",
-    "Position": "F",
-    "Hometown": "Murphysboro, Ill.",
-    "High School": "Murphysboro",
-    "Height": "6-3",
-    "Weight": "180",
-    "Height Inches": 75
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Murphysboro, Ill.",
-    "lat": 37.7644952,
-    "lon": -89.3350888,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

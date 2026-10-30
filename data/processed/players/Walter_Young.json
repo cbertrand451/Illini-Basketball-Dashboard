@@ -4,13 +4,7 @@
   "seasons": [
     "2001-02"
   ],
-  "header": {
-    "First Name": "Walter",
-    "Last Name": "Young",
-    "Full Name": "Walter Young",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

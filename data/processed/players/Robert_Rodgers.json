@@ -4,13 +4,7 @@
   "seasons": [
     "1994-95"
   ],
-  "header": {
-    "First Name": "Robert",
-    "Last Name": "Rodgers",
-    "Full Name": "Robert Rodgers",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

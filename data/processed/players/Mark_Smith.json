@@ -1,6 +1,6 @@
 {
   "name": "Mark Smith",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/mark-smith/5282",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/mark-smith/7448",
   "seasons": [
     "1977-78",
     "1978-79",
@@ -8,24 +8,12 @@
     "1980-81",
     "2017-18"
   ],
-  "header": {
-    "Jersey Number": "42",
-    "First Name": "Mark",
-    "Last Name": "Smith",
-    "Full Name": "Mark Smith",
-    "Ht./Wt.": "6-8 / 215",
-    "Position": "F",
-    "Hometown": "Peoria, Ill.",
-    "High School": "Richwoods",
-    "Height": "6-8",
-    "Weight": "215",
-    "Height Inches": 80
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Peoria, Ill.",
-    "lat": 40.6938609,
-    "lon": -89.5891008,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

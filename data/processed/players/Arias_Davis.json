@@ -1,28 +1,16 @@
 {
   "name": "Arias Davis",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/arias-davis/4909",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/arias-davis/4895",
   "seasons": [
     "1997-98",
     "1998-99"
   ],
-  "header": {
-    "Jersey Number": "3",
-    "First Name": "Arias",
-    "Last Name": "Davis",
-    "Full Name": "Arias Davis",
-    "Ht./Wt.": "6-2 / 180",
-    "Position": "G",
-    "Hometown": "Waycross, Ga.",
-    "High School": "Ware County",
-    "Height": "6-2",
-    "Weight": "180",
-    "Height Inches": 74
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Waycross, Ga.",
-    "lat": 31.2135511,
-    "lon": -82.3540178,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

@@ -4,13 +4,7 @@
   "seasons": [
     "1981-82"
   ],
-  "header": {
-    "First Name": "Scott",
-    "Last Name": "Palmer",
-    "Full Name": "Scott Palmer",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

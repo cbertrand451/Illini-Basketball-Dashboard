@@ -1,6 +1,6 @@
 {
   "name": "Bob Starnes",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-starnes/5579",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bob-starnes/5529",
   "seasons": [
     "1959-60",
     "1960-61",
@@ -8,24 +8,12 @@
     "1962-63",
     "1987-88"
   ],
-  "header": {
-    "Jersey Number": "32",
-    "First Name": "Bob",
-    "Last Name": "Starnes",
-    "Full Name": "Bob Starnes",
-    "Ht./Wt.": "6-4 / 180",
-    "Position": "G",
-    "Hometown": "Chicago, Ill.",
-    "High School": "Gage Park (Ill.)",
-    "Height": "6-4",
-    "Weight": "180",
-    "Height Inches": 76
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Chicago, Ill.",
-    "lat": 41.8755616,
-    "lon": -87.6244212,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

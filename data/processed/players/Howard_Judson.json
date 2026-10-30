@@ -4,21 +4,12 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {
-    "First Name": "Howard",
-    "Last Name": "Judson",
-    "Full Name": "Howard Judson",
-    "Ht./Wt.": "- /",
-    "Position": "F",
-    "Hometown": "Hebron, Ill.",
-    "High School": "Hebron",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Hebron, Ill.",
-    "lat": 42.4716853,
-    "lon": -88.432318,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

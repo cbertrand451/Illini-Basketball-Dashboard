@@ -1,28 +1,16 @@
 {
   "name": "Craig Tucker",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/craig-tucker/5230",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/craig-tucker/5216",
   "seasons": [
     "1980-81",
     "1981-82"
   ],
-  "header": {
-    "Jersey Number": "10",
-    "First Name": "Craig",
-    "Last Name": "Tucker",
-    "Full Name": "Craig Tucker",
-    "Ht./Wt.": "6-1 / 175",
-    "Position": "G",
-    "Hometown": "Flint, Mich.",
-    "High School": "Northern",
-    "Height": "6-1",
-    "Weight": "175",
-    "Height Inches": 73
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Flint, Mich.",
-    "lat": 43.0161693,
-    "lon": -83.6900211,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

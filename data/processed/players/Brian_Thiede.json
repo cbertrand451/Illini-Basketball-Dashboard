@@ -4,13 +4,7 @@
   "seasons": [
     "1993-94"
   ],
-  "header": {
-    "First Name": "Brian",
-    "Last Name": "Thiede",
-    "Full Name": "Brian Thiede",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

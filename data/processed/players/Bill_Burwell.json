@@ -1,29 +1,17 @@
 {
   "name": "Bill Burwell",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-burwell/5551",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-burwell/5521",
   "seasons": [
     "1960-61",
     "1961-62",
     "1962-63"
   ],
-  "header": {
-    "Jersey Number": "25",
-    "First Name": "Bill",
-    "Last Name": "Burwell",
-    "Full Name": "Bill Burwell",
-    "Ht./Wt.": "6-8 / 225",
-    "Position": "C",
-    "Hometown": "Brooklyn, N.Y.",
-    "High School": "Boys",
-    "Height": "6-8",
-    "Weight": "225",
-    "Height Inches": 80
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Brooklyn, N.Y.",
-    "lat": 40.6526006,
-    "lon": -73.9497211,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

@@ -4,14 +4,7 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {
-    "First Name": "Paul",
-    "Last Name": "Schnackenberg",
-    "Full Name": "Paul Schnackenberg",
-    "Ht./Wt.": "- /",
-    "Position": "F",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

@@ -1,17 +1,11 @@
 {
   "name": "Bryan Brickner",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/bryan-brickner/5151",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bryan-brickner/5134",
   "seasons": [
     "1986-87",
     "1987-88"
   ],
-  "header": {
-    "First Name": "Bryan",
-    "Last Name": "Brickner",
-    "Full Name": "Bryan Brickner",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

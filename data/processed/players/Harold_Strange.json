@@ -4,13 +4,7 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {
-    "First Name": "Harold",
-    "Last Name": "Strange",
-    "Full Name": "Harold Strange",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

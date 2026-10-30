@@ -4,13 +4,7 @@
   "seasons": [
     "1998-99"
   ],
-  "header": {
-    "First Name": "Dave",
-    "Last Name": "Wilkinson",
-    "Full Name": "Dave Wilkinson",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

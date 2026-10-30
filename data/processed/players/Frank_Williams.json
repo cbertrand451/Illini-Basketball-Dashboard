@@ -1,30 +1,18 @@
 {
   "name": "Frank Williams",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/frank-williams/4902",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/frank-williams/4859",
   "seasons": [
     "1998-99",
     "1999-00",
     "2000-01",
     "2001-02"
   ],
-  "header": {
-    "Jersey Number": "30",
-    "First Name": "Frank",
-    "Last Name": "Williams",
-    "Full Name": "Frank Williams",
-    "Ht./Wt.": "6-3 / 205",
-    "Position": "G",
-    "Hometown": "Peoria, Ill.",
-    "High School": "Manual",
-    "Height": "6-3",
-    "Weight": "205",
-    "Height Inches": 75
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Peoria, Ill.",
-    "lat": 40.6938609,
-    "lon": -89.5891008,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

@@ -4,13 +4,7 @@
   "seasons": [
     "1960-61"
   ],
-  "header": {
-    "First Name": "Butch",
-    "Last Name": "Jones",
-    "Full Name": "Butch Jones",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

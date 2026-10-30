@@ -4,14 +4,7 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {
-    "First Name": "Roger",
-    "Last Name": "Little",
-    "Full Name": "Roger Little",
-    "Ht./Wt.": "- /",
-    "Position": "G",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

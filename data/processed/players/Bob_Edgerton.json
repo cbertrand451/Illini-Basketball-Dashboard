@@ -4,13 +4,7 @@
   "seasons": [
     "1994-95"
   ],
-  "header": {
-    "First Name": "Bob",
-    "Last Name": "Edgerton",
-    "Full Name": "Bob Edgerton",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

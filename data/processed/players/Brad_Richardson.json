@@ -4,24 +4,12 @@
   "seasons": [
     "1968-69"
   ],
-  "header": {
-    "Jersey Number": "20",
-    "First Name": "Brad",
-    "Last Name": "Richardson",
-    "Full Name": "Brad Richardson",
-    "Ht./Wt.": "6-4 / 210",
-    "Position": "F",
-    "Hometown": "Olney, Ill.",
-    "High School": "East Richland",
-    "Height": "6-4",
-    "Weight": "210",
-    "Height Inches": 76
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Olney, Ill.",
-    "lat": 38.7296538,
-    "lon": -88.0846891,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

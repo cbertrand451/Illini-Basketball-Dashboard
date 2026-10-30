@@ -1,28 +1,16 @@
 {
   "name": "Brian Carlwell",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/brian-carlwell/4785",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/brian-carlwell/4779",
   "seasons": [
     "2006-07",
     "2007-08"
   ],
-  "header": {
-    "Jersey Number": "33",
-    "First Name": "Brian",
-    "Last Name": "Carlwell",
-    "Full Name": "Brian Carlwell",
-    "Ht./Wt.": "6-11 / 265",
-    "Position": "C",
-    "Hometown": "Maywood, Ill.",
-    "High School": "Proviso East",
-    "Height": "6-11",
-    "Weight": "265",
-    "Height Inches": 83
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Maywood, Ill.",
-    "lat": 41.8789942,
-    "lon": -87.8436412,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

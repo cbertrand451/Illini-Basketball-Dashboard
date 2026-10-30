@@ -1,28 +1,16 @@
 {
   "name": "Phil Flanigan",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/phil-flanigan/5607",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/phil-flanigan/5598",
   "seasons": [
     "1957-58",
     "1958-59"
   ],
-  "header": {
-    "Jersey Number": "42",
-    "First Name": "Phil",
-    "Last Name": "Flanigan",
-    "Full Name": "Phil Flanigan",
-    "Ht./Wt.": "5-8 / 140",
-    "Position": "G",
-    "Hometown": "Tuscola, Ill.",
-    "High School": "Tuscola",
-    "Height": "5-8",
-    "Weight": "140",
-    "Height Inches": 68
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Tuscola, Ill.",
-    "lat": 39.7998585,
-    "lon": -88.2884552,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

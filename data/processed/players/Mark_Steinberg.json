@@ -4,13 +4,7 @@
   "seasons": [
     "1988-89"
   ],
-  "header": {
-    "First Name": "Mark",
-    "Last Name": "Steinberg",
-    "Full Name": "Mark Steinberg",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

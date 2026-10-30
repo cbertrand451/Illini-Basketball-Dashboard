@@ -4,13 +4,7 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {
-    "First Name": "Scott",
-    "Last Name": "Brunson",
-    "Full Name": "Scott Brunson",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

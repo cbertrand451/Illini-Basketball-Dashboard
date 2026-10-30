@@ -1,30 +1,18 @@
 {
   "name": "Damir Krupalija",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/damir-krupalija/4904",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/damir-krupalija/4861",
   "seasons": [
     "1998-99",
     "1999-00",
     "2000-01",
     "2001-02"
   ],
-  "header": {
-    "Jersey Number": "33",
-    "First Name": "Damir",
-    "Last Name": "Krupalija",
-    "Full Name": "Damir Krupalija",
-    "Ht./Wt.": "6-9 / 235",
-    "Position": "F",
-    "Hometown": "Rockford, Ill.",
-    "High School": "Boylan",
-    "Height": "6-9",
-    "Weight": "235",
-    "Height Inches": 81
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Rockford, Ill.",
-    "lat": 42.2713945,
-    "lon": -89.093966,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

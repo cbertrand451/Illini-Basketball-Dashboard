@@ -4,13 +4,7 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {
-    "First Name": "Jack",
-    "Last Name": "Pierce",
-    "Full Name": "Jack Pierce",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

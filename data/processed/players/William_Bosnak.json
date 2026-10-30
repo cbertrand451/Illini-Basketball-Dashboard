@@ -4,13 +4,7 @@
   "seasons": [
     "1954-55"
   ],
-  "header": {
-    "First Name": "William",
-    "Last Name": "Bosnak",
-    "Full Name": "William Bosnak",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

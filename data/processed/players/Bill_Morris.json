@@ -4,24 +4,12 @@
   "seasons": [
     "1971-72"
   ],
-  "header": {
-    "Jersey Number": "35",
-    "First Name": "Bill",
-    "Last Name": "Morris",
-    "Full Name": "Bill Morris",
-    "Ht./Wt.": "6-9 / 235",
-    "Position": "C",
-    "Hometown": "St. Louis, Mo.",
-    "High School": "Beaumont",
-    "Height": "6-9",
-    "Weight": "235",
-    "Height Inches": 81
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "St. Louis, Mo.",
-    "lat": 38.6254063,
-    "lon": -90.190009,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

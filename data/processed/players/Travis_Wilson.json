@@ -4,13 +4,7 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {
-    "First Name": "Travis",
-    "Last Name": "Wilson",
-    "Full Name": "Travis Wilson",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

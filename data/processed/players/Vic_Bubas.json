@@ -4,14 +4,7 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {
-    "First Name": "Vic",
-    "Last Name": "Bubas",
-    "Full Name": "Vic Bubas",
-    "Ht./Wt.": "- /",
-    "Position": "G",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

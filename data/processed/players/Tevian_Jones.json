@@ -4,25 +4,12 @@
   "seasons": [
     "2018-19"
   ],
-  "header": {
-    "Jersey Number": "5",
-    "First Name": "Tevian",
-    "Last Name": "Jones",
-    "Full Name": "Tevian Jones",
-    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2019/10/4/Jones_Tevian_Headshot_082519_2MJ0168.JPG?width=300",
-    "Ht./Wt.": "6-7 / 205",
-    "Position": "G",
-    "Hometown": "Chandler, Ariz.",
-    "High School": "Culver City (Calif.)",
-    "Height": "6-7",
-    "Weight": "205",
-    "Height Inches": 79
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Chandler, Ariz.",
-    "lat": 33.3062031,
-    "lon": -111.841185,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

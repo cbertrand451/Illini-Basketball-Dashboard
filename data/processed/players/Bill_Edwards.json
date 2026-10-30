@@ -1,6 +1,6 @@
 {
   "name": "Bill Edwards",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-edwards/5832",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/bill-edwards/5507",
   "seasons": [
     "1945-46",
     "1946-47",
@@ -8,24 +8,12 @@
     "1962-63",
     "1963-64"
   ],
-  "header": {
-    "Jersey Number": "32",
-    "First Name": "Bill",
-    "Last Name": "Edwards",
-    "Full Name": "Bill Edwards",
-    "Ht./Wt.": "6-2 / 185",
-    "Position": "G",
-    "Hometown": "Staunton, Ill.",
-    "High School": "Staunton",
-    "Height": "6-2",
-    "Weight": "185",
-    "Height Inches": 74
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Staunton, Ill.",
-    "lat": 39.0121862,
-    "lon": -89.7884869,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

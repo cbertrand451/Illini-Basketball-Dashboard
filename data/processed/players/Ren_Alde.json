@@ -1,29 +1,17 @@
 {
   "name": "Ren Alde",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/ren-alde/5744",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/ren-alde/5706",
   "seasons": [
     "1949-50",
     "1950-51",
     "1951-52"
   ],
-  "header": {
-    "Jersey Number": "35",
-    "First Name": "Ren",
-    "Last Name": "Alde",
-    "Full Name": "Ren Alde",
-    "Ht./Wt.": "6-2 / 180",
-    "Position": "G",
-    "Hometown": "Pana, Ill.",
-    "High School": "Pana",
-    "Height": "6-2",
-    "Weight": "180",
-    "Height Inches": 74
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Pana, Ill.",
-    "lat": 39.3889311,
-    "lon": -89.0800809,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

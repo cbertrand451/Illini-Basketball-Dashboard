@@ -1,30 +1,18 @@
 {
   "name": "Al Gosnell",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/al-gosnell/5630",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/al-gosnell/5574",
   "seasons": [
     "1956-57",
     "1957-58",
     "1958-59",
     "1959-60"
   ],
-  "header": {
-    "Jersey Number": "33",
-    "First Name": "Al",
-    "Last Name": "Gosnell",
-    "Full Name": "Al Gosnell",
-    "Ht./Wt.": "6-3 / 190",
-    "Position": "F",
-    "Hometown": "Lawrenceville, Ill.",
-    "High School": "Lawrenceville",
-    "Height": "6-3",
-    "Weight": "190",
-    "Height Inches": 75
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Lawrenceville, Ill.",
-    "lat": 38.7292138,
-    "lon": -87.6816927,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

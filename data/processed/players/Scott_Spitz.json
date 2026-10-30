@@ -1,17 +1,11 @@
 {
   "name": "Scott Spitz",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/scott-spitz/5090",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/scott-spitz/5063",
   "seasons": [
     "1989-90",
     "1990-91"
   ],
-  "header": {
-    "First Name": "Scott",
-    "Last Name": "Spitz",
-    "Full Name": "Scott Spitz",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

@@ -4,13 +4,7 @@
   "seasons": [
     "1993-94"
   ],
-  "header": {
-    "First Name": "Greg",
-    "Last Name": "Phillips",
-    "Full Name": "Greg Phillips",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

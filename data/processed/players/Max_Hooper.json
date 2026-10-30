@@ -1,29 +1,17 @@
 {
   "name": "Max Hooper",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/max-hooper/5709",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/max-hooper/5679",
   "seasons": [
     "1951-52",
     "1952-53",
     "1953-54"
   ],
-  "header": {
-    "Jersey Number": "47",
-    "First Name": "Max",
-    "Last Name": "Hooper",
-    "Full Name": "Max Hooper",
-    "Ht./Wt.": "6-5 / 195",
-    "Position": "F/C",
-    "Hometown": "Mt. Vernon, Ill.",
-    "High School": "Mt. Vernon",
-    "Height": "6-5",
-    "Weight": "195",
-    "Height Inches": 77
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Mt. Vernon, Ill.",
-    "lat": 38.3172715,
-    "lon": -88.9031201,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

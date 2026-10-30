@@ -1,6 +1,6 @@
 {
   "name": "Calvin Brock",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/calvin-brock/4812",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/calvin-brock/3328",
   "seasons": [
     "2004-05",
     "2005-06",
@@ -8,25 +8,12 @@
     "2007-08",
     "2008-09"
   ],
-  "header": {
-    "Jersey Number": "25",
-    "First Name": "Calvin",
-    "Last Name": "Brock",
-    "Full Name": "Calvin Brock",
-    "Image URL": "https://d1iubivivot1gj.cloudfront.net/images/2015/5/12/2361808.jpeg?width=300",
-    "Ht./Wt.": "6-5 / 200",
-    "Position": "G",
-    "Hometown": "Chicago, Ill.",
-    "High School": "Simeon",
-    "Height": "6-5",
-    "Weight": "200",
-    "Height Inches": 77
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Chicago, Ill.",
-    "lat": 41.8755616,
-    "lon": -87.6244212,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

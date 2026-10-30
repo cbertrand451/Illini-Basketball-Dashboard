@@ -4,24 +4,12 @@
   "seasons": [
     "1977-78"
   ],
-  "header": {
-    "Jersey Number": "41",
-    "First Name": "Mike",
-    "Last Name": "Jones",
-    "Full Name": "Mike Jones",
-    "Ht./Wt.": "6-4 / 185",
-    "Position": "G/F",
-    "Hometown": "Joliet, Ill.",
-    "High School": "Central",
-    "Height": "6-4",
-    "Weight": "185",
-    "Height Inches": 76
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Joliet, Ill.",
-    "lat": 41.5263603,
-    "lon": -88.0840212,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

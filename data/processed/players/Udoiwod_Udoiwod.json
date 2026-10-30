@@ -4,13 +4,7 @@
   "seasons": [
     "1996-97"
   ],
-  "header": {
-    "First Name": "Udoiwod",
-    "Last Name": "Udoiwod",
-    "Full Name": "Udoiwod Udoiwod",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

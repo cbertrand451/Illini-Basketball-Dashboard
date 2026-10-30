@@ -4,13 +4,7 @@
   "seasons": [
     "1945-46"
   ],
-  "header": {
-    "First Name": "Cal",
-    "Last Name": "Irvin",
-    "Full Name": "Cal Irvin",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

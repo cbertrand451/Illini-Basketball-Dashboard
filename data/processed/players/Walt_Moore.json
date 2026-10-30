@@ -4,21 +4,12 @@
   "seasons": [
     "1951-52"
   ],
-  "header": {
-    "First Name": "Walt",
-    "Last Name": "Moore",
-    "Full Name": "Walt Moore",
-    "Ht./Wt.": "- /",
-    "Position": "F",
-    "Hometown": "Mt. Vernon, Ill.",
-    "High School": "Mt. Vernon",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Mt. Vernon, Ill.",
-    "lat": 38.3172715,
-    "lon": -88.9031201,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

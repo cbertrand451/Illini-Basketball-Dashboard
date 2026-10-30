@@ -4,21 +4,12 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {
-    "First Name": "Don",
-    "Last Name": "Delaney",
-    "Full Name": "Don Delaney",
-    "Ht./Wt.": "- /",
-    "Position": "C",
-    "Hometown": "Grand Rapids, Mich.",
-    "High School": "Catholic Central",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Grand Rapids, Mich.",
-    "lat": 42.9632425,
-    "lon": -85.6678639,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

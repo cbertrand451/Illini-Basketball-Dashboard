@@ -4,13 +4,7 @@
   "seasons": [
     "1993-94"
   ],
-  "header": {
-    "First Name": "Mike",
-    "Last Name": "Shannon",
-    "Full Name": "Mike Shannon",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

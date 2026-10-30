@@ -4,13 +4,7 @@
   "seasons": [
     "1992-93"
   ],
-  "header": {
-    "First Name": "Matt",
-    "Last Name": "Griswold",
-    "Full Name": "Matt Griswold",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

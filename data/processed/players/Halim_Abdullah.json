@@ -4,24 +4,12 @@
   "seasons": [
     "1996-97"
   ],
-  "header": {
-    "Jersey Number": "5",
-    "First Name": "Halim",
-    "Last Name": "Abdullah",
-    "Full Name": "Halim Abdullah",
-    "Ht./Wt.": "5-9 / 155",
-    "Position": "G",
-    "Hometown": "Jersey City, N.J.",
-    "High School": "St. Anthony's",
-    "Height": "5-9",
-    "Weight": "155",
-    "Height Inches": 69
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Jersey City, N.J.",
-    "lat": 40.7215682,
-    "lon": -74.047455,
+    "hometown": null,
+    "lat": null,
+    "lon": null,
     "is_illinois": false
   }
 }

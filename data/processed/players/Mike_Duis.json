@@ -4,24 +4,12 @@
   "seasons": [
     "1991-92"
   ],
-  "header": {
-    "Jersey Number": "23",
-    "First Name": "Mike",
-    "Last Name": "Duis",
-    "Full Name": "Mike Duis",
-    "Ht./Wt.": "6-5 / 210",
-    "Position": "F",
-    "Hometown": "Crescent City, Ill.",
-    "High School": "Crescent-Iroquois",
-    "Height": "6-5",
-    "Weight": "210",
-    "Height Inches": 77
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Crescent City, Ill.",
-    "lat": 40.7700351,
-    "lon": -87.8589251,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

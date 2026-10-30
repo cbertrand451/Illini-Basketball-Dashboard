@@ -1,30 +1,18 @@
 {
   "name": "James Augustine",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/james-augustine/4846",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/james-augustine/4804",
   "seasons": [
     "2002-03",
     "2003-04",
     "2004-05",
     "2005-06"
   ],
-  "header": {
-    "Jersey Number": "40",
-    "First Name": "James",
-    "Last Name": "Augustine",
-    "Full Name": "James Augustine",
-    "Ht./Wt.": "6-10 / 235",
-    "Position": "F/C",
-    "Hometown": "Mokena, Ill.",
-    "High School": "Lincoln-Way Central",
-    "Height": "6-10",
-    "Weight": "235",
-    "Height Inches": 82
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Mokena, Ill.",
-    "lat": 41.5261437,
-    "lon": -87.8892189,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

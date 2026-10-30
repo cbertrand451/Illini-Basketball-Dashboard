@@ -1,28 +1,16 @@
 {
   "name": "Don Klusendorf",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/don-klusendorf/5210",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/don-klusendorf/5193",
   "seasons": [
     "1982-83",
     "1983-84"
   ],
-  "header": {
-    "Jersey Number": "31",
-    "First Name": "Don",
-    "Last Name": "Klusendorf",
-    "Full Name": "Don Klusendorf",
-    "Ht./Wt.": "6-6 / 210",
-    "Position": "F",
-    "Hometown": "Western Springs, Ill.",
-    "High School": "Lyons Township",
-    "Height": "6-6",
-    "Weight": "210",
-    "Height Inches": 78
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Western Springs, Ill.",
-    "lat": 41.8096132,
-    "lon": -87.900671,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

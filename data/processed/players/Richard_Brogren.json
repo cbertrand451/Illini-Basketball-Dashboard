@@ -4,13 +4,7 @@
   "seasons": [
     "1948-49"
   ],
-  "header": {
-    "First Name": "Richard",
-    "Last Name": "Brogren",
-    "Full Name": "Richard Brogren",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

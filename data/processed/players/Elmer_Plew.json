@@ -1,30 +1,18 @@
 {
   "name": "Elmer Plew",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/elmer-plew/5694",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/elmer-plew/5652",
   "seasons": [
     "1951-52",
     "1952-53",
     "1953-54",
     "1954-55"
   ],
-  "header": {
-    "Jersey Number": "9",
-    "First Name": "Elmer",
-    "Last Name": "Plew",
-    "Full Name": "Elmer Plew",
-    "Ht./Wt.": "6-0 / 170",
-    "Position": "G",
-    "Hometown": "Paris, Ill.",
-    "High School": "Paris",
-    "Height": "6-0",
-    "Weight": "170",
-    "Height Inches": 72
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Paris, Ill.",
-    "lat": 39.611146,
-    "lon": -87.6961374,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

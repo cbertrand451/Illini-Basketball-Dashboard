@@ -4,13 +4,7 @@
   "seasons": [
     "1994-95"
   ],
-  "header": {
-    "First Name": "John",
-    "Last Name": "Larson",
-    "Full Name": "John Larson",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

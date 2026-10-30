@@ -4,21 +4,12 @@
   "seasons": [
     "1944-45"
   ],
-  "header": {
-    "First Name": "Gordon",
-    "Last Name": "Hortin",
-    "Full Name": "Gordon Hortin",
-    "Ht./Wt.": "- /",
-    "Position": "G",
-    "Hometown": "Albion, Ill.",
-    "High School": "Albion",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Albion, Ill.",
-    "lat": 38.3775484,
-    "lon": -88.0561465,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

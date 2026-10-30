@@ -4,13 +4,7 @@
   "seasons": [
     "1950-51"
   ],
-  "header": {
-    "First Name": "Richard",
-    "Last Name": "Ems",
-    "Full Name": "Richard Ems",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

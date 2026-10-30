@@ -4,13 +4,7 @@
   "seasons": [
     "1954-55"
   ],
-  "header": {
-    "First Name": "Dick",
-    "Last Name": "Rapp",
-    "Full Name": "Dick Rapp",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

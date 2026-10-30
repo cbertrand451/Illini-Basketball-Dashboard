@@ -1,30 +1,18 @@
 {
   "name": "Stephen Bardo",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/stephen-bardo/5142",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/stephen-bardo/5083",
   "seasons": [
     "1986-87",
     "1987-88",
     "1988-89",
     "1989-90"
   ],
-  "header": {
-    "Jersey Number": "35",
-    "First Name": "Stephen",
-    "Last Name": "Bardo",
-    "Full Name": "Stephen Bardo",
-    "Ht./Wt.": "6-6 / 200",
-    "Position": "G/F",
-    "Hometown": "Carbondale, Ill.",
-    "High School": "Carbondale",
-    "Height": "6-6",
-    "Weight": "200",
-    "Height Inches": 78
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
-    "hometown": "Carbondale, Ill.",
-    "lat": 37.7274692,
-    "lon": -89.216655,
-    "is_illinois": true
+    "hometown": null,
+    "lat": null,
+    "lon": null,
+    "is_illinois": false
   }
 }

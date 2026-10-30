@@ -1,17 +1,11 @@
 {
   "name": "Derrick Thomas",
-  "url": "https://fightingillini.com/sports/mens-basketball/roster/derrick-thomas/4999",
+  "url": "https://fightingillini.com/sports/mens-basketball/roster/derrick-thomas/4979",
   "seasons": [
     "1993-94",
     "1994-95"
   ],
-  "header": {
-    "First Name": "Derrick",
-    "Last Name": "Thomas",
-    "Full Name": "Derrick Thomas",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

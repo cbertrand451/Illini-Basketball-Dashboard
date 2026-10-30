@@ -4,13 +4,7 @@
   "seasons": [
     "1991-92"
   ],
-  "header": {
-    "First Name": "Brent",
-    "Last Name": "Versendaal",
-    "Full Name": "Brent Versendaal",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

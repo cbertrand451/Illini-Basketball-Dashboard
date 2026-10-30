@@ -4,13 +4,7 @@
   "seasons": [
     "1989-90"
   ],
-  "header": {
-    "First Name": "Brian",
-    "Last Name": "Schmitz",
-    "Full Name": "Brian Schmitz",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

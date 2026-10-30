@@ -4,13 +4,7 @@
   "seasons": [
     "1987-88"
   ],
-  "header": {
-    "First Name": "Ron",
-    "Last Name": "Trice",
-    "Full Name": "Ron Trice",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,

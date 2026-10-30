@@ -4,13 +4,7 @@
   "seasons": [
     "1995-96"
   ],
-  "header": {
-    "First Name": "Brian",
-    "Last Name": "Begley",
-    "Full Name": "Brian Begley",
-    "Ht./Wt.": "- /",
-    "Height": "-"
-  },
+  "header": {},
   "action photos": [],
   "geocode": {
     "hometown": null,
