@@ -104,6 +104,30 @@ Notes:
 - `end_year=None` auto-selects the latest season based on a May 1 season rollover.
 - `do_geocode=True` will attempt geocoding for hometowns and can be toggled off if you want a faster run.
 
+### Full-build data protection
+
+`python scrapers/full_data_build.py` now copies the saved datasets to a temporary
+build directory. Scraping, profile updates, geocoding, and team-file generation
+run against that copy. The live files are updated only after all required steps
+and final validation succeed. Failed downloads or invalid HTML leave the live
+datasets unchanged, including the player index, statistics, profiles, and gallery.
+Statistics updates retain historical rows and saved cells omitted by a response;
+empty downloads and shrinking history tables are rejected.
+
+Before publishing changed files, the build saves a recovery snapshot under
+`data/.build-backups/full-build-.../` and prints that path in its summary. Normal
+write failures or Ctrl+C during publication trigger rollback. A hard process kill
+or power loss during publication may require manual recovery: restore the chosen
+snapshot's `processed/` files to `data/processed/` and its gallery index under
+`images/` to `data/images/`. Backups remain local and are ignored by Git; remove
+older snapshots only when you no longer need them.
+
+Only one full build can run at a time. A stale `data/.full-data-build.lock` after
+a forced termination must be removed only after confirming that build has
+stopped. The build also refuses to publish if saved data changes while it is
+scraping. These protections prevent data loss; they do not make an unsupported
+source layout scrape successfully.
+
 ### Roster download safeguards
 
 Both the full build and `scrapers/roster_index_scraper.py` validate player bio

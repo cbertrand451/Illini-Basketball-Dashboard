@@ -2,3 +2,6 @@ scratch.ipynb
 info.txt
 __pycache__/
 data/**/*.json.bak
+data/.build-backups/
+data/.full-build-*/
+data/.full-data-build.lock

@@ -1,6 +1,7 @@
 import json
 import os
 import re
+from pathlib import Path
 from datetime import datetime
 from typing import Dict, Any, List, Tuple, Optional
 
@@ -10,6 +11,7 @@ import pandas as pd
 
 # Share roster parsing and overwrite safeguards with the standalone index builder.
 if __package__:
+    from .build_transaction import staged_build
     from .player_bio_scraper import (
         player_scrape_header_info, build_player_bio_files as build_player_metadata_files,
     )
@@ -17,6 +19,7 @@ if __package__:
         build_player_index, scrape_rosters, scrape_season_player_index,
     )
 else:
+    from build_transaction import staged_build
     from player_bio_scraper import (
         player_scrape_header_info, build_player_bio_files as build_player_metadata_files,
     )
@@ -143,9 +146,10 @@ def scrape_season_stats_w_players(
 ) -> Tuple[pd.DataFrame, pd.DataFrame, Tuple[Any, Any]]:
     """Scrape season team + player stats from Fighting Illini site."""
     url = f"https://fightingillini.com/sports/mens-basketball/stats/{season}"
-    res = requests.get(url)
-    if res.status_code != 200:
+    res = requests.get(url, timeout=30)
+    if res.status_code == 404:
         return pd.DataFrame(), pd.DataFrame(), (None, None)
+    res.raise_for_status()
 
     soup = BeautifulSoup(res.text, "html.parser")
 
@@ -410,9 +414,11 @@ def update_season_stats_csv(output_path: str, start_year: int, end_year: int, ve
             ).reset_index()
             season_dfs.append(fixed_team)
     if not season_dfs:
-        return pd.DataFrame()
+        raise ValueError("No season statistics downloaded; saved statistics were not replaced")
     df_seasons = pd.concat(season_dfs, ignore_index=True)
     df_seasons = add_season_start_year_column(df_seasons)
+    if os.path.exists(output_path):
+        df_seasons = _merge_stats(pd.read_csv(output_path), df_seasons, ["Season", "Team"])
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
     df_seasons.to_csv(output_path, index=False)
     return df_seasons
@@ -422,16 +428,13 @@ def update_mbb_history_csv_files(output_dir: str, verbose: bool = False) -> Dict
     """Scrape mens basketball history tables and write each to a CSV file."""
     url = "https://fightingillini.com/sports/2021/4/30/mens-basketball-history"
     _log(f"Fetching history tables page: {url}", verbose)
-    res = requests.get(url)
-    if res.status_code != 200:
-        _log("Mens basketball history tables page not available; skipping CSV export.", verbose)
-        return {}
+    res = requests.get(url, timeout=30)
+    res.raise_for_status()
 
     soup = BeautifulSoup(res.text, "html.parser")
     tables = soup.find_all("table", class_="release")
     if not tables:
-        _log("No history tables found; skipping CSV export.", verbose)
-        return {}
+        raise ValueError("No recognizable history tables; saved history was not replaced")
 
     os.makedirs(output_dir, exist_ok=True)
     outputs: Dict[str, str] = {}
@@ -463,12 +466,20 @@ def update_mbb_history_csv_files(output_dir: str, verbose: bool = False) -> Dict
             df.columns = df.iloc[0]
             df = df[1:].reset_index(drop=True)
 
+        if df.empty:
+            raise ValueError(f"Empty history table {title!r}; saved history was not replaced")
         fname = f"{_safe_filename(title)}.csv"
         out_path = os.path.join(output_dir, fname)
+        if os.path.exists(out_path):
+            previous = pd.read_csv(out_path)
+            if len(df) < len(previous) or not set(previous.columns).issubset(map(str, df.columns)):
+                raise ValueError(f"History table {title!r} lost rows or columns; refusing to replace it")
         df.to_csv(out_path, index=False)
         outputs[title] = out_path
         _log(f"Wrote history CSV: {out_path}", verbose)
 
+    if not outputs:
+        raise ValueError("No usable history tables; saved history was not replaced")
     return outputs
 
 
@@ -519,9 +530,44 @@ def build_player_stats_files(
             continue
         fixed = fixed.drop(columns=["#", "Bio Link"], errors="ignore")
         out_path = os.path.join(output_dir, f"{season}.csv")
+        if os.path.exists(out_path):
+            fixed = _merge_stats(pd.read_csv(out_path), fixed, ["Player"])
         fixed.to_csv(out_path, index=False)
         written.append(season)
+    if not written:
+        raise ValueError("No player statistics downloaded; saved player statistics were not replaced")
     return written
+
+
+def _merge_stats(previous: pd.DataFrame, fresh: pd.DataFrame, keys: List[str]) -> pd.DataFrame:
+    """Keep downloaded rows and cells when a response omits old statistics."""
+    fresh = fresh.replace(r"^\s*$", pd.NA, regex=True)
+    if fresh.empty or any(key not in fresh for key in keys):
+        raise ValueError(f"Incomplete statistics: expected {keys}")
+    if fresh[keys].isna().any().any():
+        raise ValueError(f"Statistics contain empty row identifiers: {keys}")
+    if previous.empty:
+        return fresh
+    if any(key not in previous for key in keys):
+        raise ValueError(f"Invalid saved statistics: expected {keys}")
+    if previous.duplicated(keys).any() or fresh.duplicated(keys).any():
+        raise ValueError(f"Duplicate statistic rows for {keys}")
+    return fresh.set_index(keys).combine_first(previous.set_index(keys)).reset_index()
+
+
+def _validate_build(processed: Path) -> None:
+    with (processed / "player_list.json").open(encoding="utf-8") as handle:
+        players = json.load(handle)
+    if not players:
+        raise ValueError("The build produced no players")
+    for name, info in players.items():
+        with (processed / "players" / info[2]).open(encoding="utf-8") as handle:
+            profile = json.load(handle)
+        if not (profile.get("header") or {}).get("Full Name"):
+            raise ValueError(f"The build produced an empty profile for {name}")
+    stats = pd.read_csv(processed / "season_stats.csv")
+    if stats.empty or not {"Season", "Team"}.issubset(stats.columns):
+        raise ValueError("The build produced no usable season statistics")
 
 
 def build_all(
@@ -530,51 +576,67 @@ def build_all(
     do_geocode: bool = True,
     verbose: bool = False,
 ):
-    """Run the full build and return a summary dict."""
-    os.makedirs(DATA_DIR, exist_ok=True)
-    if end_year is None:
-        end_year = _default_end_year()
+    """Stage the entire refresh; publish only after every required step succeeds.
 
+    Download or validation failures leave all live datasets unchanged. Publishing
+    retains a snapshot in data/.build-backups and rolls back normal write errors.
+    """
+    end_year = _default_end_year() if end_year is None else end_year
+    if start_year >= end_year:
+        raise ValueError("start_year must be less than end_year")
+    with staged_build(DATA_DIR) as workspace:
+        try:
+            summary = _build_in_workspace(workspace, start_year, end_year, do_geocode, verbose)
+            _validate_build(workspace.processed)
+        except Exception as error:
+            error.add_note("Full build stopped before publication. Saved datasets were not changed.")
+            raise
+    if workspace.backup is not None:
+        summary["backup_path"] = str(workspace.backup)
+    return summary
+
+
+def _build_in_workspace(workspace, start_year, end_year, do_geocode, verbose):
     _log("Starting full build.", verbose)
     player_index = build_player_index(
-        output_path=os.path.join(DATA_DIR, "player_list.json"),
+        output_path=os.path.join(str(workspace.processed), "player_list.json"),
         start_year=start_year,
         end_year=end_year,
         verbose=verbose,
     )
     season_stats = update_season_stats_csv(
-        output_path=os.path.join(DATA_DIR, "season_stats.csv"),
+        output_path=os.path.join(str(workspace.processed), "season_stats.csv"),
         start_year=start_year,
         end_year=end_year,
         verbose=verbose,
     )
     history_csvs = update_mbb_history_csv_files(
-        os.path.join(DATA_DIR, "mbb_history_csv"),
+        os.path.join(str(workspace.processed), "mbb_history_csv"),
         verbose=verbose,
     )
     player_meta_files = build_player_metadata_files(
-        player_list_path=os.path.join(DATA_DIR, "player_list.json"),
-        output_dir=os.path.join(DATA_DIR, "players"),
+        player_list_path=os.path.join(str(workspace.processed), "player_list.json"),
+        output_dir=os.path.join(str(workspace.processed), "players"),
         do_geocode=do_geocode,
         verbose=verbose,
+        images_dir=str(workspace.images),
     )
     geocode_enriched = 0
     if do_geocode:
-        try:
+        if __package__:
+            from .geocode_enrichment import enrich_player_geocodes
+        else:
             from geocode_enrichment import enrich_player_geocodes
-        except Exception:
-            enrich_player_geocodes = None
-        if enrich_player_geocodes:
-            geocode_enriched = len(
-                enrich_player_geocodes(os.path.join(DATA_DIR, "players"), verbose=verbose)
-            )
+        geocode_enriched = len(
+            enrich_player_geocodes(os.path.join(str(workspace.processed), "players"), verbose=verbose)
+        )
     team_season_files = build_team_season_files(
-        season_stats_csv=os.path.join(DATA_DIR, "season_stats.csv"),
-        output_dir=os.path.join(DATA_DIR, "teams"),
+        season_stats_csv=os.path.join(str(workspace.processed), "season_stats.csv"),
+        output_dir=os.path.join(str(workspace.processed), "teams"),
         verbose=verbose,
     )
     player_stats_files = build_player_stats_files(
-        output_dir=os.path.join(DATA_DIR, "player_stats"),
+        output_dir=os.path.join(str(workspace.processed), "player_stats"),
         start_year=start_year,
         end_year=end_year,
         verbose=verbose,
