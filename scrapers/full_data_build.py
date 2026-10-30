@@ -8,6 +8,16 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
+# Share roster parsing and overwrite safeguards with the standalone index builder.
+if __package__:
+    from .roster_index_scraper import (
+        build_player_index, scrape_rosters, scrape_season_player_index,
+    )
+else:
+    from roster_index_scraper import (
+        build_player_index, scrape_rosters, scrape_season_player_index,
+    )
+
 try:
     from geopy.geocoders import Nominatim  
 except Exception:
@@ -120,134 +130,6 @@ def _geocode_hometown(
 
     cache[cache_key] = (lat, lon)
     return {"hometown": hometown, "lat": lat, "lon": lon, "is_illinois": is_illinois}
-
-
-def scrape_rosters(output_path: str, verbose: bool = False) -> Dict[str, List[Any]]:
-    """
-    Scrape roster list and write player_list.json.
-    Returns a dict: {player_name: [url, [seasons...]]}
-    """
-    url = "https://fightingillini.com/sports/mens-basketball/roster"
-    _log(f"Scraping roster page: {url}", verbose)
-    res = requests.get(url)
-    res.raise_for_status()
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    players: Dict[str, List[Any]] = {}
-    roster_cards = soup.select("li.sidearm-roster-player")
-    for card in roster_cards:
-        name_tag = card.select_one(".sidearm-roster-player-name a")
-        if not name_tag:
-            continue
-        name = name_tag.get_text(strip=True)
-        href = name_tag.get("href", "")
-        if href and href.startswith("/"):
-            href = f"https://fightingillini.com{href}"
-
-        # Attempt to read class/year as a proxy for season list if present.
-        # This is a placeholder; the player seasons list is rebuilt below using stats scraping.
-        players[name] = [href, []]
-
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(players, f, ensure_ascii=False, indent=2)
-
-    return players
-
-
-def scrape_season_player_index(season: str, verbose: bool = False) -> List[Tuple[str, str]]:
-    """Scrape player names + bio links from a season roster page."""
-    url = f"https://fightingillini.com/sports/mens-basketball/roster/{season}"
-    _log(f"Scraping season roster: {season}", verbose)
-    res = requests.get(url)
-    if res.status_code != 200:
-        return []
-
-    soup = BeautifulSoup(res.text, "html.parser")
-    roster_cards = soup.select("li.sidearm-roster-player")
-    results: List[Tuple[str, str]] = []
-    if roster_cards:
-        for card in roster_cards:
-            name_tag = card.select_one(".sidearm-roster-player-name a")
-            if not name_tag:
-                continue
-            name = name_tag.get_text(strip=True)
-            href = _absolute_url(name_tag.get("href", ""))
-            if name and href:
-                results.append((name, href))
-        return results
-
-    # Fallback: some seasons may render roster in a table.
-    table = soup.find("table")
-    if not table:
-        return []
-    for tr in table.find("tbody").find_all("tr"):
-        td = tr.find("td")
-        if not td:
-            continue
-        a = td.find("a")
-        if not a:
-            continue
-        raw_name = a.get_text(strip=True)
-        href = _absolute_url(a.get("href", ""))
-        if not raw_name or not href:
-            continue
-        if "," in raw_name:
-            last, first = raw_name.split(",", 1)
-            raw_name = f"{first.strip()} {last.strip()}"
-        results.append((raw_name, href))
-    return results
-
-
-def build_player_index(
-    output_path: str,
-    start_year: int,
-    end_year: int,
-    verbose: bool = False,
-) -> Dict[str, List[Any]]:
-    """Build player index from current roster + all season roster pages."""
-    players = scrape_rosters(output_path, verbose=verbose)
-
-    for season in _season_list(start_year, end_year):
-        season_players = scrape_season_player_index(season, verbose=verbose)
-        for player_name, url in season_players:
-            entry = players.get(player_name)
-            if entry is None:
-                players[player_name] = [url, [season]]
-                continue
-            if url and not entry[0]:
-                entry[0] = url
-            if season not in entry[1]:
-                entry[1].append(season)
-
-    for info in players.values():
-        seasons = info[1] if isinstance(info, list) and len(info) > 1 else None
-        if isinstance(seasons, list) and seasons:
-            seasons = list(dict.fromkeys(seasons))
-            info[1] = sorted(seasons, key=_season_sort_key)
-
-    for player_name, info in players.items():
-        if not isinstance(info, list):
-            continue
-        player_file = _safe_filename(player_name) + ".json"
-        if len(info) < 3:
-            info.append(player_file)
-        else:
-            info[2] = player_file
-
-    def _player_sort_key(item: Tuple[str, List[Any]]) -> Tuple[int, str]:
-        _, info = item
-        if not isinstance(info, list) or len(info) < 2 or not info[1]:
-            return (9999, item[0])
-        return (_season_sort_key(info[1][-1])[0], item[0])
-
-    players = dict(sorted(players.items(), key=_player_sort_key))
-
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(players, f, ensure_ascii=False, indent=2)
-
-    return players
 
 
 def player_scrape_header_info(

@@ -104,6 +104,28 @@ Notes:
 - `end_year=None` auto-selects the latest season based on a May 1 season rollover.
 - `do_geocode=True` will attempt geocoding for hometowns and can be toggled off if you want a faster run.
 
+### Roster download safeguards
+
+Both the full build and `scrapers/roster_index_scraper.py` validate player bio
+links before accepting roster entries. Ad links such as “Skip Ad” are rejected.
+An HTTP error or a page with fewer than five valid players stops the build before
+replacing the player index. A missing historical roster (404) is reported and its
+cached entries are retained.
+
+The index is merged with existing players and season memberships. A successful
+write saves the previous index to `data/processed/player_list.json.bak` and then
+replaces the index atomically. Keep this backup locally; do not include it in
+data-update commits. If validation fails, inspect the downloaded roster HTML and
+update the parser before retrying; rerunning unchanged commands will not repair
+a changed website layout. If the existing index is already corrupt, restore its
+last valid version from Git first.
+
+Run the roster safety tests without contacting the source website:
+
+```bash
+python -m unittest discover -s tests -v
+```
+
 ## Running the app
 - Ensure a Python environment with Streamlit, Pandas, and Plotly installed.
 - From the project root, run:

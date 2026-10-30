@@ -2,6 +2,10 @@ import argparse
 import json
 import os
 import re
+import shutil
+import tempfile
+from pathlib import Path
+from urllib.parse import urljoin, urlsplit
 from typing import Dict, Any, List, Tuple
 from datetime import datetime
 
@@ -57,75 +61,121 @@ def _absolute_url(href: str) -> str:
     return href
 
 
-def scrape_rosters(output_path: str, verbose: bool = False) -> Dict[str, List[Any]]:
-    """
-    Scrape roster list and write player_list.json.
-    Returns a dict: {player_name: [url, [seasons...]]}
-    """
+MIN_ROSTER_PLAYERS = 5
+
+
+def _player_link(name: str, href: str) -> bool:
+    """Only accept actual men's basketball bio links, never ad/navigation links."""
+    if not isinstance(name, str) or not isinstance(href, str):
+        return False
+    parsed = urlsplit(href)
+    return bool(
+        name.strip()
+        and " ".join(name.split()).casefold() != "skip ad"
+        and parsed.scheme in {"http", "https"}
+        and parsed.hostname in {"fightingillini.com", "www.fightingillini.com"}
+        and re.fullmatch(r"/sports/mens-basketball/roster/[^/]+/\d+/?", parsed.path)
+        and not parsed.fragment
+    )
+
+
+def _parse_roster(html: str) -> List[Tuple[str, str]]:
+    soup = BeautifulSoup(html, "html.parser")
+    results = {}
+    # The first table may be an advertisement. Search roster bio links in all
+    # tables instead, and require the sport-specific profile URL in every layout.
+    links = soup.select(".sidearm-roster-player-name a, table a[href]")
+    for link in links:
+        name = link.get_text(" ", strip=True)
+        href = urljoin("https://fightingillini.com", link.get("href", ""))
+        if not _player_link(name, href):
+            continue
+        if "," in name:
+            last, first = name.split(",", 1)
+            name = f"{first.strip()} {last.strip()}"
+        results[name] = href
+    return list(results.items())
+
+
+def _fetch_roster(url: str, allow_missing: bool = False) -> List[Tuple[str, str]]:
+    response = requests.get(url, timeout=30)
+    if allow_missing and response.status_code == 404:
+        return []
+    response.raise_for_status()
+    players = _parse_roster(response.text)
+    if len(players) < MIN_ROSTER_PLAYERS:
+        raise ValueError(
+            f"Refusing roster from {url}: found only {len(players)} valid player "
+            "bio links. The site may have changed its HTML or returned an ad/"
+            "error page. Existing player data has not been replaced."
+        )
+    return players
+
+
+def _read_player_index(output_path: str) -> Dict[str, List[Any]]:
+    if not os.path.exists(output_path):
+        return {}
+    with open(output_path, encoding="utf-8") as handle:
+        players = json.load(handle)
+    if not isinstance(players, dict):
+        raise ValueError(f"Invalid cached player index: {output_path}")
+    for name, info in players.items():
+        if (not isinstance(info, list) or len(info) < 2
+                or not isinstance(info[1], list) or not _player_link(name, info[0])):
+            raise ValueError(
+                f"Invalid cached player entry {name!r} in {output_path}. "
+                "Restore the last valid index from Git before rebuilding."
+            )
+    return players
+
+
+def _write_player_index(output_path: str, players: Dict[str, List[Any]]) -> None:
+    """Validate before writing; keep a backup and atomically replace the index."""
+    existing = _read_player_index(output_path)
+    missing = existing.keys() - players.keys()
+    if not players or missing:
+        raise ValueError("Refusing to overwrite the index with empty or incomplete player data")
+    for name, info in players.items():
+        if not _player_link(name, info[0]):
+            raise ValueError(f"Refusing invalid player entry: {name!r}")
+    path = Path(output_path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = None
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w", encoding="utf-8", dir=path.parent, delete=False
+        ) as handle:
+            temporary = Path(handle.name)
+            json.dump(players, handle, ensure_ascii=False, indent=2)
+        if path.exists():
+            shutil.copy2(path, str(path) + ".bak")
+        os.replace(temporary, path)
+    finally:
+        if temporary is not None:
+            temporary.unlink(missing_ok=True)
+
+
+def scrape_rosters(output_path: str = None, verbose: bool = False) -> Dict[str, List[Any]]:
+    """Fetch the current roster; optionally save without dropping cached players."""
     url = "https://fightingillini.com/sports/mens-basketball/roster"
     _log(f"Scraping roster page: {url}", verbose)
-    res = requests.get(url)
-    res.raise_for_status()
-    soup = BeautifulSoup(res.text, "html.parser")
-
-    players: Dict[str, List[Any]] = {}
-    roster_cards = soup.select("li.sidearm-roster-player")
-    for card in roster_cards:
-        name_tag = card.select_one(".sidearm-roster-player-name a")
-        if not name_tag:
-            continue
-        name = name_tag.get_text(strip=True)
-        href = _absolute_url(name_tag.get("href", ""))
-        players[name] = [href, []]
-
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(players, f, ensure_ascii=False, indent=2)
-
+    roster = _fetch_roster(url)
+    players = _read_player_index(output_path) if output_path is not None else {}
+    for name, href in roster:
+        if name in players:
+            players[name][0] = href
+        else:
+            players[name] = [href, [], _safe_filename(name) + ".json"]
+    if output_path is not None:
+        _write_player_index(output_path, players)
     return players
 
 
 def scrape_season_player_index(season: str, verbose: bool = False) -> List[Tuple[str, str]]:
-    """Scrape player names + bio links from a season roster page."""
+    """Read a season roster; reject unrecognized HTML instead of scraping ads."""
     url = f"https://fightingillini.com/sports/mens-basketball/roster/{season}"
     _log(f"Scraping season roster: {season}", verbose)
-    res = requests.get(url)
-    if res.status_code != 200:
-        return []
-
-    soup = BeautifulSoup(res.text, "html.parser")
-    roster_cards = soup.select("li.sidearm-roster-player")
-    results: List[Tuple[str, str]] = []
-    if roster_cards:
-        for card in roster_cards:
-            name_tag = card.select_one(".sidearm-roster-player-name a")
-            if not name_tag:
-                continue
-            name = name_tag.get_text(strip=True)
-            href = _absolute_url(name_tag.get("href", ""))
-            if name and href:
-                results.append((name, href))
-        return results
-
-    table = soup.find("table")
-    if not table:
-        return []
-    for tr in table.find("tbody").find_all("tr"):
-        td = tr.find("td")
-        if not td:
-            continue
-        a = td.find("a")
-        if not a:
-            continue
-        raw_name = a.get_text(strip=True)
-        href = _absolute_url(a.get("href", ""))
-        if not raw_name or not href:
-            continue
-        if "," in raw_name:
-            last, first = raw_name.split(",", 1)
-            raw_name = f"{first.strip()} {last.strip()}"
-        results.append((raw_name, href))
-    return results
+    return _fetch_roster(url, allow_missing=True)
 
 
 def build_player_index(
@@ -134,52 +184,39 @@ def build_player_index(
     end_year: int,
     verbose: bool = False,
 ) -> Dict[str, List[Any]]:
-    """Build player index from current roster + all season roster pages."""
-    _log("Starting roster index build.", verbose)
-    players = scrape_rosters(output_path, verbose=verbose)
-    _log(f"Found {len(players)} players on current roster.", verbose)
+    """Merge validated rosters into the cached index and save only on success.
 
+    Unavailable historical seasons (404) retain their downloaded entries. Other
+    HTTP failures and suspicious/empty HTML abort before the index is written.
+    """
+    if start_year >= end_year:
+        raise ValueError("start_year must be less than end_year")
+    players = _read_player_index(output_path)
+    current = scrape_rosters(verbose=verbose)
     for season in _season_list(start_year, end_year):
-        season_players = scrape_season_player_index(season, verbose=verbose)
-        if season_players:
-            _log(f"Season {season}: {len(season_players)} players.", verbose)
-        for player_name, url in season_players:
-            entry = players.get(player_name)
-            if entry is None:
-                players[player_name] = [url, [season]]
-                continue
-            if url and not entry[0]:
-                entry[0] = url
-            if season not in entry[1]:
-                entry[1].append(season)
-
-    for info in players.values():
-        seasons = info[1] if isinstance(info, list) and len(info) > 1 else None
-        if isinstance(seasons, list) and seasons:
-            seasons = list(dict.fromkeys(seasons))
-            info[1] = sorted(seasons, key=_season_sort_key)
-
-    for player_name, info in players.items():
-        if not isinstance(info, list):
-            continue
-        player_file = _safe_filename(player_name) + ".json"
-        if len(info) < 3:
-            info.append(player_file)
+        roster = scrape_season_player_index(season, verbose=verbose)
+        if not roster:
+            print(f"Warning: roster {season} unavailable (404); retaining cached entries.")
+        for name, url in roster:
+            if name not in players:
+                players[name] = [url, [], _safe_filename(name) + ".json"]
+            if season not in players[name][1]:
+                players[name][1].append(season)
+            players[name][0] = url
+    # Prefer current bio URLs over links from earlier seasons.
+    for name, info in current.items():
+        if name not in players:
+            players[name] = info
         else:
-            info[2] = player_file
-
-    def _player_sort_key(item: Tuple[str, List[Any]]) -> Tuple[int, str]:
-        _, info = item
-        if not isinstance(info, list) or len(info) < 2 or not info[1]:
-            return (9999, item[0])
-        return (_season_sort_key(info[1][-1])[0], item[0])
-
-    players = dict(sorted(players.items(), key=_player_sort_key))
-
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(players, f, ensure_ascii=False, indent=2)
-
+            players[name][0] = info[0]
+    for name, info in players.items():
+        info[1] = sorted(set(info[1]), key=_season_sort_key)
+        if len(info) < 3:
+            info.append(_safe_filename(name) + ".json")
+    players = dict(sorted(players.items(), key=lambda item: (
+        _season_sort_key(item[1][1][-1])[0] if item[1][1] else 9999, item[0]
+    )))
+    _write_player_index(output_path, players)
     _log(f"Wrote player index: {output_path} ({len(players)} players).", verbose)
     return players
 
